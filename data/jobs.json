@@ -33,17 +33,6 @@
     "date_discovered": "2026-09-09T20:10:52.949204+00:00"
   },
   {
-    "id": 7968019,
-    "company_display": "Gemini",
-    "title": "Junior Brand Designer (Social)",
-    "location": "New York",
-    "url": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=7955267&gh_jid=7955267",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": "2026-07-30T16:55:02+00:00",
-    "date_discovered": "2026-09-09T22:01:03.411725+00:00"
-  },
-  {
     "id": 7969498,
     "company_display": "Scopely",
     "title": "Intern - Game Design (Slot)",
@@ -231,6 +220,17 @@
     "date_discovered": "2026-09-10T01:46:05.294824+00:00"
   },
   {
+    "id": 8007845,
+    "company_display": "Procter & Gamble",
+    "title": "Design Co-op Spring 2027",
+    "location": "CINCINNATI, Ohio, USA",
+    "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Design-Co-op-Spring-2027_R000156511/apply",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-07-31T00:00:00+00:00",
+    "date_discovered": "2026-09-10T01:46:20.327577+00:00"
+  },
+  {
     "id": 8007883,
     "company_display": "Duke Energy",
     "title": "Design Thinking Facilitation Internship - Summer 2027",
@@ -317,17 +317,6 @@
     "country": "us",
     "updated_at": "2026-09-09T00:00:00+00:00",
     "date_discovered": "2026-09-10T14:02:13.657015+00:00"
-  },
-  {
-    "id": 8051846,
-    "company_display": "Marsh McLennan",
-    "title": "Lippincott - Design Intern",
-    "location": "New York, USA",
-    "url": "https://mmc.wd1.myworkdayjobs.com/MMC/job/New-York---499-Park/Lippincott---Design-Intern_R_361604/apply",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-08-07T00:00:00+00:00",
-    "date_discovered": "2026-09-10T14:03:17.002340+00:00"
   },
   {
     "id": 8063962,
@@ -792,6 +781,17 @@
     "date_discovered": "2026-09-15T11:36:39.433424+00:00"
   },
   {
+    "id": 9864664,
+    "company_display": "Raytheon",
+    "title": "Test Equipment Design Intern (Onsite)",
+    "location": "US-CT-EAST HARTFORD-J ~ 400 Main St ~ BLDG J",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-J--400-Main-St--BLDG-J/Test-Equipment-Design-Intern--Onsite-_01870628",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-15T19:05:47.113393+00:00",
+    "date_discovered": "2026-09-15T19:07:30.310045+00:00"
+  },
+  {
     "id": 10125839,
     "company_display": "Macys",
     "title": "Assistant Designer",
@@ -922,17 +922,6 @@
     "country": "international",
     "updated_at": "2026-09-20T00:08:58.827279+00:00",
     "date_discovered": "2026-09-20T00:09:39.427273+00:00"
-  },
-  {
-    "id": 11963671,
-    "company_display": "Edelman",
-    "title": "Design Intern",
-    "location": "Hong Kong",
-    "url": "https://djeholdings.wd5.myworkdayjobs.com/en-US/edelman-careers-E200/job/Hong-Kong/Design-Intern_JR103415",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-21T05:10:32.892626+00:00",
-    "date_discovered": "2026-09-21T05:11:40.207546+00:00"
   },
   {
     "id": 12069756,
@@ -1120,5 +1109,115 @@
     "country": null,
     "updated_at": "2026-09-22T21:11:07.430090+00:00",
     "date_discovered": "2026-09-22T21:12:45.874329+00:00"
+  },
+  {
+    "id": 12948096,
+    "company_display": "Fortive",
+    "title": "Intern - Project Assistant (Technical Documentation Designer)",
+    "location": "Shanghai, China",
+    "url": "https://fortive.eightfold.ai/careers/job/893397808666",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-09-23T04:12:11.963764+00:00"
+  },
+  {
+    "id": 13061678,
+    "company_display": "Symbotic",
+    "title": "Intern - User Experience",
+    "location": "USA Wilmington, MA - HQ",
+    "url": "https://symbotic.wd504.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Intern---User-Experience_R7968",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-23T13:17:56.743095+00:00",
+    "date_discovered": "2026-09-23T13:18:20.740607+00:00"
+  },
+  {
+    "id": 13105301,
+    "company_display": "ABB",
+    "title": "Graphic Design & Illustration Intern (UX/UI Team)",
+    "location": "Krakow, Lesser Poland, Poland",
+    "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Krakow-Lesser-Poland-Poland/Graphic-Design---Illustration-Intern--UX-UI-Team-_JR00048435/apply",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-23T00:00:00+00:00",
+    "date_discovered": "2026-09-23T14:54:14.424719+00:00"
+  },
+  {
+    "id": 13105302,
+    "company_display": "ABB",
+    "title": "Student Internship - UX Designer",
+    "location": "Krakow, Lesser Poland, Poland",
+    "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Krakow-Lesser-Poland-Poland/Student-Internship---UX-Designer_JR00048119-1/apply",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-23T00:00:00+00:00",
+    "date_discovered": "2026-09-23T14:54:14.428626+00:00"
+  },
+  {
+    "id": 13123268,
+    "company_display": "Emcor-Group",
+    "title": "Graphic Design Co-op - Spring 2027",
+    "location": "US-OH-Cincinnati",
+    "url": "https://careers-emcorgroup.icims.com/jobs/51857/graphic-design-co-op---spring-2027/job",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-09-23T15:31:09.109265+00:00"
+  },
+  {
+    "id": 13127534,
+    "company_display": "Amazon",
+    "title": "UX Designer Intern, AUTA",
+    "location": "Mexico City, MEX",
+    "url": "https://www.amazon.jobs/en/jobs/10553923/ux-designer-intern-auta",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-18T15:19:13.249279+00:00",
+    "date_discovered": "2026-09-23T15:40:34.624149+00:00"
+  },
+  {
+    "id": 13127884,
+    "company_display": "Amazon",
+    "title": "UX Designer I, EU INTech Partner Growth Experience",
+    "location": "Bengaluru, Karnataka, IND",
+    "url": "https://www.amazon.jobs/en/jobs/10431190/ux-designer-i-eu-intech-partner-growth-experience",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-08-24T15:37:57.498532+00:00",
+    "date_discovered": "2026-09-23T15:40:35.825199+00:00"
+  },
+  {
+    "id": 13131638,
+    "company_display": "L3Harris",
+    "title": "Intern, Design",
+    "location": "Fort Wayne, IN",
+    "url": "https://careers.l3harris.com/en/job/fort-wayne/intern-design/4832/101037353840",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-09-23T15:58:01.649474+00:00"
+  },
+  {
+    "id": 13137718,
+    "company_display": "Medtronic",
+    "title": "Design Quality Engineer I",
+    "location": "North Haven, Connecticut, USA",
+    "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/North-Haven-Connecticut-United-States-of-America/Design-Quality-Engineer-I_R78113-1",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-09-21T16:04:24.159172+00:00",
+    "date_discovered": "2026-09-23T16:04:51.577934+00:00"
+  },
+  {
+    "id": 13266611,
+    "company_display": "Procter & Gamble",
+    "title": "Design Co-op Summer 2027",
+    "location": "CINCINNATI, Ohio, USA",
+    "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Design-Co-op-Summer-2027_R000159711/apply",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-23T00:00:00+00:00",
+    "date_discovered": "2026-09-23T21:48:14.999571+00:00"
   }
 ]
