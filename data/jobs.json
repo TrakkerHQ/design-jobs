@@ -517,6 +517,17 @@
     "date_discovered": "2026-09-12T07:42:26.103366+00:00"
   },
   {
+    "id": 9139003,
+    "company_display": "Oshkosh",
+    "title": "Design Intern - Summer 2027",
+    "location": "New Hudson, Michigan, USA",
+    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/New-Hudson-Michigan-United-States/Design-Intern---Summer-2027_R50274/apply",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-13T00:00:00+00:00",
+    "date_discovered": "2026-09-14T00:39:53.782795+00:00"
+  },
+  {
     "id": 9143867,
     "company_display": "Hpe",
     "title": "L&D Design & Development Graduate",
@@ -1188,17 +1199,6 @@
     "date_discovered": "2026-09-24T14:36:52.175932+00:00"
   },
   {
-    "id": 13593090,
-    "company_display": "JPMorgan",
-    "title": "Product Designer \u2013 Private Bank Digital, Early Career",
-    "location": "New York, NY, USA",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210794454",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": "2026-09-24T00:00:00+00:00",
-    "date_discovered": "2026-09-24T15:12:16.222926+00:00"
-  },
-  {
     "id": 13706014,
     "company_display": "Cummins",
     "title": "Product Systems Design - Summer Internship Positions",
@@ -1219,5 +1219,38 @@
     "country": "us",
     "updated_at": "2026-09-24T00:00:00+00:00",
     "date_discovered": "2026-09-24T19:40:24.897304+00:00"
+  },
+  {
+    "id": 13892309,
+    "company_display": "L3Harris",
+    "title": "Associate, Multimedia Web Developer/Programmer (Technical Training)",
+    "location": "Rochester, NY",
+    "url": "https://careers.l3harris.com/en/job/rochester/associate-multimedia-web-developer-programmer-technical-training/4832/100033500048",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-09-25T02:25:46.231164+00:00"
+  },
+  {
+    "id": 13926300,
+    "company_display": "Fox",
+    "title": "Spring 2027 FOX News Media Internship Program - Graphic Design - New York",
+    "location": "New York, USA",
+    "url": "https://fox.wd1.myworkdayjobs.com/en-US/Domestic/job/New-York-New-York-USA/Spring-2027-FOX-News-Media-Internship-Program---Graphic-Design---New-York_R50033952-1",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-25T04:11:51.566171+00:00",
+    "date_discovered": "2026-09-25T04:11:56.215935+00:00"
+  },
+  {
+    "id": 13927488,
+    "company_display": "Trane-Technologies",
+    "title": "Designer 1",
+    "location": "Lexington, Kentucky, USA",
+    "url": "https://tranetechnologies.wd12.myworkdayjobs.com/Trane_Technologies_Careers/job/Lexington-Kentucky/Designer-1_JR-13001-1/apply",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-09-24T00:00:00+00:00",
+    "date_discovered": "2026-09-25T04:13:28.673230+00:00"
   }
 ]
