@@ -825,17 +825,6 @@
     "date_discovered": "2026-09-18T16:08:15.226000+00:00"
   },
   {
-    "id": 11289390,
-    "company_display": "Disney",
-    "title": "Global Security Design & Engineering Intern, Spring 2027",
-    "location": "Glendale, CA, USA",
-    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Global-Security-Design---Engineering-Intern--Spring-2027_10160013",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-18T18:37:08.983004+00:00",
-    "date_discovered": "2026-09-18T18:38:13.373561+00:00"
-  },
-  {
     "id": 11295276,
     "company_display": "Vertiv",
     "title": "UX Design Intern (Summer 2027)",
@@ -1067,17 +1056,6 @@
     "date_discovered": "2026-09-22T21:12:45.874329+00:00"
   },
   {
-    "id": 12948096,
-    "company_display": "Fortive",
-    "title": "Intern - Project Assistant (Technical Documentation Designer)",
-    "location": "Shanghai, China",
-    "url": "https://fortive.eightfold.ai/careers/job/893397808666",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-23T04:12:11.963764+00:00"
-  },
-  {
     "id": 13061678,
     "company_display": "Symbotic",
     "title": "Intern - User Experience",
@@ -1142,17 +1120,6 @@
     "country": "international",
     "updated_at": "2026-08-24T15:37:57.498532+00:00",
     "date_discovered": "2026-09-23T15:40:35.825199+00:00"
-  },
-  {
-    "id": 13131638,
-    "company_display": "L3Harris",
-    "title": "Intern, Design",
-    "location": "Fort Wayne, IN",
-    "url": "https://careers.l3harris.com/en/job/fort-wayne/intern-design/4832/101037353840",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-23T15:58:01.649474+00:00"
   },
   {
     "id": 13266611,
@@ -1406,5 +1373,137 @@
     "country": "international",
     "updated_at": "2026-08-28T22:18:04.801828+00:00",
     "date_discovered": "2026-09-27T22:29:14.719469+00:00"
+  },
+  {
+    "id": 14875624,
+    "company_display": "Philips",
+    "title": "Intern - Product Design - Bothell, WA - Summer 2027",
+    "location": "Bothell, Washington, USA",
+    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bothell-Washington-United-States/Intern---Product-Design---Bothell--WA---Summer-2027_582008/apply?source=Philips_Career_Site",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-28T00:00:00+00:00",
+    "date_discovered": "2026-09-28T02:41:22.653308+00:00"
+  },
+  {
+    "id": 14909089,
+    "company_display": "Fox",
+    "title": "Summer 2027 FOX News Media Internship Program - Graphic Design - New York",
+    "location": "New York, USA",
+    "url": "https://fox.wd1.myworkdayjobs.com/en-US/Domestic/job/New-York-New-York-USA/Summer-2027-FOX-News-Media-Internship-Program---Graphic-Design---New-York_R50033985",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-28T04:07:14.635057+00:00",
+    "date_discovered": "2026-09-28T04:07:56.936334+00:00"
+  },
+  {
+    "id": 14977833,
+    "company_display": "Ingram Micro",
+    "title": "Graphic Design Intern",
+    "location": "Santander, Spain",
+    "url": "https://ingrammicro.wd5.myworkdayjobs.com/en-US/IngramMicro/job/Santander-Spain/Graphic-Design-Intern_R-117684",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-28T08:09:19.067078+00:00",
+    "date_discovered": "2026-09-28T08:10:16.099844+00:00"
+  },
+  {
+    "id": 15028465,
+    "company_display": "Schneider-Electric",
+    "title": "Engineer I, Electrical Systems Design",
+    "location": "Vadodara, India",
+    "url": "https://careers-se.icims.com/jobs/135459/login",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-09-28T00:00:00+00:00",
+    "date_discovered": "2026-09-28T11:10:47.200588+00:00"
+  },
+  {
+    "id": 15136382,
+    "company_display": "Biogen",
+    "title": "Co-op, Data Visualization and Application Development",
+    "location": "Cambridge, MA",
+    "url": "https://biibhr.wd3.myworkdayjobs.com/en-US/external/job/Cambridge-MA/Co-op--Data-Visualization-and-Application-Development_REQ24227",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-28T14:36:09.927713+00:00",
+    "date_discovered": "2026-09-28T14:36:15.390292+00:00"
+  },
+  {
+    "id": 15194419,
+    "company_display": "Under-Armour",
+    "title": "2027 Summer Internship, Design (Apparel and Footwear)",
+    "location": "Baltimore, MD",
+    "url": "https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Design-%28Apparel-and-Footwear%29-MD-21230/1434389000/",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-09-28T16:14:33.191147+00:00"
+  },
+  {
+    "id": 15228946,
+    "company_display": "Danaher",
+    "title": "Associate Custom Product Design Engineer",
+    "location": "Duncan, South Carolina, USA",
+    "url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Duncan-South-Carolina-United-States/Associate-Custom-Product-Design-Engineer_R1319204/apply",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-09-28T00:00:00+00:00",
+    "date_discovered": "2026-09-28T17:15:32.990652+00:00"
+  },
+  {
+    "id": 15242436,
+    "company_display": "IBM",
+    "title": "Designer Spring Co-op 2027",
+    "location": "DURHAM, USA",
+    "url": "https://careers.ibm.com/careers/JobDetail?jobId=133632",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-09-28T17:42:06.211019+00:00"
+  },
+  {
+    "id": 15290716,
+    "company_display": "Disney",
+    "title": "Product Design (Accessories) Intern, Spring 2027",
+    "location": "Glendale, CA, USA",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Product-Design--Accessories--Intern--Spring-2027_10160436",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-28T19:09:12.715308+00:00",
+    "date_discovered": "2026-09-28T19:10:30.828414+00:00"
+  },
+  {
+    "id": 15293241,
+    "company_display": "Leidos",
+    "title": "Data Center Design Intern",
+    "location": "6314 Remote/Teleworker US",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Data-Center-Design-Intern_R-00193261",
+    "skill_level": "intern",
+    "country": "remote",
+    "updated_at": "2026-09-28T19:11:05.551390+00:00",
+    "date_discovered": "2026-09-28T19:12:05.688790+00:00"
+  },
+  {
+    "id": 15307261,
+    "company_display": "Disney",
+    "title": "Marvel and Lucasfilm Product Design (Hardlines) Intern, Spring 2027",
+    "location": "Glendale, CA, USA",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Marvel-and-Lucasfilm-Product-Design--Hardlines--Intern--Spring-2027_10160439",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-28T19:39:12.759614+00:00",
+    "date_discovered": "2026-09-28T19:40:05.475627+00:00"
+  },
+  {
+    "id": 15346355,
+    "company_display": "TIAA",
+    "title": "2027 Early Talent Rotational Program: Digital & Client Experience",
+    "location": "Charlotte, NC, USA; Iselin, NJ - 194 Wood Avenue South; New York, NY - 730 Third Avenue; 3965 Dallas Parkway Frisco, TX",
+    "url": "https://tiaa.wd1.myworkdayjobs.com/en-US/Search/job/Charlotte-NC-USA/XMLNAME-2027-Early-Talent-Rotational-Program--Digital---Client-Experience_R260900423",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-09-28T20:43:07.765754+00:00",
+    "date_discovered": "2026-09-28T20:43:35.021133+00:00"
   }
 ]
