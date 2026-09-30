@@ -759,17 +759,6 @@
     "date_discovered": "2026-09-16T15:08:47.576831+00:00"
   },
   {
-    "id": 10754980,
-    "company_display": "Vf-Corp",
-    "title": "Altra: Junior Art Director",
-    "location": "USCA > USA > Colorado > Denver HQ - VFC",
-    "url": "https://vfc.wd5.myworkdayjobs.com/en-US/vfc_careers/job/USCA--USA--Colorado--Denver-HQ---VFC/Altra--Junior-Art-Director_R-20260902-0042-1",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": "2026-09-17T16:46:04.656900+00:00",
-    "date_discovered": "2026-09-17T16:46:35.773949+00:00"
-  },
-  {
     "id": 10829463,
     "company_display": "Rockwell Automation",
     "title": "Co-op, User Experience - Robotics (OTTO by Rockwell Automation)",
@@ -1155,6 +1144,17 @@
     "date_discovered": "2026-09-24T14:36:52.175932+00:00"
   },
   {
+    "id": 13593090,
+    "company_display": "JPMorgan",
+    "title": "Product Designer \u2013 Private Bank Digital, Early Career",
+    "location": "New York, NY, USA",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210794454",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-09-24T00:00:00+00:00",
+    "date_discovered": "2026-09-24T15:12:16.222926+00:00"
+  },
+  {
     "id": 13706014,
     "company_display": "Cummins",
     "title": "Product Systems Design - Summer Internship Positions",
@@ -1505,5 +1505,38 @@
     "country": "us",
     "updated_at": "2026-09-28T20:43:07.765754+00:00",
     "date_discovered": "2026-09-28T20:43:35.021133+00:00"
+  },
+  {
+    "id": 15674566,
+    "company_display": "Marsh McLennan",
+    "title": "Intern - Psychometric Design & Delivery",
+    "location": "Gurugram, India",
+    "url": "https://mmc.wd1.myworkdayjobs.com/MMC/job/Gurugram---Good-Earth/Intern---Psychometric-Design---Delivery_R_366296/apply",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-29T00:00:00+00:00",
+    "date_discovered": "2026-09-29T09:12:56.815031+00:00"
+  },
+  {
+    "id": 15995611,
+    "company_display": "Nike",
+    "title": "NIKE, Inc. NXT Apparel Design Graduate Internship",
+    "location": "Beaverton, Oregon",
+    "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-NXT-Apparel-Design-Graduate-Internship_R-94427",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-29T19:29:17.539975+00:00",
+    "date_discovered": "2026-09-29T19:29:45.643611+00:00"
+  },
+  {
+    "id": 16105030,
+    "company_display": "Stanley-Black-Decker",
+    "title": "Summer Intern 2027 - Industrial Design 3D Surfacing",
+    "location": "Valley City, OH, United States; Towson, MD, USA",
+    "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Valley-City-OH-United-States/Summer-Intern-2027---Industrial-Design-3D-Surfacing_REQ-1000052790",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-29T22:35:35.447258+00:00",
+    "date_discovered": "2026-09-29T22:35:44.446913+00:00"
   }
 ]
