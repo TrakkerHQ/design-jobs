@@ -1023,28 +1023,6 @@
     "date_discovered": "2026-09-22T20:18:45.286700+00:00"
   },
   {
-    "id": 12751014,
-    "company_display": "IBM",
-    "title": "Design Engineer Intern 2027 - Design and Build AI-Native Interfaces",
-    "location": "Yorktown Heights, USA",
-    "url": "https://careers.ibm.com/careers/JobDetail?jobId=133801",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-22T20:51:38.652137+00:00"
-  },
-  {
-    "id": 12758379,
-    "company_display": "NVIDIA",
-    "title": "Product Design Intern, AI Infrastructure - Summer 2027",
-    "location": "2 Locations",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Design-Intern--AI-Infrastructure---Summer-2027_JR2025784",
-    "skill_level": "intern",
-    "country": null,
-    "updated_at": "2026-09-22T21:11:07.430090+00:00",
-    "date_discovered": "2026-09-22T21:12:45.874329+00:00"
-  },
-  {
     "id": 13061678,
     "company_display": "Symbotic",
     "title": "Intern - User Experience",
@@ -1419,17 +1397,6 @@
     "date_discovered": "2026-09-28T11:10:47.200588+00:00"
   },
   {
-    "id": 15136382,
-    "company_display": "Biogen",
-    "title": "Co-op, Data Visualization and Application Development",
-    "location": "Cambridge, MA",
-    "url": "https://biibhr.wd3.myworkdayjobs.com/en-US/external/job/Cambridge-MA/Co-op--Data-Visualization-and-Application-Development_REQ24227",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-28T14:36:09.927713+00:00",
-    "date_discovered": "2026-09-28T14:36:15.390292+00:00"
-  },
-  {
     "id": 15194419,
     "company_display": "Under-Armour",
     "title": "2027 Summer Internship, Design (Apparel and Footwear)",
@@ -1538,5 +1505,93 @@
     "country": "us",
     "updated_at": "2026-09-29T22:35:35.447258+00:00",
     "date_discovered": "2026-09-29T22:35:44.446913+00:00"
+  },
+  {
+    "id": 16301975,
+    "company_display": "Meta",
+    "title": "Product Design Engineering Intern",
+    "location": "Redmond, WA",
+    "url": "https://www.metacareers.com/profile/job_details/1613359540444032/",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-30T06:00:13+00:00",
+    "date_discovered": "2026-09-30T06:05:33.880623+00:00"
+  },
+  {
+    "id": 16647320,
+    "company_display": "IBM",
+    "title": "Designer Intern 2027 - Austin",
+    "location": "Austin, USA",
+    "url": "https://careers.ibm.com/careers/JobDetail?jobId=134457",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-09-30T18:41:30.401795+00:00"
+  },
+  {
+    "id": 16685625,
+    "company_display": "Raytheon",
+    "title": "Tool Design Intern",
+    "location": "MX-BCN-MEXICALI-238 ~ Blvd Venustiano Carranza #238 ~ BLDG 238, Desarrollo Industrial Colorado",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/MX-BCN-MEXICALI-238--Blvd-Venustiano-Carranza-238--BLDG-238-Desarrollo-Industrial-Colorado/Tool-Design-Intern_01878963",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-30T19:41:49.710416+00:00",
+    "date_discovered": "2026-09-30T19:44:00.509093+00:00"
+  },
+  {
+    "id": 16773128,
+    "company_display": "Adidas",
+    "title": "INTERNSHIP - APPAREL DESIGN (M/F/D)",
+    "location": "Herzogenaurach",
+    "url": "https://jobs.adidas-group.com/job/Herzogenaurach-INTERNSHIP-APPAREL-DESIGN-%28MFD%29-BY/1442908933/",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-09-30T22:14:27.177390+00:00"
+  },
+  {
+    "id": 16773130,
+    "company_display": "Adidas",
+    "title": "INTERNSHIP - GRAPHIC DESIGN (M/F/D)",
+    "location": "Herzogenaurach",
+    "url": "https://jobs.adidas-group.com/job/Herzogenaurach-INTERNSHIP-GRAPHIC-DESIGN-%28MFD%29-BY/1442902733/",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-09-30T22:14:27.187840+00:00"
+  },
+  {
+    "id": 16773133,
+    "company_display": "Adidas",
+    "title": "INTERNSHIP - FOOTWEAR DESIGN (M/F/D)",
+    "location": "Herzogenaurach",
+    "url": "https://jobs.adidas-group.com/job/Herzogenaurach-INTERNSHIP-FOOTWEAR-DESIGN-%28MFD%29-BY/1442903333/",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-09-30T22:14:27.254670+00:00"
+  },
+  {
+    "id": 16820489,
+    "company_display": "IBM",
+    "title": "UX Designer Intern 2027",
+    "location": "Yorktown Heights, USA",
+    "url": "https://careers.ibm.com/careers/JobDetail?jobId=134615",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-09-30T23:40:51.603150+00:00"
+  },
+  {
+    "id": 16864290,
+    "company_display": "Southwest Airlines",
+    "title": "Summer 2027 User Experience Design Internship",
+    "location": "Not specified",
+    "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-User-Experience-Design-Internship_R-2026-73044/apply",
+    "skill_level": "intern",
+    "country": null,
+    "updated_at": "2026-10-01T00:00:00+00:00",
+    "date_discovered": "2026-10-01T00:46:35.988034+00:00"
   }
 ]
