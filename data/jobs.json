@@ -253,28 +253,6 @@
     "date_discovered": "2026-09-10T13:56:43.886351+00:00"
   },
   {
-    "id": 8051311,
-    "company_display": "US Foods",
-    "title": "Intern \u2013 Experience Design (Hybrid: Onsite & Remote)",
-    "location": "Rosemont, Illinois, USA",
-    "url": "https://usfoods.wd1.myworkdayjobs.com/usfoodscareersExternal/job/Rosemont-IL/Intern---Experience-Design--Hybrid--Onsite---Remote-_R282110/apply",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-01T00:00:00+00:00",
-    "date_discovered": "2026-09-10T14:02:00.989394+00:00"
-  },
-  {
-    "id": 8051349,
-    "company_display": "Activision",
-    "title": "Activision 2027 Summer Internship - Tech Design (Vancouver)",
-    "location": "Vancouver, British Columbia, Canada",
-    "url": "https://xboxgaming.wd1.myworkdayjobs.com/External/job/Vancouver/Activision-2027-Summer-Internship---Tech-Design--Vancouver-_R027985/apply",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-01T00:00:00+00:00",
-    "date_discovered": "2026-09-10T14:02:13.633944+00:00"
-  },
-  {
     "id": 8051355,
     "company_display": "Activision",
     "title": "Activision 2027 Summer Internships - Audio Design",
@@ -1023,6 +1001,17 @@
     "date_discovered": "2026-09-22T20:18:45.286700+00:00"
   },
   {
+    "id": 12751014,
+    "company_display": "IBM",
+    "title": "Design Engineer Intern 2027 - Design and Build AI-Native Interfaces",
+    "location": "Yorktown Heights, USA",
+    "url": "https://careers.ibm.com/careers/JobDetail?jobId=133801",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-09-22T20:51:38.652137+00:00"
+  },
+  {
     "id": 13061678,
     "company_display": "Symbotic",
     "title": "Intern - User Experience",
@@ -1593,5 +1582,49 @@
     "country": null,
     "updated_at": "2026-10-01T00:00:00+00:00",
     "date_discovered": "2026-10-01T00:46:35.988034+00:00"
+  },
+  {
+    "id": 17297212,
+    "company_display": "Pinterest",
+    "title": "UX Engineering Intern (San Francisco)",
+    "location": "San Francisco, CA, USA",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140210",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-01T17:01:05+00:00",
+    "date_discovered": "2026-10-01T17:12:38.205685+00:00"
+  },
+  {
+    "id": 17299049,
+    "company_display": "Apple",
+    "title": "Junior Designer, Design Team",
+    "location": "USA",
+    "url": "https://jobs.apple.com/en-us/details/200686797/junior-designer-design-team?team=MKTG",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-10-01T16:44:55.362000+00:00",
+    "date_discovered": "2026-10-01T17:14:44.743945+00:00"
+  },
+  {
+    "id": 17335750,
+    "company_display": "L3Harris",
+    "title": "Intern, Designer (Huntsville, AL)",
+    "location": "Huntsville, AL",
+    "url": "https://careers.l3harris.com/en/job/huntsville/intern-designer-huntsville-al/4832/101404698656",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-01T18:17:19.141240+00:00"
+  },
+  {
+    "id": 17463242,
+    "company_display": "Raytheon",
+    "title": "Engine Design & Systems Integration Co-Op (January 2027) (Hybrid)",
+    "location": "US-PR-AGUADILLA-110 ~ Rd 110 N Km 28.8 ~ RD110",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Engine-Design---Systems-Integration-Co-Op--January-2027---Hybrid-_01873689",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-01T21:46:45.705027+00:00",
+    "date_discovered": "2026-10-01T21:50:48.826010+00:00"
   }
 ]
