@@ -209,17 +209,6 @@
     "date_discovered": "2026-09-10T01:46:05.294824+00:00"
   },
   {
-    "id": 8007883,
-    "company_display": "Duke Energy",
-    "title": "Design Thinking Facilitation Internship - Summer 2027",
-    "location": "Charlotte, NC",
-    "url": "https://dukeenergy.wd1.myworkdayjobs.com/en-US/Search/job/Charlotte-NC/Design-Thinking-Facilitation-Internship---Summer-2027_R41263",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-01T01:45:26.959847+00:00",
-    "date_discovered": "2026-09-10T01:46:30.384329+00:00"
-  },
-  {
     "id": 8022110,
     "company_display": "Landor",
     "title": "Design Intern",
@@ -1562,17 +1551,6 @@
     "date_discovered": "2026-09-30T22:14:27.254670+00:00"
   },
   {
-    "id": 16820489,
-    "company_display": "IBM",
-    "title": "UX Designer Intern 2027",
-    "location": "Yorktown Heights, USA",
-    "url": "https://careers.ibm.com/careers/JobDetail?jobId=134615",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-30T23:40:51.603150+00:00"
-  },
-  {
     "id": 16864290,
     "company_display": "Southwest Airlines",
     "title": "Summer 2027 User Experience Design Internship",
@@ -1626,5 +1604,159 @@
     "country": "us",
     "updated_at": "2026-10-01T21:46:45.705027+00:00",
     "date_discovered": "2026-10-01T21:50:48.826010+00:00"
+  },
+  {
+    "id": 17760124,
+    "company_display": "EA",
+    "title": "Sound Design Intern",
+    "location": "Stockholm, Sweden \u2022 Role ID 216299 \u2022 Intern - Temporary Employee \u2022 EA Studios - DICE Stockholm",
+    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Sound-Design-Intern/216299",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-10-02T09:03:51.494871+00:00"
+  },
+  {
+    "id": 17837120,
+    "company_display": "Accenture",
+    "title": "Internship \u2013 Design & Digital Product - as of February 2027",
+    "location": "Brussels",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Brussels/Internship---Design---Digital-Product---as-of-February-2027_R00358162",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-02T12:12:17.705154+00:00",
+    "date_discovered": "2026-10-02T12:13:43.666987+00:00"
+  },
+  {
+    "id": 17870703,
+    "company_display": "Bayer",
+    "title": "Visual Designer Trainee",
+    "location": "Gda\u0144sk, Pomorskie, Poland",
+    "url": "https://talent.bayer.com/careers/job/562949978612919",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-10-02T13:12:03.728661+00:00"
+  },
+  {
+    "id": 17888030,
+    "company_display": "Bayer",
+    "title": "UX/UI Designer Trainee",
+    "location": "Gda\u0144sk, Pomorskie, Poland",
+    "url": "https://talent.bayer.com/careers/job/562949978612930",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-10-02T13:42:01.050711+00:00"
+  },
+  {
+    "id": 17905986,
+    "company_display": "Bayer",
+    "title": "Multimedia Design Trainee",
+    "location": "Gda\u0144sk, Pomorskie, Poland",
+    "url": "https://talent.bayer.com/careers/job/562949978629194",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-10-02T14:12:34.123479+00:00"
+  },
+  {
+    "id": 17927466,
+    "company_display": "Marriott",
+    "title": "Distribution Technology Internship - Design Hotels",
+    "location": "Berlin, Germany",
+    "url": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26036132",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-02T00:00:00+00:00",
+    "date_discovered": "2026-10-02T14:44:26.793465+00:00"
+  },
+  {
+    "id": 17944842,
+    "company_display": "Marriott",
+    "title": "Communications Internship - Design Hotels",
+    "location": "Berlin, Germany",
+    "url": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26036152",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-02T00:00:00+00:00",
+    "date_discovered": "2026-10-02T15:14:14.960898+00:00"
+  },
+  {
+    "id": 17944845,
+    "company_display": "Marriott",
+    "title": "Global Reservations Internship - Design Hotels",
+    "location": "Berlin, Germany",
+    "url": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26036160",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-02T00:00:00+00:00",
+    "date_discovered": "2026-10-02T15:14:15.005162+00:00"
+  },
+  {
+    "id": 18002104,
+    "company_display": "Nvent",
+    "title": "R&D Designer Intern",
+    "location": "Anoka, MN, USA",
+    "url": "https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Anoka-MN-US/R-D-Designer-Intern_R22089",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-02T16:47:31.336325+00:00",
+    "date_discovered": "2026-10-02T16:47:33.737919+00:00"
+  },
+  {
+    "id": 18023533,
+    "company_display": "Duke Energy",
+    "title": "UX Design Internship \u2013 Summer 2027",
+    "location": "Charlotte, NC",
+    "url": "https://dukeenergy.wd1.myworkdayjobs.com/en-US/Search/job/Charlotte-NC/UX-Design-Internship---Summer-2027_R41850",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-02T17:20:26.844384+00:00",
+    "date_discovered": "2026-10-02T17:20:29.428240+00:00"
+  },
+  {
+    "id": 18110038,
+    "company_display": "Trane-Technologies",
+    "title": "Program Manager Intern - CAD Designer",
+    "location": "Jacksonville, Florida, USA",
+    "url": "https://tranetechnologies.wd12.myworkdayjobs.com/Trane_Technologies_Careers/job/Jacksonville-FL-5550-POW-MIA-Memorial-Pkwy/Program-Manager-Intern---CAD-Designer_JR-13875/apply",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-02T00:00:00+00:00",
+    "date_discovered": "2026-10-02T19:49:22.516058+00:00"
+  },
+  {
+    "id": 18144710,
+    "company_display": "Disney",
+    "title": "Product Design - Licensed Toys Intern, Spring 2027",
+    "location": "Glendale, CA, USA",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Product-Design---Licensed-Toys-Intern--Spring-2027_10160441",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-02T20:48:00.091248+00:00",
+    "date_discovered": "2026-10-02T20:48:02.063401+00:00"
+  },
+  {
+    "id": 18173920,
+    "company_display": "Kiewit",
+    "title": "Fire Sprinkler Design Intern - Continental",
+    "location": "Omaha, NE",
+    "url": "https://kiewitcareers.kiewit.com/Continental/job/Omaha-Fire-Sprinkler-Design-Intern-Continental-NE-68046/1436480700/",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-02T21:42:30.261898+00:00"
+  },
+  {
+    "id": 18202224,
+    "company_display": "Gemini",
+    "title": "Brand Design Intern (Winter 2027)",
+    "location": "New York",
+    "url": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=8243097&gh_jid=8243097",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-02T22:12:03+00:00",
+    "date_discovered": "2026-10-02T22:35:28.573062+00:00"
   }
 ]
