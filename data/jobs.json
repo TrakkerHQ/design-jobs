@@ -143,17 +143,6 @@
     "date_discovered": "2026-09-09T22:07:32.703503+00:00"
   },
   {
-    "id": 7974877,
-    "company_display": "Nike",
-    "title": "NIKE, Inc. Apparel Development, Technical Design, Undergraduate Internship",
-    "location": "Beaverton, Oregon",
-    "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-Apparel-Development--Technical-Design--Undergraduate-Internship_R-91227",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-04T22:08:48.627589+00:00",
-    "date_discovered": "2026-09-09T22:09:04.795615+00:00"
-  },
-  {
     "id": 7974942,
     "company_display": "Halliburton",
     "title": "Associate Technical Professional- Well Design",
@@ -1463,6 +1452,17 @@
     "date_discovered": "2026-09-30T23:40:51.603150+00:00"
   },
   {
+    "id": 16864290,
+    "company_display": "Southwest Airlines",
+    "title": "Summer 2027 User Experience Design Internship",
+    "location": "Not specified",
+    "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-User-Experience-Design-Internship_R-2026-73044/apply",
+    "skill_level": "intern",
+    "country": null,
+    "updated_at": "2026-10-01T00:00:00+00:00",
+    "date_discovered": "2026-10-01T00:46:35.988034+00:00"
+  },
+  {
     "id": 17297212,
     "company_display": "Pinterest",
     "title": "UX Engineering Intern (San Francisco)",
@@ -1670,5 +1670,38 @@
     "country": "us",
     "updated_at": "2026-10-03T18:11:17.277082+00:00",
     "date_discovered": "2026-10-03T18:11:18.672116+00:00"
+  },
+  {
+    "id": 18389169,
+    "company_display": "IBM",
+    "title": "Associate Designer-User Experience Design",
+    "location": "BANGKOK, TH",
+    "url": "https://careers.ibm.com/careers/JobDetail?jobId=135275",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-10-05T09:05:06.425191+00:00"
+  },
+  {
+    "id": 18389581,
+    "company_display": "Keysight",
+    "title": "Intern HPC/Design Cloud",
+    "location": "Gent, Belgium",
+    "url": "https://globalcareers-keysight.icims.com/jobs/54634/login",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-05T10:13:00+00:00",
+    "date_discovered": "2026-10-05T11:10:38.111303+00:00"
+  },
+  {
+    "id": 18389652,
+    "company_display": "ABB",
+    "title": "TEMP - Associate Designer",
+    "location": "Brno, Jihomoravsk\u00fd kraj, Czechia",
+    "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Brno-Jihomoravsk-kraj-Czechia/TEMP---Associate-Designer_JR00046647/apply",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-10-05T00:00:00+00:00",
+    "date_discovered": "2026-10-05T11:13:02.127957+00:00"
   }
 ]
