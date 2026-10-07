@@ -1298,17 +1298,6 @@
     "date_discovered": "2026-09-28T17:42:06.211019+00:00"
   },
   {
-    "id": 15290716,
-    "company_display": "Disney",
-    "title": "Product Design (Accessories) Intern, Spring 2027",
-    "location": "Glendale, CA, USA",
-    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Product-Design--Accessories--Intern--Spring-2027_10160436",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-28T19:09:12.715308+00:00",
-    "date_discovered": "2026-09-28T19:10:30.828414+00:00"
-  },
-  {
     "id": 15293241,
     "company_display": "Leidos",
     "title": "Data Center Design Intern",
@@ -1318,17 +1307,6 @@
     "country": "remote",
     "updated_at": "2026-09-28T19:11:05.551390+00:00",
     "date_discovered": "2026-09-28T19:12:05.688790+00:00"
-  },
-  {
-    "id": 15307261,
-    "company_display": "Disney",
-    "title": "Marvel and Lucasfilm Product Design (Hardlines) Intern, Spring 2027",
-    "location": "Glendale, CA, USA",
-    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Marvel-and-Lucasfilm-Product-Design--Hardlines--Intern--Spring-2027_10160439",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-28T19:39:12.759614+00:00",
-    "date_discovered": "2026-09-28T19:40:05.475627+00:00"
   },
   {
     "id": 15346355,
@@ -1461,17 +1439,6 @@
     "country": null,
     "updated_at": "2026-10-01T00:00:00+00:00",
     "date_discovered": "2026-10-01T00:46:35.988034+00:00"
-  },
-  {
-    "id": 17297212,
-    "company_display": "Pinterest",
-    "title": "UX Engineering Intern (San Francisco)",
-    "location": "San Francisco, CA, USA",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140210",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-01T17:01:05+00:00",
-    "date_discovered": "2026-10-01T17:12:38.205685+00:00"
   },
   {
     "id": 17299049,
@@ -1703,5 +1670,60 @@
     "country": "international",
     "updated_at": "2026-10-05T00:00:00+00:00",
     "date_discovered": "2026-10-05T11:13:02.127957+00:00"
+  },
+  {
+    "id": 18395791,
+    "company_display": "IBM",
+    "title": "Graduate/Associate Experience Consultant-Customer & Experience Transformation",
+    "location": "SYDNEY, AU",
+    "url": "https://careers.ibm.com/careers/JobDetail?jobId=134649",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-10-06T11:40:04.025935+00:00"
+  },
+  {
+    "id": 18396154,
+    "company_display": "General Dynamics",
+    "title": "Summer 2027 - MRB/Liaison Design Collegiate Intern",
+    "location": "Savannah, GA, USA",
+    "url": "https://www.gd.com/careers/summer-2027-mrb-liaison-design-collegiate-intern-savannah-ga-us-236461-gac-opportunity",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-06T12:25:14+00:00",
+    "date_discovered": "2026-10-06T12:42:07.590511+00:00"
+  },
+  {
+    "id": 18396652,
+    "company_display": "Accenture",
+    "title": "Graphic Design Internship Program (She/He/They)",
+    "location": "Warsaw",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/Graphic-Design-Internship-Program--She-He-They-_R00360725",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-06T14:12:09.747522+00:00",
+    "date_discovered": "2026-10-06T14:13:03.501870+00:00"
+  },
+  {
+    "id": 18397510,
+    "company_display": "Sanofi",
+    "title": "2027 Summer Intern Consumer Experience Product Design Cambridge MA",
+    "location": "Location:Cambridge, Massachusetts",
+    "url": "https://jobs.sanofi.com/en/job/cambridge/2027-summer-intern-consumer-experience-product-design-cambridge-ma/2649/45625371584",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-06T17:10:04.917098+00:00"
+  },
+  {
+    "id": 18399481,
+    "company_display": "Keysight",
+    "title": "R&D Usability Engineering Intern",
+    "location": "Santa Rosa, California",
+    "url": "https://careers-keysight.icims.com/jobs/54779/login",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-06T22:41:00+00:00",
+    "date_discovered": "2026-10-06T22:45:20.259826+00:00"
   }
 ]
