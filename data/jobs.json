@@ -1243,6 +1243,17 @@
     "date_discovered": "2026-09-27T22:29:13.841581+00:00"
   },
   {
+    "id": 14875624,
+    "company_display": "Philips",
+    "title": "Intern - Product Design - Bothell, WA - Summer 2027",
+    "location": "Bothell, Washington, USA",
+    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bothell-Washington-United-States/Intern---Product-Design---Bothell--WA---Summer-2027_582008/apply?source=Philips_Career_Site",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-28T00:00:00+00:00",
+    "date_discovered": "2026-09-28T02:41:22.653308+00:00"
+  },
+  {
     "id": 14909089,
     "company_display": "Fox",
     "title": "Summer 2027 FOX News Media Internship Program - Graphic Design - New York",
@@ -1263,17 +1274,6 @@
     "country": "international",
     "updated_at": "2026-09-28T08:09:19.067078+00:00",
     "date_discovered": "2026-09-28T08:10:16.099844+00:00"
-  },
-  {
-    "id": 15028465,
-    "company_display": "Schneider-Electric",
-    "title": "Engineer I, Electrical Systems Design",
-    "location": "Vadodara, India",
-    "url": "https://careers-se.icims.com/jobs/135459/login",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": "2026-09-28T00:00:00+00:00",
-    "date_discovered": "2026-09-28T11:10:47.200588+00:00"
   },
   {
     "id": 15194419,
@@ -1307,17 +1307,6 @@
     "country": "remote",
     "updated_at": "2026-09-28T19:11:05.551390+00:00",
     "date_discovered": "2026-09-28T19:12:05.688790+00:00"
-  },
-  {
-    "id": 15346355,
-    "company_display": "TIAA",
-    "title": "2027 Early Talent Rotational Program: Digital & Client Experience",
-    "location": "Charlotte, NC, USA; Iselin, NJ - 194 Wood Avenue South; New York, NY - 730 Third Avenue; 3965 Dallas Parkway Frisco, TX",
-    "url": "https://tiaa.wd1.myworkdayjobs.com/en-US/Search/job/Charlotte-NC-USA/XMLNAME-2027-Early-Talent-Rotational-Program--Digital---Client-Experience_R260900423",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": "2026-09-28T20:43:07.765754+00:00",
-    "date_discovered": "2026-09-28T20:43:35.021133+00:00"
   },
   {
     "id": 15674566,
@@ -1461,17 +1450,6 @@
     "country": "us",
     "updated_at": null,
     "date_discovered": "2026-10-01T18:17:19.141240+00:00"
-  },
-  {
-    "id": 17463242,
-    "company_display": "Raytheon",
-    "title": "Engine Design & Systems Integration Co-Op (January 2027) (Hybrid)",
-    "location": "US-PR-AGUADILLA-110 ~ Rd 110 N Km 28.8 ~ RD110",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Engine-Design---Systems-Integration-Co-Op--January-2027---Hybrid-_01873689",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-01T21:46:45.705027+00:00",
-    "date_discovered": "2026-10-01T21:50:48.826010+00:00"
   },
   {
     "id": 17760124,
@@ -1725,5 +1703,137 @@
     "country": "us",
     "updated_at": "2026-10-06T22:41:00+00:00",
     "date_discovered": "2026-10-06T22:45:20.259826+00:00"
+  },
+  {
+    "id": 18400628,
+    "company_display": "Illinois Tool Works",
+    "title": "Designer/Drafter Intern",
+    "location": "Eden Prairie, Minnesota, USA",
+    "url": "https://itw.wd5.myworkdayjobs.com/External/job/MTS-Headquarters/Designer-Drafter-Intern_JR10493/apply",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-06T00:00:00+00:00",
+    "date_discovered": "2026-10-07T02:42:46.022874+00:00"
+  },
+  {
+    "id": 18403110,
+    "company_display": "Accenture",
+    "title": "Creative Design Summer Analyst \u2013 New York \u2013 NAELFY27",
+    "location": "New York, One Manhattan West, Corp",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/New-York-One-Manhattan-West-Corp/Creative-Design-Summer-Analyst---New-York---NAELFY27_R00361466",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-07T14:12:07.872762+00:00",
+    "date_discovered": "2026-10-07T14:12:59.881028+00:00"
+  },
+  {
+    "id": 18403679,
+    "company_display": "Mit-Lincoln-Laboratory",
+    "title": "Summer Research Program 2027, Graphic Artist Intern, ISR Systems & Architectures (Group 10-01)",
+    "location": "Lexington, MA",
+    "url": "https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-2027%2C-Graphic-Artist-Intern%2C-ISR-Systems-&-Architectures-%28Group-10-01%29-MA-02420/1437796400/",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-07T15:43:01.535013+00:00"
+  },
+  {
+    "id": 18404126,
+    "company_display": "Teledyne",
+    "title": "Intern - 3D Validation Station Software Designer",
+    "location": "Canada - Montreal, QC (TDY)",
+    "url": "https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/Canada---Montreal-QC-TDY/Intern---3D-Validation-Station-Software-Designer_REQ36804",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-07T16:46:31.921658+00:00",
+    "date_discovered": "2026-10-07T16:46:34.643973+00:00"
+  },
+  {
+    "id": 18404365,
+    "company_display": "News Corp",
+    "title": "Summer 2027 Internship Program \u2013 Brand Marketing Intern",
+    "location": "NYC - 1211 Ave of the Americas",
+    "url": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2027-Internship-Program---Brand-Marketing-Intern_Job_Req_55868",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-07T17:18:44.788925+00:00",
+    "date_discovered": "2026-10-07T17:18:45.894233+00:00"
+  },
+  {
+    "id": 18405081,
+    "company_display": "Salesforce",
+    "title": "Summer 2027 Internship - Content Design",
+    "location": "California - San Francisco; Washington - Seattle; Washington - Bellevue",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2027-Internship---Content-Design_JR363232-1",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-07T19:42:10.032649+00:00",
+    "date_discovered": "2026-10-07T19:43:25.755161+00:00"
+  },
+  {
+    "id": 18405177,
+    "company_display": "KeyCorp",
+    "title": "Summer 2027 Corporate Center \u2013 Centricity and Design Strategy Intern",
+    "location": "Brooklyn, OH",
+    "url": "https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Brooklyn-OH/Summer-2027-Corporate-Center---Centricity-and-Design-Strategy-Intern_R-42575",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-07T19:47:47.328649+00:00",
+    "date_discovered": "2026-10-07T19:48:01.407172+00:00"
+  },
+  {
+    "id": 18405178,
+    "company_display": "KeyCorp",
+    "title": "Summer 2027 Corporate Center \u2013 Specialty Design and Storytelling Intern",
+    "location": "Brooklyn, OH",
+    "url": "https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Brooklyn-OH/Summer-2027-Corporate-Center---Specialty-Design-and-Storytelling-Intern_R-42578",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-07T19:47:47.353580+00:00",
+    "date_discovered": "2026-10-07T19:48:01.561643+00:00"
+  },
+  {
+    "id": 18405179,
+    "company_display": "KeyCorp",
+    "title": "Summer 2027 Corporate Center \u2013 Client Experience Design Intern",
+    "location": "Brooklyn, OH",
+    "url": "https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Brooklyn-OH/Summer-2027-Corporate-Center---Client-Experience-Design-Intern_R-42577",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-07T19:47:47.354895+00:00",
+    "date_discovered": "2026-10-07T19:48:01.638772+00:00"
+  },
+  {
+    "id": 18405180,
+    "company_display": "KeyCorp",
+    "title": "Summer 2027 Corporate Center \u2013 Design Excellence & Operations Intern",
+    "location": "Brooklyn, OH",
+    "url": "https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Brooklyn-OH/Summer-2027-Corporate-Center---Design-Excellence---Operations-Intern_R-42576",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-07T19:47:47.355596+00:00",
+    "date_discovered": "2026-10-07T19:48:01.653697+00:00"
+  },
+  {
+    "id": 18405691,
+    "company_display": "Cibc",
+    "title": "Investor\u2019s Edge, UI Designer (Design System) Winter 2027 Co-Op (8-months)",
+    "location": "Toronto, ON",
+    "url": "https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Investor-s-Edge--UI-Designer--Design-System--Winter-2027-Co-Op--8-months-_2620694",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-07T21:16:54.139948+00:00",
+    "date_discovered": "2026-10-07T21:17:33.963094+00:00"
+  },
+  {
+    "id": 18406835,
+    "company_display": "Disney",
+    "title": "Disney Consumer Products, Graphic Design Intern, Spring 2027",
+    "location": "Glendale, CA, USA",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Disney-Consumer-Products--Graphic-Design-Intern--Spring-2027_10160431",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-08T00:47:36.222149+00:00",
+    "date_discovered": "2026-10-08T00:47:37.579165+00:00"
   }
 ]
