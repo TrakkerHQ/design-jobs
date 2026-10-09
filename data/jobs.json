@@ -33,17 +33,6 @@
     "date_discovered": "2026-09-09T20:10:52.949204+00:00"
   },
   {
-    "id": 7969498,
-    "company_display": "Scopely",
-    "title": "Intern - Game Design (Slot)",
-    "location": "IN - Bangalore, India",
-    "url": "https://job-boards.greenhouse.io/scopely/jobs/5256167008?gh_jid=5256167008",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-07T08:38:40+00:00",
-    "date_discovered": "2026-09-09T22:03:01.204702+00:00"
-  },
-  {
     "id": 7970879,
     "company_display": "Salesforce",
     "title": "Experience Builder Intern - Creative Design",
@@ -1045,17 +1034,6 @@
     "date_discovered": "2026-09-23T21:48:14.999571+00:00"
   },
   {
-    "id": 13399284,
-    "company_display": "PwC",
-    "title": "ETIC, UI/UX Intern",
-    "location": "Cairo - ETIC",
-    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Cairo---ETIC/ETIC--Applied-AI---UI-UX-Intern_553133WD",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-08-25T04:10:19.875203+00:00",
-    "date_discovered": "2026-09-24T04:14:38.694446+00:00"
-  },
-  {
     "id": 13575318,
     "company_display": "Stackadapt",
     "title": "Product Design Intern - Winter 2027",
@@ -1241,17 +1219,6 @@
     "country": "international",
     "updated_at": "2026-09-08T22:17:40.085486+00:00",
     "date_discovered": "2026-09-27T22:29:13.841581+00:00"
-  },
-  {
-    "id": 14875624,
-    "company_display": "Philips",
-    "title": "Intern - Product Design - Bothell, WA - Summer 2027",
-    "location": "Bothell, Washington, USA",
-    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bothell-Washington-United-States/Intern---Product-Design---Bothell--WA---Summer-2027_582008/apply?source=Philips_Career_Site",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-28T00:00:00+00:00",
-    "date_discovered": "2026-09-28T02:41:22.653308+00:00"
   },
   {
     "id": 14909089,
@@ -1606,17 +1573,6 @@
     "date_discovered": "2026-10-02T22:35:28.573062+00:00"
   },
   {
-    "id": 18385140,
-    "company_display": "Ntrs",
-    "title": "Data & Analytics Office Intern",
-    "location": "Chicago, IL",
-    "url": "https://ntrs.wd1.myworkdayjobs.com/en-US/northerntrust/job/Chicago-IL/Data---Analytics-Office-Intern_R160769-1",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-03T18:11:17.277082+00:00",
-    "date_discovered": "2026-10-03T18:11:18.672116+00:00"
-  },
-  {
     "id": 18389169,
     "company_display": "IBM",
     "title": "Associate Designer-User Experience Design",
@@ -1659,17 +1615,6 @@
     "country": "international",
     "updated_at": null,
     "date_discovered": "2026-10-06T11:40:04.025935+00:00"
-  },
-  {
-    "id": 18396154,
-    "company_display": "General Dynamics",
-    "title": "Summer 2027 - MRB/Liaison Design Collegiate Intern",
-    "location": "Savannah, GA, USA",
-    "url": "https://www.gd.com/careers/summer-2027-mrb-liaison-design-collegiate-intern-savannah-ga-us-236461-gac-opportunity",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-06T12:25:14+00:00",
-    "date_discovered": "2026-10-06T12:42:07.590511+00:00"
   },
   {
     "id": 18396652,
@@ -1736,17 +1681,6 @@
     "country": "us",
     "updated_at": null,
     "date_discovered": "2026-10-07T15:43:01.535013+00:00"
-  },
-  {
-    "id": 18404126,
-    "company_display": "Teledyne",
-    "title": "Intern - 3D Validation Station Software Designer",
-    "location": "Canada - Montreal, QC (TDY)",
-    "url": "https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/Canada---Montreal-QC-TDY/Intern---3D-Validation-Station-Software-Designer_REQ36804",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-10-07T16:46:31.921658+00:00",
-    "date_discovered": "2026-10-07T16:46:34.643973+00:00"
   },
   {
     "id": 18404365,
@@ -1835,5 +1769,104 @@
     "country": "us",
     "updated_at": "2026-10-08T00:47:36.222149+00:00",
     "date_discovered": "2026-10-08T00:47:37.579165+00:00"
+  },
+  {
+    "id": 18407617,
+    "company_display": "Gemini",
+    "title": "Product Design Intern (Winter 2027)",
+    "location": "New York",
+    "url": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=8240208&gh_jid=8240208",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-08T03:51:21+00:00",
+    "date_discovered": "2026-10-08T04:00:17.431599+00:00"
+  },
+  {
+    "id": 18408039,
+    "company_display": "Aptiv",
+    "title": "Multimedia Design Intern",
+    "location": "Troy, MI - USA",
+    "url": "https://aptiv.wd5.myworkdayjobs.com/en-US/APTIV_CAREERS/job/Troy-MI---USA/Multimedia-Design-Intern_J000705106",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-08T06:11:51.250209+00:00",
+    "date_discovered": "2026-10-08T06:11:58.858285+00:00"
+  },
+  {
+    "id": 18409414,
+    "company_display": "Landor",
+    "title": "Next Gen Design Intern",
+    "location": "Mumbai",
+    "url": "https://job-boards.greenhouse.io/landor/jobs/8261469",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-08T13:05:27+00:00",
+    "date_discovered": "2026-10-08T13:06:36.437211+00:00"
+  },
+  {
+    "id": 18409587,
+    "company_display": "Landor",
+    "title": "Next Gen Design Intern",
+    "location": "Chicago",
+    "url": "https://job-boards.greenhouse.io/landor/jobs/8259112",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-08T13:10:41+00:00",
+    "date_discovered": "2026-10-08T13:35:39.718741+00:00"
+  },
+  {
+    "id": 18409588,
+    "company_display": "Landor",
+    "title": "Next Gen Design Intern",
+    "location": "London",
+    "url": "https://job-boards.greenhouse.io/landor/jobs/8259097",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-08T13:08:27+00:00",
+    "date_discovered": "2026-10-08T13:35:39.733938+00:00"
+  },
+  {
+    "id": 18411037,
+    "company_display": "AEP",
+    "title": "User Experience Design Intern",
+    "location": "Columbus, OH",
+    "url": "https://aep.wd1.myworkdayjobs.com/en-US/AEPCareerSite/job/Columbus-OH/User-Experience-Design-Intern_R20054",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-08T17:48:08.081995+00:00",
+    "date_discovered": "2026-10-08T17:48:09.598356+00:00"
+  },
+  {
+    "id": 18411350,
+    "company_display": "Landor",
+    "title": "Next Gen Design Intern",
+    "location": "Cincinnati",
+    "url": "https://job-boards.greenhouse.io/landor/jobs/8261395",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-08T19:03:54+00:00",
+    "date_discovered": "2026-10-08T19:05:54.658268+00:00"
+  },
+  {
+    "id": 18411680,
+    "company_display": "Landor",
+    "title": "Next Gen Motion Design Intern - Man vs Machine London",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/landor/jobs/8265474",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-08T19:44:10+00:00",
+    "date_discovered": "2026-10-08T20:05:53.270791+00:00"
+  },
+  {
+    "id": 18411917,
+    "company_display": "Macys",
+    "title": "Assistant Designer",
+    "location": "New York, NY, USA",
+    "url": "https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/92751",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-10-08T00:00:00+00:00",
+    "date_discovered": "2026-10-08T20:43:01.305142+00:00"
   }
 ]
