@@ -1,27 +1,5 @@
 [
   {
-    "id": 7627267,
-    "company_display": "Coinbase",
-    "title": "Product Design Intern",
-    "location": "Hybrid - San Francisco, CA",
-    "url": "https://www.coinbase.com/careers/positions/8175339?gh_jid=8175339",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-08T22:14:49+00:00",
-    "date_discovered": "2026-09-08T22:35:30.985717+00:00"
-  },
-  {
-    "id": 7660136,
-    "company_display": "Atlassian",
-    "title": "Product Design Intern, 2027 Summer U.S.",
-    "location": "San Francisco - United States - San Francisco, California 94104 United States",
-    "url": "https://careers-americas.icims.com/jobs/26273/product-design-intern%2c-2027-summer-u.s./job",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-08T22:29:00+00:00",
-    "date_discovered": "2026-09-09T00:11:04.297653+00:00"
-  },
-  {
     "id": 7933622,
     "company_display": "Target",
     "title": "UX Design Internship - Minneapolis, MN (Starting Summer, 2027)",
@@ -42,17 +20,6 @@
     "country": "international",
     "updated_at": "2026-09-09T22:01:09.308243+00:00",
     "date_discovered": "2026-09-09T22:06:19.588874+00:00"
-  },
-  {
-    "id": 7971284,
-    "company_display": "Disney",
-    "title": "Disney Live Entertainment Lighting Design Intern, Spring 2027",
-    "location": "Anaheim, CA, USA",
-    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Anaheim-CA-USA/Disney-Live-Entertainment-Lighting-Design-Intern--Spring-2027_10159167",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-08T22:06:02.918690+00:00",
-    "date_discovered": "2026-09-09T22:06:40.971932+00:00"
   },
   {
     "id": 7971860,
@@ -143,17 +110,6 @@
     "date_discovered": "2026-09-09T22:09:09.648251+00:00"
   },
   {
-    "id": 7975406,
-    "company_display": "U.S. Bank",
-    "title": "2027 Experience Design Summer Intern",
-    "location": "Minneapolis, MN",
-    "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Experience-Design-Summer-Intern_2026-0026540",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-08T22:09:01.024695+00:00",
-    "date_discovered": "2026-09-09T22:09:55.810721+00:00"
-  },
-  {
     "id": 7994023,
     "company_display": "Epic Games",
     "title": "UI Programmer Intern",
@@ -207,28 +163,6 @@
     "country": "us",
     "updated_at": null,
     "date_discovered": "2026-09-10T13:56:43.886351+00:00"
-  },
-  {
-    "id": 8051355,
-    "company_display": "Activision",
-    "title": "Activision 2027 Summer Internships - Audio Design",
-    "location": "Carlsbad, California, USA",
-    "url": "https://xboxgaming.wd1.myworkdayjobs.com/External/job/Carlsbad/Activision-2027-Summer-Internships---Audio-Design_R028077/apply",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-09T00:00:00+00:00",
-    "date_discovered": "2026-09-10T14:02:13.650232+00:00"
-  },
-  {
-    "id": 8051358,
-    "company_display": "Activision",
-    "title": "Activision 2027 Summer Internships - UI/UX",
-    "location": "Playa Vista, California, USA",
-    "url": "https://xboxgaming.wd1.myworkdayjobs.com/External/job/Playa-Vista/Activision-2027-Summer-Internships---UI-UX_R028071/apply",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-09T00:00:00+00:00",
-    "date_discovered": "2026-09-10T14:02:13.657015+00:00"
   },
   {
     "id": 8063962,
@@ -394,39 +328,6 @@
     "country": "us",
     "updated_at": "2026-09-11T00:00:00+00:00",
     "date_discovered": "2026-09-12T00:44:39.335972+00:00"
-  },
-  {
-    "id": 8718394,
-    "company_display": "Stryker",
-    "title": "Summer 2027 Internship - Interaction Design - Washington",
-    "location": "Redmond, Washington",
-    "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Redmond-Washington/Summer-2027-Internship---Interaction-Design---Washington_R572870",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-09T01:15:23.481484+00:00",
-    "date_discovered": "2026-09-12T01:15:56.324901+00:00"
-  },
-  {
-    "id": 8718407,
-    "company_display": "Stryker",
-    "title": "Summer 2027 Internship - Industrial Design Intern - Michigan",
-    "location": "Portage, Michigan",
-    "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Industrial-Design-Intern---Portage--MI_R572730",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-09T01:15:32.118670+00:00",
-    "date_discovered": "2026-09-12T01:15:56.656455+00:00"
-  },
-  {
-    "id": 8718408,
-    "company_display": "Stryker",
-    "title": "Summer 2027 Intern - Industrial Design, User Experience - Michigan",
-    "location": "Portage, Michigan",
-    "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Product-Interaction-Design-Intern---Portage--MI_R572833",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-09T01:15:32.119258+00:00",
-    "date_discovered": "2026-09-12T01:15:56.668585+00:00"
   },
   {
     "id": 8795287,
@@ -1210,17 +1111,6 @@
     "date_discovered": "2026-09-27T22:29:13.226959+00:00"
   },
   {
-    "id": 14831132,
-    "company_display": "Levi-Strauss",
-    "title": "Seasonal Stock Associate, Levi's\u00ae, McArthurGlen Designer Outlet Vancouver, Richmond, BC",
-    "location": "McArthurGlen Designer Vancouver Outlets, Richmond, BC, CAN",
-    "url": "https://levistraussandco.wd5.myworkdayjobs.com/en-US/External/job/McArthurGlen-Designer-Vancouver-Outlets-Richmond-BC-CAN/Seasonal-Store-Stock--Associate--Levi-s---Camarillo-Premium-Outlets--Camarillo--CA_R-0156227",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": "2026-09-08T22:17:40.085486+00:00",
-    "date_discovered": "2026-09-27T22:29:13.841581+00:00"
-  },
-  {
     "id": 14909089,
     "company_display": "Fox",
     "title": "Summer 2027 FOX News Media Internship Program - Graphic Design - New York",
@@ -1868,5 +1758,60 @@
     "country": "us",
     "updated_at": "2026-10-08T00:00:00+00:00",
     "date_discovered": "2026-10-08T20:43:01.305142+00:00"
+  },
+  {
+    "id": 18415464,
+    "company_display": "Nxp",
+    "title": "Master Thesis Internship - AI-Driven Transistor Design Exploration",
+    "location": "Eindhoven",
+    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/Careers/job/Eindhoven/Master-Thesis-Internship---AI-Driven-Transistor-Design-Exploration_R-10067224",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-09T11:45:25.468669+00:00",
+    "date_discovered": "2026-10-09T11:46:02.341613+00:00"
+  },
+  {
+    "id": 18416065,
+    "company_display": "Interpublic",
+    "title": "Junior Art Director",
+    "location": "New York, USA",
+    "url": "https://interpublic.wd5.myworkdayjobs.com/en-US/OMC/job/New-York-New-York-United-States-of-America/Senior-Art-Director_R12193",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-10-09T13:43:53.461744+00:00",
+    "date_discovered": "2026-10-09T13:44:09.219492+00:00"
+  },
+  {
+    "id": 18416884,
+    "company_display": "Globalfoundries",
+    "title": "Design Manual Publishing & Ground Rule Validation Engineer (2027 New College Graduate)",
+    "location": "USA - Vermont - Essex Junction",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Vermont---Essex-Junction/Design-Manual-Publishing---Ground-Rule-Validation-Engineer--2027-New-College-Graduate-_JR-2604294",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-10-09T16:17:23.688593+00:00",
+    "date_discovered": "2026-10-09T16:17:31.188763+00:00"
+  },
+  {
+    "id": 18419269,
+    "company_display": "Databricks",
+    "title": "Evergreen - Product Design Intern (2027 Start)",
+    "location": "San Francisco, California; Seattle, Washington",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8787352002",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-09T23:07:09+00:00",
+    "date_discovered": "2026-10-09T23:35:33.223747+00:00"
+  },
+  {
+    "id": 18419270,
+    "company_display": "Databricks",
+    "title": "Evergreen - Product Design New Grad (2027 Start)",
+    "location": "San Francisco, California; Seattle, Washington",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8843577002",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-10-09T23:14:46+00:00",
+    "date_discovered": "2026-10-09T23:35:33.252690+00:00"
   }
 ]
