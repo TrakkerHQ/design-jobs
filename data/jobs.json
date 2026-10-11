@@ -1,126 +1,5 @@
 [
   {
-    "id": 7933622,
-    "company_display": "Target",
-    "title": "UX Design Internship - Minneapolis, MN (Starting Summer, 2027)",
-    "location": "1000 Nicollet Mall, Minneapolis, MN",
-    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/UX-Design-Internship---Minneapolis--MN--Starting-Summer--2027-_R0000451077",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-09T20:08:49.212331+00:00",
-    "date_discovered": "2026-09-09T20:10:52.949204+00:00"
-  },
-  {
-    "id": 7970879,
-    "company_display": "Salesforce",
-    "title": "Experience Builder Intern - Creative Design",
-    "location": "Argentina - Buenos Aires",
-    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Argentina---Buenos-Aires/Experience-Builder-Intern---Creative-Design_JR359611-1",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-09T22:01:09.308243+00:00",
-    "date_discovered": "2026-09-09T22:06:19.588874+00:00"
-  },
-  {
-    "id": 7971860,
-    "company_display": "TikTok",
-    "title": "Content Designer Graduate (TikTok Shop) - 2027 Start",
-    "location": "London, England",
-    "url": "https://lifeattiktok.com/search/7668623602807376181",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-09T22:06:53.468748+00:00"
-  },
-  {
-    "id": 7972162,
-    "company_display": "TikTok",
-    "title": "Content Design and Localization Graduate (TikTok-Design) - 2027 Start",
-    "location": "Singapore",
-    "url": "https://lifeattiktok.com/search/7677484880267610421",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-09T22:07:06.939687+00:00"
-  },
-  {
-    "id": 7972340,
-    "company_display": "IBM",
-    "title": "2027 Intern \u2013 Copywriter",
-    "location": "New York, USA",
-    "url": "https://careers.ibm.com/careers/JobDetail?jobId=131191",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-09T22:07:11.549256+00:00"
-  },
-  {
-    "id": 7972595,
-    "company_display": "TikTok",
-    "title": "Content Design Intern (Monetization Ads) - 2027 Summer",
-    "location": "San Jose, California",
-    "url": "https://lifeattiktok.com/search/7673247317487028485",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-09T22:07:18.369073+00:00"
-  },
-  {
-    "id": 7973064,
-    "company_display": "TikTok",
-    "title": "Creative Design Intern (TikTok-Design) - 2027 Start",
-    "location": "London, England",
-    "url": "https://lifeattiktok.com/search/7667589596037531957",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-09T22:07:28.563506+00:00"
-  },
-  {
-    "id": 7973128,
-    "company_display": "TikTok",
-    "title": "Content Design and Localization Intern (TikTok-Design)-2027 Start",
-    "location": "Singapore",
-    "url": "https://lifeattiktok.com/search/7667865302639855877",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-09T22:07:30.971715+00:00"
-  },
-  {
-    "id": 7973207,
-    "company_display": "TikTok",
-    "title": "Creative Design Intern (TikTok-Design) - 2027 Summer",
-    "location": "Los Angeles, California",
-    "url": "https://lifeattiktok.com/search/7667858055000606981",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-09T22:07:32.703503+00:00"
-  },
-  {
-    "id": 7974942,
-    "company_display": "Halliburton",
-    "title": "Associate Technical Professional- Well Design",
-    "location": "Mumbai, Maharashtra, India",
-    "url": "https://careers.halliburton.com/job/mumbai/associate-technical-professional-well-design/543/98691377808",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-09T22:09:09.648251+00:00"
-  },
-  {
-    "id": 7994023,
-    "company_display": "Epic Games",
-    "title": "UI Programmer Intern",
-    "location": "Cary, North Carolina, USA",
-    "url": "https://epicgames.com/careers/jobs/6183401004?gh_jid=6183401004",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-10T00:22:33+00:00",
-    "date_discovered": "2026-09-10T00:36:03.374365+00:00"
-  },
-  {
     "id": 8007778,
     "company_display": "GE HealthCare",
     "title": "Digital Design Intern",
@@ -163,17 +42,6 @@
     "country": "us",
     "updated_at": null,
     "date_discovered": "2026-09-10T13:56:43.886351+00:00"
-  },
-  {
-    "id": 8063962,
-    "company_display": "Dentsu",
-    "title": "Graphic Design Intern",
-    "location": "K\u00f8benhavn K",
-    "url": "https://dentsuaegis.wd3.myworkdayjobs.com/en-US/DAN_GLOBAL/job/Kbenhavn-K/Graphic-Design-Intern_R1122195",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-09T14:34:17.242785+00:00",
-    "date_discovered": "2026-09-10T14:34:40.680160+00:00"
   },
   {
     "id": 8071219,
@@ -1012,17 +880,6 @@
     "date_discovered": "2026-09-25T04:13:28.673230+00:00"
   },
   {
-    "id": 14459691,
-    "company_display": "Lego",
-    "title": "Student Worker Factory Design & Layout Engineer",
-    "location": "Kladno",
-    "url": "https://lego.wd103.myworkdayjobs.com/en-US/LEGO_External/job/Kladno/Student-Worker-Factory-Design---Layout_0000036775",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-08-27T06:12:21.444749+00:00",
-    "date_discovered": "2026-09-26T06:15:46.654303+00:00"
-  },
-  {
     "id": 14665172,
     "company_display": "Huntington Ingalls Industries",
     "title": "DESIGNER CO-OP",
@@ -1032,17 +889,6 @@
     "country": "us",
     "updated_at": null,
     "date_discovered": "2026-09-27T05:26:27.292395+00:00"
-  },
-  {
-    "id": 14807268,
-    "company_display": "Ntrs",
-    "title": "Wealth Management Digital Client and Partner Experience Intern",
-    "location": "Chicago, IL",
-    "url": "https://ntrs.wd1.myworkdayjobs.com/en-US/northerntrust/job/Chicago-IL/Wealth-Management-Digital-Client-and-Partner-Experience-Intern--_R160768-1",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-01T20:39:34.195521+00:00",
-    "date_discovered": "2026-09-27T20:41:04.976266+00:00"
   },
   {
     "id": 14813863,
@@ -1430,17 +1276,6 @@
     "date_discovered": "2026-10-02T19:49:22.516058+00:00"
   },
   {
-    "id": 18144710,
-    "company_display": "Disney",
-    "title": "Product Design - Licensed Toys Intern, Spring 2027",
-    "location": "Glendale, CA, USA",
-    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Product-Design---Licensed-Toys-Intern--Spring-2027_10160441",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-02T20:48:00.091248+00:00",
-    "date_discovered": "2026-10-02T20:48:02.063401+00:00"
-  },
-  {
     "id": 18173920,
     "company_display": "Kiewit",
     "title": "Fire Sprinkler Design Intern - Continental",
@@ -1813,5 +1648,60 @@
     "country": "us",
     "updated_at": "2026-10-09T23:14:46+00:00",
     "date_discovered": "2026-10-09T23:35:33.252690+00:00"
+  },
+  {
+    "id": 18420982,
+    "company_display": "Medtronic",
+    "title": "UX design Intern",
+    "location": "Shanghai, China",
+    "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Shanghai-Shanghai-China/UX-design-Intern_R79531-1",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-10T09:13:30.258374+00:00",
+    "date_discovered": "2026-10-10T09:13:46.812906+00:00"
+  },
+  {
+    "id": 18422301,
+    "company_display": "SharkNinja",
+    "title": "Product Design Engineering Co-op Opportunities",
+    "location": "Needham, MA, USA",
+    "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713800006",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-28T17:28:06+00:00",
+    "date_discovered": "2026-10-10T20:12:31.971543+00:00"
+  },
+  {
+    "id": 18422302,
+    "company_display": "SharkNinja",
+    "title": "Product Design Engineering Intern Opportunities",
+    "location": "Needham, MA, USA",
+    "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713810006",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-28T17:28:06+00:00",
+    "date_discovered": "2026-10-10T20:12:31.990051+00:00"
+  },
+  {
+    "id": 18422303,
+    "company_display": "SharkNinja",
+    "title": "Product Development, Design & Consumer Insights Co-op Opportunities",
+    "location": "Needham, MA, USA",
+    "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713872006",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-28T17:28:06+00:00",
+    "date_discovered": "2026-10-10T20:12:32.029928+00:00"
+  },
+  {
+    "id": 18422304,
+    "company_display": "SharkNinja",
+    "title": "Product Development, Design & Consumer Insights Intern Opportunities",
+    "location": "Needham, MA, USA",
+    "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713878006",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-28T17:28:06+00:00",
+    "date_discovered": "2026-10-10T20:12:32.078920+00:00"
   }
 ]
