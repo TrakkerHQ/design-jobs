@@ -1,82 +1,5 @@
 [
   {
-    "id": 8007778,
-    "company_display": "GE HealthCare",
-    "title": "Digital Design Intern",
-    "location": "Madison",
-    "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Madison/Digital-Design-Intern_R4045659-1",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-10T01:45:49.041177+00:00",
-    "date_discovered": "2026-09-10T01:46:05.294824+00:00"
-  },
-  {
-    "id": 8022110,
-    "company_display": "Landor",
-    "title": "Design Intern",
-    "location": "Shanghai",
-    "url": "https://job-boards.greenhouse.io/landor/jobs/8190084",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-10T03:05:00+00:00",
-    "date_discovered": "2026-09-10T04:01:23.228885+00:00"
-  },
-  {
-    "id": 8046171,
-    "company_display": "Delta Air Lines",
-    "title": "Graduate Intern, Design and Research \u2013 Digital Experience (Summer 2027)",
-    "location": "USA, Georgia, Atlanta.",
-    "url": "https://delta.avature.net/en_US/careers/JobDetail/Graduate-Intern-Design-and-Research-Digital-Experience-Summer-2027/33850?jobId=33850",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-10T13:56:42.798548+00:00"
-  },
-  {
-    "id": 8046191,
-    "company_display": "Delta Air Lines",
-    "title": "Intern, Design and Research \u2013 Digital Experience (Summer 2027)",
-    "location": "USA, Georgia, Atlanta.",
-    "url": "https://delta.avature.net/en_US/careers/JobDetail/Intern-Design-and-Research-Digital-Experience-Summer-2027/33849?jobId=33849",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-10T13:56:43.886351+00:00"
-  },
-  {
-    "id": 8071219,
-    "company_display": "Microsoft",
-    "title": "Product Design INTERN",
-    "location": "India, Multiple Locations",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556992502",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-10T14:57:00.185490+00:00"
-  },
-  {
-    "id": 8183791,
-    "company_display": "Volvo",
-    "title": "Co Op Business Intelligence UIUX (Spring 2027)",
-    "location": "Greensboro, NC",
-    "url": "https://jobs.volvogroup.com/job/Greensboro-Co-Op-Business-Intelligence-UIUX-%28Spring-2027%29-NC-27409/1367932855/",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-10T19:58:13.468561+00:00"
-  },
-  {
-    "id": 8195743,
-    "company_display": "Dominion Energy",
-    "title": "Intern Associate Project Design (Northern Virginia Multiple Locations)",
-    "location": "HERNDON, VA",
-    "url": "https://careers.dominionenergy.com/job/HERNDON-Intern-Associate-Project-Design-%28Northern-Virginia-Multiple-Locations%29-VA-20171/1428753800/",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-10T20:28:55.191789+00:00"
-  },
-  {
     "id": 8386570,
     "company_display": "Accenture",
     "title": "Bli med p\u00e5 v\u00e5rt Summer Internship 2027 i Design!",
@@ -143,28 +66,6 @@
     "date_discovered": "2026-09-11T17:55:09.850637+00:00"
   },
   {
-    "id": 8602212,
-    "company_display": "Kbr",
-    "title": "Associate Instructional Systems Designer / Learning & Development Specialist",
-    "location": "Chantilly, Virginia, USA",
-    "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Associate-Instructional-Systems-Designer---Learning---Development-Specialist_R2129474/apply",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": "2026-09-11T00:00:00+00:00",
-    "date_discovered": "2026-09-11T20:13:55.554593+00:00"
-  },
-  {
-    "id": 8634519,
-    "company_display": "Philips",
-    "title": "Intern\u2013 Design Assurance Engineer \u2013 Colorado Springs, CO \u2013 Summer 2027",
-    "location": "Colorado Springs, Colorado, USA",
-    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Colorado-Springs-Colorado-United-States/Intern--Design-Assurance-Engineer---Colorado-Springs--CO---Summer-2027_591948/apply?source=Philips_Career_Site",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-11T00:00:00+00:00",
-    "date_discovered": "2026-09-11T21:40:40.528838+00:00"
-  },
-  {
     "id": 8660229,
     "company_display": "Havas",
     "title": "Consultant(e) Creative Performance Junior - F/H",
@@ -187,17 +88,6 @@
     "date_discovered": "2026-09-11T23:45:21.281973+00:00"
   },
   {
-    "id": 8706149,
-    "company_display": "Oshkosh",
-    "title": "Industrial Design Intern",
-    "location": "Oshkosh, Wisconsin, USA",
-    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Industrial-Design-Intern_R49703/apply",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-11T00:00:00+00:00",
-    "date_discovered": "2026-09-12T00:44:39.335972+00:00"
-  },
-  {
     "id": 8795287,
     "company_display": "Entegris",
     "title": "Designer/Drafter Co-Op",
@@ -207,17 +97,6 @@
     "country": "us",
     "updated_at": "2026-09-11T07:39:57.985278+00:00",
     "date_discovered": "2026-09-12T07:40:51.390238+00:00"
-  },
-  {
-    "id": 8795775,
-    "company_display": "Baird",
-    "title": "Internship \u2013 Graphic Design (Year-Round)",
-    "location": "WI-Milwaukee",
-    "url": "https://baird.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Milwaukee/Internship---Graphic-Design--Year-Round-_R20261004-1",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-10T07:41:24.366842+00:00",
-    "date_discovered": "2026-09-12T07:42:26.103366+00:00"
   },
   {
     "id": 9139003,
@@ -891,17 +770,6 @@
     "date_discovered": "2026-09-27T05:26:27.292395+00:00"
   },
   {
-    "id": 14813863,
-    "company_display": "Fifth Third Bank",
-    "title": "Experience Design Marketing Externship Summer 2027",
-    "location": "Cincinnati, OH",
-    "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Graphic-Design-Marketing-Externship-Summer-2027_R71879",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-03T20:44:09.569614+00:00",
-    "date_discovered": "2026-09-27T20:50:46.541841+00:00"
-  },
-  {
     "id": 14830005,
     "company_display": "Havas",
     "title": "Graphic Designer Assistant",
@@ -913,28 +781,6 @@
     "date_discovered": "2026-09-27T22:22:01.165752+00:00"
   },
   {
-    "id": 14830056,
-    "company_display": "Interpublic",
-    "title": "Credera Experience Design Intern Consultant (Design Engineering)",
-    "location": "Addison, Texas, United States of America; Denver, Colorado, United States of America; Atlanta, Georgia, United States of America; New York, New York, United States of America; Houston, USA",
-    "url": "https://interpublic.wd5.myworkdayjobs.com/en-US/OMC/job/Addison-Texas-United-States-of-America/Experience-Design-Intern-Consultant--Design-Engineering-_R14053",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-01T22:15:50.971795+00:00",
-    "date_discovered": "2026-09-27T22:22:52.000196+00:00"
-  },
-  {
-    "id": 14830059,
-    "company_display": "Interpublic",
-    "title": "Associate Copywriter",
-    "location": "New York, USA",
-    "url": "https://interpublic.wd5.myworkdayjobs.com/en-US/OMC/job/New-York-New-York-United-States-of-America/Associate-Copywriter_R13165",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": "2026-08-31T22:15:50.999599+00:00",
-    "date_discovered": "2026-09-27T22:22:52.012905+00:00"
-  },
-  {
     "id": 14830745,
     "company_display": "Pvh",
     "title": "Assistant Designer, Women's Sweaters - CK Global",
@@ -944,17 +790,6 @@
     "country": "us",
     "updated_at": "2026-09-16T22:17:10.631248+00:00",
     "date_discovered": "2026-09-27T22:29:12.558542+00:00"
-  },
-  {
-    "id": 14830948,
-    "company_display": "Vf-Corp",
-    "title": "Graphic Design Intern",
-    "location": "EMEA > CHE > Stabio > VF Campus VF1",
-    "url": "https://vfc.wd5.myworkdayjobs.com/en-US/vfc_careers/job/EMEA--CHE--Stabio--VF-Campus-VF1/Graphic-Design-Intern_R-20260812-0021",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-03T22:17:23.333856+00:00",
-    "date_discovered": "2026-09-27T22:29:13.226959+00:00"
   },
   {
     "id": 14909089,
