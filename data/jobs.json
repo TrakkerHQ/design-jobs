@@ -1012,15 +1012,15 @@
     "date_discovered": "2026-10-02T22:35:28.573062+00:00"
   },
   {
-    "id": 18389169,
+    "id": 18389163,
     "company_display": "IBM",
     "title": "Associate Designer-User Experience Design",
     "location": "BANGKOK, TH",
-    "url": "https://careers.ibm.com/careers/JobDetail?jobId=135275",
+    "url": "https://careers.ibm.com/careers/JobDetail?jobId=135272",
     "skill_level": "entry",
     "country": "international",
     "updated_at": null,
-    "date_discovered": "2026-10-05T09:05:06.425191+00:00"
+    "date_discovered": "2026-10-05T09:05:06.355283+00:00"
   },
   {
     "id": 18389581,
@@ -1045,6 +1045,17 @@
     "date_discovered": "2026-10-05T11:13:02.127957+00:00"
   },
   {
+    "id": 18395791,
+    "company_display": "IBM",
+    "title": "Graduate/Associate Experience Consultant-Customer & Experience Transformation",
+    "location": "SYDNEY, AU",
+    "url": "https://careers.ibm.com/careers/JobDetail?jobId=134649",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-10-06T11:40:04.025935+00:00"
+  },
+  {
     "id": 18396652,
     "company_display": "Accenture",
     "title": "Graphic Design Internship Program (She/He/They)",
@@ -1065,6 +1076,17 @@
     "country": "us",
     "updated_at": "2026-10-06T22:41:00+00:00",
     "date_discovered": "2026-10-06T22:45:20.259826+00:00"
+  },
+  {
+    "id": 18400628,
+    "company_display": "Illinois Tool Works",
+    "title": "Designer/Drafter Intern",
+    "location": "Eden Prairie, Minnesota, USA",
+    "url": "https://itw.wd5.myworkdayjobs.com/External/job/MTS-Headquarters/Designer-Drafter-Intern_JR10493/apply",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-06T00:00:00+00:00",
+    "date_discovered": "2026-10-07T02:42:46.022874+00:00"
   },
   {
     "id": 18403110,
@@ -1219,17 +1241,6 @@
     "country": "international",
     "updated_at": "2026-10-08T19:44:10+00:00",
     "date_discovered": "2026-10-08T20:05:53.270791+00:00"
-  },
-  {
-    "id": 18411917,
-    "company_display": "Macys",
-    "title": "Assistant Designer",
-    "location": "New York, NY, USA",
-    "url": "https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/92751",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": "2026-10-08T00:00:00+00:00",
-    "date_discovered": "2026-10-08T20:43:01.305142+00:00"
   },
   {
     "id": 18415464,
@@ -1452,6 +1463,17 @@
     "date_discovered": "2026-10-13T11:46:36.081870+00:00"
   },
   {
+    "id": 18433317,
+    "company_display": "Lego",
+    "title": "Model Design Internship, LEGO DESiGN",
+    "location": "Billund",
+    "url": "https://lego.wd103.myworkdayjobs.com/en-US/LEGO_External/job/Billund/Model-Design-Internship--LEGO-DESiGN_0000039471",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-13T11:46:32.821616+00:00",
+    "date_discovered": "2026-10-13T11:46:36.092691+00:00"
+  },
+  {
     "id": 18433458,
     "company_display": "Lego",
     "title": "System in Play Governance Internship, LEGO DESiGN",
@@ -1582,5 +1604,137 @@
     "country": "us",
     "updated_at": null,
     "date_discovered": "2026-10-13T23:41:35.843773+00:00"
+  },
+  {
+    "id": 18439301,
+    "company_display": "Eight-Sleep",
+    "title": "Product Designer, (New Grad) Milan",
+    "location": "Milan",
+    "url": "https://jobs.ashbyhq.com/eightsleep/60b67d27-7399-4860-9dcf-9f0b7e4b93f7",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-10-09T14:09:43.342000+00:00",
+    "date_discovered": "2026-10-14T09:01:27.529128+00:00"
+  },
+  {
+    "id": 18439524,
+    "company_display": "Dentsu",
+    "title": "Designer Intern",
+    "location": "Ho Chi Minh City",
+    "url": "https://dentsuaegis.wd3.myworkdayjobs.com/en-US/DAN_GLOBAL/job/HoChiMinhCity/Designer-Intern_R1131885",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-14T10:09:38.333466+00:00",
+    "date_discovered": "2026-10-14T10:09:50.424065+00:00"
+  },
+  {
+    "id": 18441747,
+    "company_display": "Arm",
+    "title": "CPU Microarchitecture and Design Intern",
+    "location": "Sophia Antipolis, France",
+    "url": "https://careers.arm.com/job/sophia-antipolis/cpu-microarchitecture-and-design-intern/33099/101949968400",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-10-14T17:38:38.830746+00:00"
+  },
+  {
+    "id": 18441817,
+    "company_display": "GE Vernova",
+    "title": "GE Vernova - SCS Product Design Internship \u2013 Summer 2027",
+    "location": "Bellevue",
+    "url": "https://gevernova.wd5.myworkdayjobs.com/en-US/Vernova_ExternalSite/job/Bellevue/GE-Vernova---SCS-Product-Design-Internship---Summer-2027_R5053219-2",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-14T17:43:29.025046+00:00",
+    "date_discovered": "2026-10-14T17:44:29.242165+00:00"
+  },
+  {
+    "id": 18442093,
+    "company_display": "Newell Brands",
+    "title": "2027 Newell Brands Intern- Industrial Design",
+    "location": "Sandy Springs",
+    "url": "https://jobs.newellbrands.com/job/Sandy-Springs-2027-Newell-Brands-Intern-Industrial-Design-Geor/1440145300/",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-14T18:43:27.823941+00:00"
+  },
+  {
+    "id": 18442094,
+    "company_display": "Newell Brands",
+    "title": "2027 Newell Brands Intern- Brand Design",
+    "location": "Sandy Springs",
+    "url": "https://jobs.newellbrands.com/job/Sandy-Springs-2027-Newell-Brands-Intern-Brand-Design-Geor/1440159600/",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-14T18:43:27.945269+00:00"
+  },
+  {
+    "id": 18442439,
+    "company_display": "SharkNinja",
+    "title": "Spring 2027: Product Design Engineering Co-op, Ninja (January to June)",
+    "location": "Needham, MA, USA",
+    "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4719432006",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-14T19:35:16+00:00",
+    "date_discovered": "2026-10-14T19:36:23.429262+00:00"
+  },
+  {
+    "id": 18442557,
+    "company_display": "Motorola Solutions",
+    "title": "Design Validation Co-op",
+    "location": "Vancouver, Canada",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Vancouver-Canada/Design-Validation-Co-op_R69757",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-14T19:47:11.123611+00:00",
+    "date_discovered": "2026-10-14T19:47:15.156178+00:00"
+  },
+  {
+    "id": 18442603,
+    "company_display": "Amazon",
+    "title": "Marketing Intern, Amazon Global Logistics",
+    "location": "Shanghai, CHN",
+    "url": "https://www.amazon.jobs/en/jobs/10579174/marketing-intern-amazon-global-logistics",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-10-14T19:49:33.614809+00:00"
+  },
+  {
+    "id": 18442611,
+    "company_display": "SharkNinja",
+    "title": "Spring 2027: Product Design Engineering Co-op, Shark (January to June)",
+    "location": "Needham, MA, USA",
+    "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720273006",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-14T19:38:05+00:00",
+    "date_discovered": "2026-10-14T20:06:38.771001+00:00"
+  },
+  {
+    "id": 18442879,
+    "company_display": "Humana",
+    "title": "Humana Technology Internship \u2013 Summer 2027 - Society of Women Engineers Conference 2026",
+    "location": "Louisville, Kentucky, USA",
+    "url": "https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Humana-Technology-Internship---Summer-2027---Society-of-Women-Engineers-Conference-2026_R-433228/apply",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-14T00:00:00+00:00",
+    "date_discovered": "2026-10-14T20:46:31.393215+00:00"
+  },
+  {
+    "id": 18443832,
+    "company_display": "Philips",
+    "title": "Intern \u2013 Systems Engineering (Sustaining & Design Controls) - San Diego, CA - Summer 2027",
+    "location": "San Diego, California, USA",
+    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/San-Diego-California-United-States/Intern---Systems-Engineering--Sustaining---Design-Controls----San-Diego--CA---Summer-2027_593052/apply?source=Philips_Career_Site",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-14T00:00:00+00:00",
+    "date_discovered": "2026-10-14T23:43:48.943541+00:00"
   }
 ]
