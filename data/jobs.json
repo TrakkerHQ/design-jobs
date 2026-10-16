@@ -1,159 +1,5 @@
 [
   {
-    "id": 9143867,
-    "company_display": "Hpe",
-    "title": "L&D Design & Development Graduate",
-    "location": "San Jose, California, USA",
-    "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/San-Jose-California-United-States-of-America/L-D-Design---Development-Graduate_1213483",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": "2026-09-14T01:56:30.291019+00:00",
-    "date_discovered": "2026-09-14T01:59:31.486303+00:00"
-  },
-  {
-    "id": 9215602,
-    "company_display": "Vml",
-    "title": "Intern- Designer ( Durban Based)",
-    "location": "Durban, South Africa",
-    "url": "https://www.vml.com/careers/job/8670918002?gh_jid=8670918002",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-14T09:37:10+00:00",
-    "date_discovered": "2026-09-14T11:03:48.501524+00:00"
-  },
-  {
-    "id": 9237522,
-    "company_display": "Robinhood",
-    "title": "Software Engineering Intern, Android (Summer 2027)",
-    "location": "Menlo Park, CA; New York, NY",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/8142961?t=gh_src=&gh_jid=8142961",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-14T12:00:09+00:00",
-    "date_discovered": "2026-09-14T12:05:37.805068+00:00"
-  },
-  {
-    "id": 9265282,
-    "company_display": "Mondelez International",
-    "title": "R&D Packaging Design Excellence Internship - Taste The Future Program UK",
-    "location": "Birmingham, United Kingdom",
-    "url": "https://mdlz.wd3.myworkdayjobs.com/en-US/External/job/Birmingham-United-Kingdom/R-D-Packaging-Design-Excellence-Internship---Taste-The-Future-Program-UK_R-177532-1",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-14T13:09:15.817779+00:00",
-    "date_discovered": "2026-09-14T13:11:11.041046+00:00"
-  },
-  {
-    "id": 9265308,
-    "company_display": "Mondelez International",
-    "title": "R&D Design Internship - Taste The Future Program UK",
-    "location": "Birmingham, United Kingdom",
-    "url": "https://mdlz.wd3.myworkdayjobs.com/en-US/External/job/Birmingham-United-Kingdom/R-D-Design-Internship---Taste-The-Future-Program-UK_R-177507-1",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-14T13:09:47.048912+00:00",
-    "date_discovered": "2026-09-14T13:11:12.207055+00:00"
-  },
-  {
-    "id": 9272139,
-    "company_display": "Aerospace-Corporation",
-    "title": "2027 Space Enterprise Design and Optimization Graduate Intern",
-    "location": "El Segundo, CA; Chantilly, VA; Colorado Springs, CO",
-    "url": "https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Space-Enterprise-Design-and-Optimization-Graduate-Intern_R016561",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-14T13:17:56.066073+00:00",
-    "date_discovered": "2026-09-14T13:20:32.655394+00:00"
-  },
-  {
-    "id": 9278561,
-    "company_display": "Google",
-    "title": "User Experience Engineer Intern, BS/MS, Summer 2027",
-    "location": "Mountain View, CA, USA; Atlanta, GA, USA",
-    "url": "https://careers.google.com/jobs/results/112499004540887750-user-experience-engineer-intern/",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-14T13:42:46.564379+00:00"
-  },
-  {
-    "id": 9278726,
-    "company_display": "Google",
-    "title": "User Experience Research Intern, MS, Summer 2027",
-    "location": "Mountain View, CA, USA; Ann Arbor, MI, USA",
-    "url": "https://careers.google.com/jobs/results/89541201752924870-user-experience-research-intern/",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-14T13:43:04.687576+00:00"
-  },
-  {
-    "id": 9278734,
-    "company_display": "Google",
-    "title": "User Experience Design Intern, BS/MS, Summer 2027",
-    "location": "Mountain View, CA, USA; Ann Arbor, MI, USA",
-    "url": "https://careers.google.com/jobs/results/100798001798095558-user-experience-design-intern/",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-14T13:43:05.005923+00:00"
-  },
-  {
-    "id": 9327179,
-    "company_display": "Intuit",
-    "title": "Summer 2027: Product Design Intern",
-    "location": "Mountain View, California",
-    "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-product-design-intern/27595/100620927648",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-14T15:44:44.602341+00:00"
-  },
-  {
-    "id": 9378812,
-    "company_display": "IBM",
-    "title": "Design Intern 2027",
-    "location": "Mulhuddart, IE",
-    "url": "https://careers.ibm.com/careers/JobDetail?jobId=132615",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-14T17:46:08.315867+00:00"
-  },
-  {
-    "id": 9383204,
-    "company_display": "Figma",
-    "title": "Brand Design Intern (Summer 2027)",
-    "location": "San Francisco, CA",
-    "url": "https://boards.greenhouse.io/figma/jobs/6144755004?gh_jid=6144755004",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-14T17:36:09+00:00",
-    "date_discovered": "2026-09-14T18:05:43.759810+00:00"
-  },
-  {
-    "id": 9383206,
-    "company_display": "Figma",
-    "title": "Product Design Intern (2027)",
-    "location": "San Francisco, CA \u2022 New York, NY",
-    "url": "https://boards.greenhouse.io/figma/jobs/6180005004?gh_jid=6180005004",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-14T17:36:15+00:00",
-    "date_discovered": "2026-09-14T18:05:43.818647+00:00"
-  },
-  {
-    "id": 9520843,
-    "company_display": "Epic Games",
-    "title": "Level Design Intern",
-    "location": "Cary, North Carolina, USA",
-    "url": "https://epicgames.com/careers/jobs/6148799004?gh_jid=6148799004",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-14T23:01:45+00:00",
-    "date_discovered": "2026-09-14T23:31:07.894355+00:00"
-  },
-  {
     "id": 9662686,
     "company_display": "Vml",
     "title": "Junior Art Director Intern",
@@ -1078,17 +924,6 @@
     "date_discovered": "2026-10-06T22:45:20.259826+00:00"
   },
   {
-    "id": 18400628,
-    "company_display": "Illinois Tool Works",
-    "title": "Designer/Drafter Intern",
-    "location": "Eden Prairie, Minnesota, USA",
-    "url": "https://itw.wd5.myworkdayjobs.com/External/job/MTS-Headquarters/Designer-Drafter-Intern_JR10493/apply",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-06T00:00:00+00:00",
-    "date_discovered": "2026-10-07T02:42:46.022874+00:00"
-  },
-  {
     "id": 18403110,
     "company_display": "Accenture",
     "title": "Creative Design Summer Analyst \u2013 New York \u2013 NAELFY27",
@@ -1142,17 +977,6 @@
     "country": "international",
     "updated_at": "2026-10-07T21:16:54.139948+00:00",
     "date_discovered": "2026-10-07T21:17:33.963094+00:00"
-  },
-  {
-    "id": 18406835,
-    "company_display": "Disney",
-    "title": "Disney Consumer Products, Graphic Design Intern, Spring 2027",
-    "location": "Glendale, CA, USA",
-    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Disney-Consumer-Products--Graphic-Design-Intern--Spring-2027_10160431",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-08T00:47:36.222149+00:00",
-    "date_discovered": "2026-10-08T00:47:37.579165+00:00"
   },
   {
     "id": 18407617,
@@ -1252,17 +1076,6 @@
     "country": "international",
     "updated_at": "2026-10-09T11:45:25.468669+00:00",
     "date_discovered": "2026-10-09T11:46:02.341613+00:00"
-  },
-  {
-    "id": 18416065,
-    "company_display": "Interpublic",
-    "title": "Junior Art Director",
-    "location": "New York, USA",
-    "url": "https://interpublic.wd5.myworkdayjobs.com/en-US/OMC/job/New-York-New-York-United-States-of-America/Senior-Art-Director_R12193",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": "2026-10-09T13:43:53.461744+00:00",
-    "date_discovered": "2026-10-09T13:44:09.219492+00:00"
   },
   {
     "id": 18416884,
@@ -1736,5 +1549,71 @@
     "country": "us",
     "updated_at": "2026-10-14T00:00:00+00:00",
     "date_discovered": "2026-10-14T23:43:48.943541+00:00"
+  },
+  {
+    "id": 18448225,
+    "company_display": "PrizePicks",
+    "title": "UX Research Intern - Spring 2027",
+    "location": "Atlanta, Georgia, USA",
+    "url": "http://prizepicks.com/position?gh_jid=8031331003",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-15T17:19:15+00:00",
+    "date_discovered": "2026-10-15T17:36:42.825082+00:00"
+  },
+  {
+    "id": 18448239,
+    "company_display": "Rivian",
+    "title": "Technical Intern - CMF Designer, Vehicle Studio",
+    "location": "Irvine, California",
+    "url": "https://us-careers-rivian.icims.com/jobs/34293/login",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-15T17:11:00+00:00",
+    "date_discovered": "2026-10-15T17:41:33.142364+00:00"
+  },
+  {
+    "id": 18448528,
+    "company_display": "Newell Brands",
+    "title": "2027 Newell Brands Intern- User Experience Research",
+    "location": "Sandy Springs",
+    "url": "https://jobs.newellbrands.com/job/Sandy-Springs-2027-Newell-Brands-Intern-User-Experience-Research-Geor/1440589300/",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-15T18:43:18.551947+00:00"
+  },
+  {
+    "id": 18448960,
+    "company_display": "Rivian",
+    "title": "Technical Intern - Vehicle Design Studio, Interiors",
+    "location": "Irvine, California",
+    "url": "https://us-careers-rivian.icims.com/jobs/34241/login",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-15T19:56:00+00:00",
+    "date_discovered": "2026-10-15T20:11:32.055898+00:00"
+  },
+  {
+    "id": 18449302,
+    "company_display": "SeatGeek",
+    "title": "UX Design - New Grad",
+    "location": "New York",
+    "url": "https://seatgeek.com/jobs/8248135?gh_jid=8248135",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-10-15T20:42:35+00:00",
+    "date_discovered": "2026-10-15T21:06:25.985083+00:00"
+  },
+  {
+    "id": 18449799,
+    "company_display": "Texas Instruments",
+    "title": "Web Marketing Intern - User Experience Design",
+    "location": "Dallas, TX, USA",
+    "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25018753",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-15T00:00:00+00:00",
+    "date_discovered": "2026-10-15T22:40:24.322700+00:00"
   }
 ]
