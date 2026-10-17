@@ -1,71 +1,5 @@
 [
   {
-    "id": 9662686,
-    "company_display": "Vml",
-    "title": "Junior Art Director Intern",
-    "location": "Milan, Lombardy, Italy",
-    "url": "https://www.vml.com/careers/job/8809411002?gh_jid=8809411002",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-15T07:24:21+00:00",
-    "date_discovered": "2026-09-15T11:03:50.345558+00:00"
-  },
-  {
-    "id": 9662689,
-    "company_display": "Vml",
-    "title": "Junior Copywriter Intern",
-    "location": "Milan, Lombardy, Italy",
-    "url": "https://www.vml.com/careers/job/8809421002?gh_jid=8809421002",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-15T07:30:57+00:00",
-    "date_discovered": "2026-09-15T11:03:50.517446+00:00"
-  },
-  {
-    "id": 9673135,
-    "company_display": "Bitdefender",
-    "title": "UX Design Internship - Bucharest",
-    "location": "Bucharest",
-    "url": "https://job-boards.eu.greenhouse.io/scbitdefendersrl/jobs/4975378101",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-15T11:33:40+00:00",
-    "date_discovered": "2026-09-15T11:36:39.414629+00:00"
-  },
-  {
-    "id": 9673138,
-    "company_display": "Bitdefender",
-    "title": "UX Design Internship - Iasi",
-    "location": "Iasi",
-    "url": "https://job-boards.eu.greenhouse.io/scbitdefendersrl/jobs/4975384101",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-15T11:35:34+00:00",
-    "date_discovered": "2026-09-15T11:36:39.433424+00:00"
-  },
-  {
-    "id": 9864664,
-    "company_display": "Raytheon",
-    "title": "Test Equipment Design Intern (Onsite)",
-    "location": "US-CT-EAST HARTFORD-J ~ 400 Main St ~ BLDG J",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-J--400-Main-St--BLDG-J/Test-Equipment-Design-Intern--Onsite-_01870628",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-15T19:05:47.113393+00:00",
-    "date_discovered": "2026-09-15T19:07:30.310045+00:00"
-  },
-  {
-    "id": 10125839,
-    "company_display": "Macys",
-    "title": "Assistant Designer",
-    "location": "New York, NY, USA",
-    "url": "https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/91697",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": "2026-09-16T00:00:00+00:00",
-    "date_discovered": "2026-09-16T07:06:18.489237+00:00"
-  },
-  {
     "id": 10239154,
     "company_display": "Gilead",
     "title": "Intern - Kite Development - Process Development (Vector Process Design)",
@@ -924,6 +858,17 @@
     "date_discovered": "2026-10-06T22:45:20.259826+00:00"
   },
   {
+    "id": 18400628,
+    "company_display": "Illinois Tool Works",
+    "title": "Designer/Drafter Intern",
+    "location": "Eden Prairie, Minnesota, USA",
+    "url": "https://itw.wd5.myworkdayjobs.com/External/job/MTS-Headquarters/Designer-Drafter-Intern_JR10493/apply",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-06T00:00:00+00:00",
+    "date_discovered": "2026-10-07T02:42:46.022874+00:00"
+  },
+  {
     "id": 18403110,
     "company_display": "Accenture",
     "title": "Creative Design Summer Analyst \u2013 New York \u2013 NAELFY27",
@@ -1243,17 +1188,6 @@
     "date_discovered": "2026-10-12T20:18:33.165525+00:00"
   },
   {
-    "id": 18432757,
-    "company_display": "Salesforce",
-    "title": "Summer 2027 Intern - UI/UX Designer",
-    "location": "India - Hyderabad; India - Bangalore",
-    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Hyderabad/Summer-2027-Intern---UI-UX-Designer_JR363342",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-10-13T09:06:20.245674+00:00",
-    "date_discovered": "2026-10-13T09:06:48.740269+00:00"
-  },
-  {
     "id": 18433315,
     "company_display": "Lego",
     "title": "Element Design Internship, LEGO DESiGN",
@@ -1318,17 +1252,6 @@
     "country": "international",
     "updated_at": "2026-10-13T12:16:53.045256+00:00",
     "date_discovered": "2026-10-13T12:16:54.608966+00:00"
-  },
-  {
-    "id": 18433461,
-    "company_display": "Lego",
-    "title": "Sound Design Internship, LEGO DESiGN",
-    "location": "Billund",
-    "url": "https://lego.wd103.myworkdayjobs.com/en-US/LEGO_External/job/Billund/Sound-Design-Internship--LEGO-DESiGN_0000039475",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-10-13T12:16:53.045579+00:00",
-    "date_discovered": "2026-10-13T12:16:54.634430+00:00"
   },
   {
     "id": 18433844,
@@ -1540,17 +1463,6 @@
     "date_discovered": "2026-10-14T20:46:31.393215+00:00"
   },
   {
-    "id": 18443832,
-    "company_display": "Philips",
-    "title": "Intern \u2013 Systems Engineering (Sustaining & Design Controls) - San Diego, CA - Summer 2027",
-    "location": "San Diego, California, USA",
-    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/San-Diego-California-United-States/Intern---Systems-Engineering--Sustaining---Design-Controls----San-Diego--CA---Summer-2027_593052/apply?source=Philips_Career_Site",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-14T00:00:00+00:00",
-    "date_discovered": "2026-10-14T23:43:48.943541+00:00"
-  },
-  {
     "id": 18448225,
     "company_display": "PrizePicks",
     "title": "UX Research Intern - Spring 2027",
@@ -1615,5 +1527,49 @@
     "country": "us",
     "updated_at": "2026-10-15T00:00:00+00:00",
     "date_discovered": "2026-10-15T22:40:24.322700+00:00"
+  },
+  {
+    "id": 18452274,
+    "company_display": "EA",
+    "title": "UI Scripter Intern",
+    "location": "Guildford, United Kingdom \u2022 Role ID 216359 \u2022 Intern - Temporary Employee \u2022 EA Studios - Criterion Games",
+    "url": "https://jobs.ea.com/en_US/careers/JobDetail/UI-Scripter-Intern/216359",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-10-16T11:04:08.192018+00:00"
+  },
+  {
+    "id": 18453312,
+    "company_display": "Estee Lauder Companies",
+    "title": "Gobal Graphic Design Assistant Intern",
+    "location": "Neuilly Sur Seine, FR-J, France",
+    "url": "https://careers.elcompanies.com/careers/job/1168275545928",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-10-16T14:13:56.979841+00:00"
+  },
+  {
+    "id": 18454258,
+    "company_display": "Sanofi",
+    "title": "2027 Spring Co op Biologics Design and AI Cambridge MA",
+    "location": "Location:Cambridge, Massachusetts",
+    "url": "https://jobs.sanofi.com/en/job/cambridge/2027-spring-co-op-biologics-design-and-ai-cambridge-ma/2649/46013519872",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-16T17:10:18.526996+00:00"
+  },
+  {
+    "id": 18455461,
+    "company_display": "Persona",
+    "title": "Product Design, Intern (Summer 2027)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/persona/a50a3137-1c9a-4947-9f4e-1a4ef26c2bec",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-16T20:41:42.598000+00:00",
+    "date_discovered": "2026-10-16T21:06:53.763409+00:00"
   }
 ]
