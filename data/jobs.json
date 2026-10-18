@@ -1,16 +1,5 @@
 [
   {
-    "id": 10239154,
-    "company_display": "Gilead",
-    "title": "Intern - Kite Development - Process Development (Vector Process Design)",
-    "location": "United States - California - Santa Monica",
-    "url": "https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Santa-Monica/Intern---Kite-Development---Process-Development--Vector-Process-Design-_R0054705-1",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-16T15:08:07.769009+00:00",
-    "date_discovered": "2026-09-16T15:08:47.576831+00:00"
-  },
-  {
     "id": 10829463,
     "company_display": "Rockwell Automation",
     "title": "Co-op, User Experience - Robotics (OTTO by Rockwell Automation)",
@@ -449,17 +438,6 @@
     "country": "international",
     "updated_at": "2026-09-23T22:15:22.186798+00:00",
     "date_discovered": "2026-09-27T22:22:01.165752+00:00"
-  },
-  {
-    "id": 14830745,
-    "company_display": "Pvh",
-    "title": "Assistant Designer, Women's Sweaters - CK Global",
-    "location": "New York, NY Calvin Klein Office",
-    "url": "https://pvh.wd1.myworkdayjobs.com/en-US/PVH_Careers/job/New-York-NY-Calvin-Klein-Office/Assistant-Designer--Women-s-Sweaters---CK-Global_R61916",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": "2026-09-16T22:17:10.631248+00:00",
-    "date_discovered": "2026-09-27T22:29:12.558542+00:00"
   },
   {
     "id": 14909089,
@@ -1329,17 +1307,6 @@
     "country": "us",
     "updated_at": "2026-10-13T22:23:53+00:00",
     "date_discovered": "2026-10-13T22:36:44.481217+00:00"
-  },
-  {
-    "id": 18437241,
-    "company_display": "IBM",
-    "title": "Content Designer (Artificial Intelligence) Intern 2027",
-    "location": "Markham, CA",
-    "url": "https://careers.ibm.com/careers/JobDetail?jobId=136570",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-10-13T23:41:35.843773+00:00"
   },
   {
     "id": 18439301,
