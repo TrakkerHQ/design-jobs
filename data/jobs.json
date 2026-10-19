@@ -1,38 +1,5 @@
 [
   {
-    "id": 10829463,
-    "company_display": "Rockwell Automation",
-    "title": "Co-op, User Experience - Robotics (OTTO by Rockwell Automation)",
-    "location": "Waterloo, Ontario, Canada",
-    "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External-Rockwell-Automation-Early-Careers/job/Waterloo-Ontario-Canada/Co-op--User-Experience---Robotics_R26-6732",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-17T19:39:33.611830+00:00",
-    "date_discovered": "2026-09-17T19:45:02.209134+00:00"
-  },
-  {
-    "id": 10874390,
-    "company_display": "Garmin",
-    "title": "Product Designer Intern",
-    "location": "Olathe, Kansas",
-    "url": "https://careers-garmin.icims.com/jobs/20190/login",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-17T21:03:00+00:00",
-    "date_discovered": "2026-09-17T21:20:58.619506+00:00"
-  },
-  {
-    "id": 10874514,
-    "company_display": "Keysight",
-    "title": "Software Engineer Intern",
-    "location": "Santa Rosa, California",
-    "url": "https://careers-keysight.icims.com/jobs/54329/login",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-17T20:53:00+00:00",
-    "date_discovered": "2026-09-17T21:21:14.665576+00:00"
-  },
-  {
     "id": 11150575,
     "company_display": "Dentsu",
     "title": "Graphic Design Intern",
@@ -53,17 +20,6 @@
     "country": "us",
     "updated_at": "2026-09-18T16:07:10.847055+00:00",
     "date_discovered": "2026-09-18T16:08:15.226000+00:00"
-  },
-  {
-    "id": 11295276,
-    "company_display": "Vertiv",
-    "title": "UX Design Intern (Summer 2027)",
-    "location": "Westerville, OH, USA",
-    "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20279266",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-18T00:00:00+00:00",
-    "date_discovered": "2026-09-18T18:45:28.012964+00:00"
   },
   {
     "id": 11451921,
@@ -1307,6 +1263,17 @@
     "country": "us",
     "updated_at": "2026-10-13T22:23:53+00:00",
     "date_discovered": "2026-10-13T22:36:44.481217+00:00"
+  },
+  {
+    "id": 18437241,
+    "company_display": "IBM",
+    "title": "Content Designer (Artificial Intelligence) Intern 2027",
+    "location": "Markham, CA",
+    "url": "https://careers.ibm.com/careers/JobDetail?jobId=136570",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-13T23:41:35.843773+00:00"
   },
   {
     "id": 18439301,
