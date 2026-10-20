@@ -1,49 +1,5 @@
 [
   {
-    "id": 11150575,
-    "company_display": "Dentsu",
-    "title": "Graphic Design Intern",
-    "location": "Aarhus",
-    "url": "https://dentsuaegis.wd3.myworkdayjobs.com/en-US/DAN_GLOBAL/job/Aarhus/Graphic-Design-Intern_R1131620",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-18T13:14:48.709273+00:00",
-    "date_discovered": "2026-09-18T13:16:02.202079+00:00"
-  },
-  {
-    "id": 11222912,
-    "company_display": "Disney",
-    "title": "FX Design & VFX Intern, Spring 2027",
-    "location": "Burbank, CA, USA",
-    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/FX-Design---VFX-Intern--Spring-2027_10160082",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-18T16:07:10.847055+00:00",
-    "date_discovered": "2026-09-18T16:08:15.226000+00:00"
-  },
-  {
-    "id": 11451921,
-    "company_display": "Apple",
-    "title": "Product Design Engineering Intern-Watch",
-    "location": "China",
-    "url": "https://jobs.apple.com/en-us/details/200683472/product-design-engineering-intern-watch?team=HRDWR",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-19T00:20:24.941000+00:00",
-    "date_discovered": "2026-09-19T00:41:44.945906+00:00"
-  },
-  {
-    "id": 11451930,
-    "company_display": "Apple",
-    "title": "Product Design Engineering Intern-iPhone",
-    "location": "China",
-    "url": "https://jobs.apple.com/en-us/details/200683459/product-design-engineering-intern-iphone?team=HRDWR",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-19T00:20:19.022000+00:00",
-    "date_discovered": "2026-09-19T00:41:46.581888+00:00"
-  },
-  {
     "id": 11694025,
     "company_display": "Nike",
     "title": "Nike Inc Internship Product Design & Creation",
@@ -273,17 +229,6 @@
     "country": "us",
     "updated_at": null,
     "date_discovered": "2026-09-23T15:31:09.109265+00:00"
-  },
-  {
-    "id": 13127534,
-    "company_display": "Amazon",
-    "title": "UX Designer Intern, AUTA",
-    "location": "Mexico City, MEX",
-    "url": "https://www.amazon.jobs/en/jobs/10553923/ux-designer-intern-auta",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-18T15:19:13.249279+00:00",
-    "date_discovered": "2026-09-23T15:40:34.624149+00:00"
   },
   {
     "id": 13266611,
@@ -1056,28 +1001,6 @@
     "date_discovered": "2026-10-12T04:13:30.096192+00:00"
   },
   {
-    "id": 18427441,
-    "company_display": "Nordstrom",
-    "title": "Technical Apparel Design - Corporate Internship - Summer 2027",
-    "location": "Seattle, WA",
-    "url": "https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Seattle-WA/Technical-Apparel-Design---Corporate-Internship---Summer-2027_R-886419",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-12T13:12:51.743429+00:00",
-    "date_discovered": "2026-10-12T13:13:09.320299+00:00"
-  },
-  {
-    "id": 18427583,
-    "company_display": "Nordstrom",
-    "title": "Fashion Design - Corporate Internship - Summer 2027",
-    "location": "Seattle, WA",
-    "url": "https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Seattle-WA/Fashion-Design---Corporate-Internship---Summer-2027_R-886422",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-12T13:43:13.149252+00:00",
-    "date_discovered": "2026-10-12T13:43:53.356188+00:00"
-  },
-  {
     "id": 18428653,
     "company_display": "Apple",
     "title": "2027 Apple Internship - Information Systems and Technology",
@@ -1353,17 +1276,6 @@
     "date_discovered": "2026-10-14T19:36:23.429262+00:00"
   },
   {
-    "id": 18442557,
-    "company_display": "Motorola Solutions",
-    "title": "Design Validation Co-op",
-    "location": "Vancouver, Canada",
-    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Vancouver-Canada/Design-Validation-Co-op_R69757",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-10-14T19:47:11.123611+00:00",
-    "date_discovered": "2026-10-14T19:47:15.156178+00:00"
-  },
-  {
     "id": 18442603,
     "company_display": "Amazon",
     "title": "Marketing Intern, Amazon Global Logistics",
@@ -1505,5 +1417,148 @@
     "country": "us",
     "updated_at": "2026-10-16T20:41:42.598000+00:00",
     "date_discovered": "2026-10-16T21:06:53.763409+00:00"
+  },
+  {
+    "id": 18462573,
+    "company_display": "Wise",
+    "title": "Graduate Content Designer",
+    "location": "London, United Kingdom",
+    "url": "https://jobs.smartrecruiters.com/Wise/744000156243360-graduate-content-designer",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-10-19T07:31:02.288000+00:00",
+    "date_discovered": "2026-10-19T08:01:28.830017+00:00"
+  },
+  {
+    "id": 18462574,
+    "company_display": "Wise",
+    "title": "Design & Research Operations Graduate",
+    "location": "London, United Kingdom",
+    "url": "https://jobs.smartrecruiters.com/Wise/744000156242729-design-research-operations-graduate",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-10-19T07:24:26.147000+00:00",
+    "date_discovered": "2026-10-19T08:01:28.912736+00:00"
+  },
+  {
+    "id": 18463243,
+    "company_display": "Amazon",
+    "title": "UX Design Intern Luxembourg, Interaction Design",
+    "location": "Luxembourg, LUX",
+    "url": "https://www.amazon.jobs/en/jobs/10582414/ux-design-intern-luxembourg-interaction-design",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-10-19T11:14:04.112051+00:00"
+  },
+  {
+    "id": 18463422,
+    "company_display": "Wise",
+    "title": "Graduate UX Researcher",
+    "location": "London, United Kingdom",
+    "url": "https://jobs.smartrecruiters.com/Wise/744000156299169-graduate-ux-researcher",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-10-19T11:55:46.217000+00:00",
+    "date_discovered": "2026-10-19T12:06:45.257232+00:00"
+  },
+  {
+    "id": 18463615,
+    "company_display": "PwC",
+    "title": "Product Designer Junior @PwC Experience Center Paris - F/H",
+    "location": "Paris - Milan",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Paris---Milan/Product-Designer-Junior--PwC-Experience-Center-Paris---F-H_768751WD",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-10-19T12:36:28.374213+00:00",
+    "date_discovered": "2026-10-19T12:43:32.970142+00:00"
+  },
+  {
+    "id": 18463894,
+    "company_display": "Wise",
+    "title": "Graduate Product Designer",
+    "location": "London, United Kingdom",
+    "url": "https://jobs.smartrecruiters.com/Wise/744000156318469-graduate-product-designer",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-10-19T13:12:34.379000+00:00",
+    "date_discovered": "2026-10-19T13:36:53.247039+00:00"
+  },
+  {
+    "id": 18464561,
+    "company_display": "Meta",
+    "title": "Softgoods Product Design Engineering Intern",
+    "location": "Sunnyvale, CA",
+    "url": "https://www.metacareers.com/profile/job_details/1111723361506997/",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-19T15:35:14+00:00",
+    "date_discovered": "2026-10-19T15:39:01.729008+00:00"
+  },
+  {
+    "id": 18465828,
+    "company_display": "Centene",
+    "title": "Product Designer Intern (Undergraduate Summer 2027)",
+    "location": "Remote-MO",
+    "url": "https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-MO/Product-Designer-Intern--Undergraduate-Summer-2027-_1667705",
+    "skill_level": "intern",
+    "country": "remote",
+    "updated_at": "2026-10-19T19:19:57.016380+00:00",
+    "date_discovered": "2026-10-19T19:19:57.777512+00:00"
+  },
+  {
+    "id": 18465839,
+    "company_display": "Nintendo",
+    "title": "Intern - User Experience",
+    "location": "Redmond, WA",
+    "url": "https://careers.nintendo.com/?gh_jid=4418258009",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-19T19:34:40+00:00",
+    "date_discovered": "2026-10-19T19:35:40.673899+00:00"
+  },
+  {
+    "id": 18466820,
+    "company_display": "Insomniac Games",
+    "title": "Accessibility Intern- Masters or PhD",
+    "location": "USA, Burbank, CA",
+    "url": "https://job-boards.greenhouse.io/insomniac/jobs/6227618004",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-19T22:08:51+00:00",
+    "date_discovered": "2026-10-19T22:36:26.188903+00:00"
+  },
+  {
+    "id": 18467172,
+    "company_display": "Disney",
+    "title": "Disney Experiences Graphic Design Intern, Spring 2027",
+    "location": "Kissimmee, FL, USA",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Kissimmee-FL-USA/Disney-Experiences-Graphic-Design-Intern--Spring-2027_10160434",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-19T23:48:17.463141+00:00",
+    "date_discovered": "2026-10-19T23:48:18.942463+00:00"
+  },
+  {
+    "id": 18467173,
+    "company_display": "Disney",
+    "title": "Product Design (Toys) Intern, Spring 2027",
+    "location": "Kissimmee, FL, USA",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Kissimmee-FL-USA/Product-Design--Toys--Intern--Spring-2027_10160487",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-19T23:48:17.466852+00:00",
+    "date_discovered": "2026-10-19T23:48:18.961122+00:00"
+  },
+  {
+    "id": 18467234,
+    "company_display": "Accenture",
+    "title": "Practica Dise\u00f1o Gr\u00e1fico/ UX - ChangeMakers Internship Program",
+    "location": "Santiago",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Santiago/Practica-Diseo-Grfico--UX---ChangeMakers-Internship-Program_R00365390",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-20T00:12:04.921069+00:00",
+    "date_discovered": "2026-10-20T00:12:58.150232+00:00"
   }
 ]
