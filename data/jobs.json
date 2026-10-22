@@ -1111,17 +1111,6 @@
     "date_discovered": "2026-10-13T13:17:31.924595+00:00"
   },
   {
-    "id": 18435431,
-    "company_display": "IBM",
-    "title": "Designer Spring Co-op 2027",
-    "location": "Austin, USA",
-    "url": "https://careers.ibm.com/careers/JobDetail?jobId=133948",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-10-13T18:08:25.681457+00:00"
-  },
-  {
     "id": 18435553,
     "company_display": "Prologis",
     "title": "AI Product Management Intern",
@@ -1296,6 +1285,17 @@
     "country": "us",
     "updated_at": "2026-10-14T00:00:00+00:00",
     "date_discovered": "2026-10-14T20:46:31.393215+00:00"
+  },
+  {
+    "id": 18443832,
+    "company_display": "Philips",
+    "title": "Intern \u2013 Systems Engineering (Sustaining & Design Controls) - San Diego, CA - Summer 2027",
+    "location": "San Diego, California, USA",
+    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/San-Diego-California-United-States/Intern---Systems-Engineering--Sustaining---Design-Controls----San-Diego--CA---Summer-2027_593052/apply?source=Philips_Career_Site",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-14T00:00:00+00:00",
+    "date_discovered": "2026-10-14T23:43:48.943541+00:00"
   },
   {
     "id": 18448225,
@@ -1637,5 +1637,126 @@
     "country": "us",
     "updated_at": "2026-10-20T21:49:51.576867+00:00",
     "date_discovered": "2026-10-20T21:49:52.138119+00:00"
+  },
+  {
+    "id": 18473460,
+    "company_display": "Wise",
+    "title": "Graduate Product Designer",
+    "location": "London, United Kingdom",
+    "url": "https://jobs.smartrecruiters.com/Wise/744000156555328-graduate-product-designer",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-10-20T13:08:04.144000+00:00",
+    "date_discovered": "2026-10-21T00:36:39.063318+00:00"
+  },
+  {
+    "id": 18473985,
+    "company_display": "Cummins",
+    "title": "IT Intern - \u5e73\u9762\u8bbe\u8ba1\u5b9e\u4e60\u751f",
+    "location": "Beijing, China",
+    "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1006/job/2440793",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-21T00:00:00+00:00",
+    "date_discovered": "2026-10-21T02:12:10.624295+00:00"
+  },
+  {
+    "id": 18475735,
+    "company_display": "Revvity",
+    "title": "UX Intern",
+    "location": "Mumbai",
+    "url": "https://revvity.wd103.myworkdayjobs.com/en-US/External/job/Mumbai/UX-Intern_JR-045767",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-21T11:14:46.009676+00:00",
+    "date_discovered": "2026-10-21T11:14:46.933811+00:00"
+  },
+  {
+    "id": 18476191,
+    "company_display": "Amazon",
+    "title": "Amazon Internship Program 2027 | Marketing & Design",
+    "location": "Sao Paulo, BRA",
+    "url": "https://www.amazon.jobs/en/jobs/10585008/amazon-internship-program-2027-marketing-design",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-10-21T12:49:35.019366+00:00"
+  },
+  {
+    "id": 18476789,
+    "company_display": "Stanley-Black-Decker",
+    "title": "Packaging Science Engineering Intern, Graphics/Graphic Design - Summer 2027",
+    "location": "Towson, MD, USA",
+    "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Packaging-Science-Engineering-Intern--Graphics-Graphic-Design---Summer-2027_REQ-1000052821",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-21T14:47:23.365240+00:00",
+    "date_discovered": "2026-10-21T14:47:27.490705+00:00"
+  },
+  {
+    "id": 18476828,
+    "company_display": "Honeywell",
+    "title": "UX/Product Design Intern",
+    "location": "CMX, Mexico",
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/160056",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-21T00:00:00+00:00",
+    "date_discovered": "2026-10-21T15:10:40.665451+00:00"
+  },
+  {
+    "id": 18476925,
+    "company_display": "Leidos",
+    "title": "Network Site Design Intern",
+    "location": "6314 Remote/Teleworker US",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Network-Site-Design-Intern_R-00195057",
+    "skill_level": "intern",
+    "country": "remote",
+    "updated_at": "2026-10-21T15:16:58.677813+00:00",
+    "date_discovered": "2026-10-21T15:17:02.290803+00:00"
+  },
+  {
+    "id": 18477881,
+    "company_display": "KeyCorp",
+    "title": "2027 Summer Graphic Design Internship",
+    "location": "Brooklyn, OH",
+    "url": "https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Graphic-Design-Internship_R-42823",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-21T18:18:19.362328+00:00",
+    "date_discovered": "2026-10-21T18:18:20.724612+00:00"
+  },
+  {
+    "id": 18478743,
+    "company_display": "Sezzle",
+    "title": "Graphic Design Intern",
+    "location": "Peru",
+    "url": "https://job-boards.greenhouse.io/sezzle/jobs/8040652003",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-21T20:49:28+00:00",
+    "date_discovered": "2026-10-21T21:06:43.412290+00:00"
+  },
+  {
+    "id": 18478910,
+    "company_display": "Nucor",
+    "title": "NWS Design Intern - Summer 2027",
+    "location": "Monroe, GA",
+    "url": "https://jobs.nucor.com/job/Monroe-NWS-Design-Intern-Summer-2027-GA-30655/1442528200/",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-21T21:43:00.325700+00:00"
+  },
+  {
+    "id": 18479050,
+    "company_display": "Stifel",
+    "title": "Graphic Design Intern- Summer 2027",
+    "location": "US-MO-Saint Louis",
+    "url": "https://careers-stifel.icims.com/jobs/9881/graphic-design-intern--summer-2027/job",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-21T22:11:26.491895+00:00"
   }
 ]
