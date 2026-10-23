@@ -1,71 +1,5 @@
 [
   {
-    "id": 12069756,
-    "company_display": "Hubbell",
-    "title": "2027 Summer Intern: Engineering - Station Design",
-    "location": "Waukesha, WI",
-    "url": "https://careers.hubbell.com/job/Waukesha-2027-Summer-Intern-Engineering-Station-Design-WI-53186/1431913100/",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-21T13:48:16.919211+00:00"
-  },
-  {
-    "id": 12107888,
-    "company_display": "Colgate-Palmolive",
-    "title": "Design Execution Intern / Co-Op",
-    "location": "Topeka, KS",
-    "url": "https://jobs.colgate.com/job/Topeka-Design-Execution-Intern-Co-Op-KS-66601/1431980400/",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-21T15:16:31.825893+00:00"
-  },
-  {
-    "id": 12107896,
-    "company_display": "Colgate-Palmolive",
-    "title": "Product Design Co-Op",
-    "location": "Topeka, KS",
-    "url": "https://jobs.colgate.com/job/Topeka-Product-Design-Co-Op-KS-66601/1431986000/",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-21T15:16:32.219689+00:00"
-  },
-  {
-    "id": 12133826,
-    "company_display": "Dentsu",
-    "title": "Junior Art Director (AI Focus - stage)",
-    "location": "Milan",
-    "url": "https://dentsuaegis.wd3.myworkdayjobs.com/en-US/DAN_GLOBAL/job/Milan/Junior-Art-Director--AI-Focus---stage-_R1131131-1",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-21T16:16:39.020998+00:00",
-    "date_discovered": "2026-09-21T16:17:32.729629+00:00"
-  },
-  {
-    "id": 12143339,
-    "company_display": "Bain & Company",
-    "title": "Intern, Strategic Design",
-    "location": "Sao Paulo",
-    "url": "https://careers.bain.com/jobs/FolderDetail/109324-Intern-Design/109324",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-21T16:43:04.200598+00:00"
-  },
-  {
-    "id": 12225092,
-    "company_display": "Eaton",
-    "title": "Internship: Software Engineering",
-    "location": "Franksville, Wisconsin, USA",
-    "url": "https://eaton.eightfold.ai/careers/job/687239256127",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-21T19:45:49.738155+00:00"
-  },
-  {
     "id": 12458773,
     "company_display": "Vml",
     "title": "Graphic Designer Intern",
@@ -75,17 +9,6 @@
     "country": "international",
     "updated_at": "2026-09-22T05:49:57+00:00",
     "date_discovered": "2026-09-22T06:02:59.911640+00:00"
-  },
-  {
-    "id": 12495264,
-    "company_display": "ABB",
-    "title": "Temporary Associate Designer",
-    "location": "Brno, Jihomoravsk\u00fd kraj, Czechia",
-    "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Brno-Jihomoravsk-kraj-Czechia/Temporary-Associate-Designer_JR00047983-1/apply",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-22T00:00:00+00:00",
-    "date_discovered": "2026-09-22T11:17:54.733554+00:00"
   },
   {
     "id": 12640026,
@@ -1111,6 +1034,17 @@
     "date_discovered": "2026-10-13T13:17:31.924595+00:00"
   },
   {
+    "id": 18435431,
+    "company_display": "IBM",
+    "title": "Designer Spring Co-op 2027",
+    "location": "Austin, USA",
+    "url": "https://careers.ibm.com/careers/JobDetail?jobId=133948",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-13T18:08:25.681457+00:00"
+  },
+  {
     "id": 18435553,
     "company_display": "Prologis",
     "title": "AI Product Management Intern",
@@ -1164,17 +1098,6 @@
     "country": "us",
     "updated_at": "2026-10-13T22:23:53+00:00",
     "date_discovered": "2026-10-13T22:36:44.481217+00:00"
-  },
-  {
-    "id": 18437241,
-    "company_display": "IBM",
-    "title": "Content Designer (Artificial Intelligence) Intern 2027",
-    "location": "Markham, CA",
-    "url": "https://careers.ibm.com/careers/JobDetail?jobId=136570",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-10-13T23:41:35.843773+00:00"
   },
   {
     "id": 18439301,
@@ -1758,5 +1681,71 @@
     "country": "us",
     "updated_at": null,
     "date_discovered": "2026-10-21T22:11:26.491895+00:00"
+  },
+  {
+    "id": 18482866,
+    "company_display": "Vrtx",
+    "title": "Spring 2027 Co-op, Human-AI Work and Organization Design",
+    "location": "Boston, MA",
+    "url": "https://vrtx.wd501.myworkdayjobs.com/en-US/Vertex_Careers/job/Boston-MA/Spring-2027-Co-op--Human-AI-Work-and-Organization-Design_REQ-31108-1",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-22T00:00:00+00:00",
+    "date_discovered": "2026-10-22T14:19:04.529807+00:00"
+  },
+  {
+    "id": 18482984,
+    "company_display": "Cibc",
+    "title": "Research Operations & AI Enablement, Winter 2027 Co-op",
+    "location": "Toronto, ON",
+    "url": "https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Research-Operations---AI-Enablement--Winter-2027-Co-op_2621713",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-22T14:47:21.300731+00:00",
+    "date_discovered": "2026-10-22T14:48:03.647090+00:00"
+  },
+  {
+    "id": 18483601,
+    "company_display": "Target",
+    "title": "Designer Intern, Owned Brands- Minneapolis, MN (Starting Summer, 2027)",
+    "location": "1000 Nicollet Mall, Minneapolis, MN",
+    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Designer-Intern--Owned-Brands--Minneapolis--MN--Starting-Summer--2027-_R0000478536-1",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-22T16:40:07.157314+00:00",
+    "date_discovered": "2026-10-22T16:42:20.391518+00:00"
+  },
+  {
+    "id": 18484051,
+    "company_display": "SeatGeek",
+    "title": "UX Design - Internship",
+    "location": "New York",
+    "url": "https://seatgeek.com/jobs/8248125?gh_jid=8248125",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-22T17:58:49+00:00",
+    "date_discovered": "2026-10-22T18:06:44.000809+00:00"
+  },
+  {
+    "id": 18484316,
+    "company_display": "Stanley-Black-Decker",
+    "title": "Design-To-Value Engineering Intern - Summer 2027",
+    "location": "Towson, MD, USA",
+    "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Design-To-Value-Engineering-Intern---Summer-2027_REQ-1000052535",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-22T18:47:31.983631+00:00",
+    "date_discovered": "2026-10-22T18:47:38.446520+00:00"
+  },
+  {
+    "id": 18484627,
+    "company_display": "Entegris",
+    "title": "Designer/Drafter Co-Op",
+    "location": "San Luis Obispo, CA",
+    "url": "https://entegris.wd1.myworkdayjobs.com/en-US/EntegrisCareers/job/San-Luis-Obispo-CA/Designer-Drafter-Co-Op_REQ-14429",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-22T19:47:12.139507+00:00",
+    "date_discovered": "2026-10-22T19:47:25.247519+00:00"
   }
 ]
