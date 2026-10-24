@@ -1,104 +1,5 @@
 [
   {
-    "id": 12458773,
-    "company_display": "Vml",
-    "title": "Graphic Designer Intern",
-    "location": "Kuala Lumpur, Malaysia",
-    "url": "https://www.vml.com/careers/job/8829781002?gh_jid=8829781002",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-22T05:49:57+00:00",
-    "date_discovered": "2026-09-22T06:02:59.911640+00:00"
-  },
-  {
-    "id": 12640026,
-    "company_display": "TikTok",
-    "title": "Design System Design Intern (Monetization Ads) - 2027 Summer",
-    "location": "San Jose, California",
-    "url": "https://lifeattiktok.com/search/7673245417890875701",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-22T16:53:02.794921+00:00"
-  },
-  {
-    "id": 12640194,
-    "company_display": "TikTok",
-    "title": "Content Design Project Intern (TikTok Local Services) - 2026 Start",
-    "location": "Singapore",
-    "url": "https://lifeattiktok.com/search/7670518887450265861",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-22T16:53:08.787763+00:00"
-  },
-  {
-    "id": 12641220,
-    "company_display": "TikTok",
-    "title": "Content Design Operations & Systems Intern (TikTok-Design)-2027 Start",
-    "location": "Singapore",
-    "url": "https://lifeattiktok.com/search/7667863974363105541",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-22T16:53:50.824906+00:00"
-  },
-  {
-    "id": 12641269,
-    "company_display": "TikTok",
-    "title": "Effect Design Intern (TikTok-Design) - 2027 Start",
-    "location": "Singapore",
-    "url": "https://lifeattiktok.com/search/7667861830501124405",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-22T16:53:52.248914+00:00"
-  },
-  {
-    "id": 12641272,
-    "company_display": "TikTok",
-    "title": "Effect Design Intern (TikTok-Design) - 2027 Summer",
-    "location": "San Jose, California",
-    "url": "https://lifeattiktok.com/search/7667859044874553653",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-22T16:53:52.281720+00:00"
-  },
-  {
-    "id": 12643781,
-    "company_display": "Infineon",
-    "title": "Internship - Digital Design System Development (f/m/div)",
-    "location": "Klagenfurt",
-    "url": "https://jobs.infineon.com/careers/job/563808971874431",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-22T16:56:40.291016+00:00"
-  },
-  {
-    "id": 12734879,
-    "company_display": "L3Harris",
-    "title": "Associate, Designer (Huntsville, AL)",
-    "location": "Huntsville, AL",
-    "url": "https://careers.l3harris.com/en/job/huntsville/associate-designer-huntsville-al/4832/101000911408",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-22T20:18:45.286700+00:00"
-  },
-  {
-    "id": 12751014,
-    "company_display": "IBM",
-    "title": "Design Engineer Intern 2027 - Design and Build AI-Native Interfaces",
-    "location": "Yorktown Heights, USA",
-    "url": "https://careers.ibm.com/careers/JobDetail?jobId=133801",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-22T20:51:38.652137+00:00"
-  },
-  {
     "id": 13061678,
     "company_display": "Symbotic",
     "title": "Intern - User Experience",
@@ -110,28 +11,6 @@
     "date_discovered": "2026-09-23T13:18:20.740607+00:00"
   },
   {
-    "id": 13105301,
-    "company_display": "ABB",
-    "title": "Graphic Design & Illustration Intern (UX/UI Team)",
-    "location": "Krakow, Lesser Poland, Poland",
-    "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Krakow-Lesser-Poland-Poland/Graphic-Design---Illustration-Intern--UX-UI-Team-_JR00048435/apply",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-23T00:00:00+00:00",
-    "date_discovered": "2026-09-23T14:54:14.424719+00:00"
-  },
-  {
-    "id": 13105302,
-    "company_display": "ABB",
-    "title": "Student Internship - UX Designer",
-    "location": "Krakow, Lesser Poland, Poland",
-    "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Krakow-Lesser-Poland-Poland/Student-Internship---UX-Designer_JR00048119-1/apply",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-23T00:00:00+00:00",
-    "date_discovered": "2026-09-23T14:54:14.428626+00:00"
-  },
-  {
     "id": 13123268,
     "company_display": "Emcor-Group",
     "title": "Graphic Design Co-op - Spring 2027",
@@ -141,17 +20,6 @@
     "country": "us",
     "updated_at": null,
     "date_discovered": "2026-09-23T15:31:09.109265+00:00"
-  },
-  {
-    "id": 13266611,
-    "company_display": "Procter & Gamble",
-    "title": "Design Co-op Summer 2027",
-    "location": "CINCINNATI, Ohio, USA",
-    "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Design-Co-op-Summer-2027_R000159711/apply",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-23T00:00:00+00:00",
-    "date_discovered": "2026-09-23T21:48:14.999571+00:00"
   },
   {
     "id": 13575318,
@@ -902,17 +770,6 @@
     "date_discovered": "2026-10-12T03:06:43.710852+00:00"
   },
   {
-    "id": 18425830,
-    "company_display": "TIAA",
-    "title": "2027 Early Talent Internship: Digital & Client Experience (Design)",
-    "location": "Charlotte, NC, USA; Dallas, TX, USA",
-    "url": "https://tiaa.wd1.myworkdayjobs.com/en-US/Search/job/Charlotte-NC-USA/XMLNAME-2027-Early-Talent-Internship--Digital---Client-Experience--Design-_R261000113",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-12T04:13:29.252714+00:00",
-    "date_discovered": "2026-10-12T04:13:30.096192+00:00"
-  },
-  {
     "id": 18428653,
     "company_display": "Apple",
     "title": "2027 Apple Internship - Information Systems and Technology",
@@ -1098,6 +955,17 @@
     "country": "us",
     "updated_at": "2026-10-13T22:23:53+00:00",
     "date_discovered": "2026-10-13T22:36:44.481217+00:00"
+  },
+  {
+    "id": 18437241,
+    "company_display": "IBM",
+    "title": "Content Designer (Artificial Intelligence) Intern 2027",
+    "location": "Markham, CA",
+    "url": "https://careers.ibm.com/careers/JobDetail?jobId=136570",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-13T23:41:35.843773+00:00"
   },
   {
     "id": 18439301,
@@ -1747,5 +1615,49 @@
     "country": "us",
     "updated_at": "2026-10-22T19:47:12.139507+00:00",
     "date_discovered": "2026-10-22T19:47:25.247519+00:00"
+  },
+  {
+    "id": 18488624,
+    "company_display": "Macys",
+    "title": "Assistant Designer",
+    "location": "New York, NY, USA",
+    "url": "https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/93740",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-10-23T00:00:00+00:00",
+    "date_discovered": "2026-10-23T14:12:20.611632+00:00"
+  },
+  {
+    "id": 18489788,
+    "company_display": "Philips",
+    "title": "Intern \u2013 Service Offer Design \u2013 Cambridge, MA \u2013 Summer 2027",
+    "location": "Cambridge, Massachusetts, USA",
+    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern----Service-Offer-Design---Cambridge--MA---Summer-2027_593517/apply?source=Philips_Career_Site",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-23T00:00:00+00:00",
+    "date_discovered": "2026-10-23T17:44:50.054007+00:00"
+  },
+  {
+    "id": 18490584,
+    "company_display": "Intercontinental-Exchange",
+    "title": "Summer Internship Program 2027 - User Experience (UX) Designer Intern",
+    "location": "New York",
+    "url": "https://careers-ice.icims.com/jobs/14111/login",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-23T20:09:00+00:00",
+    "date_discovered": "2026-10-23T20:15:29.489287+00:00"
+  },
+  {
+    "id": 18490607,
+    "company_display": "Intercontinental-Exchange",
+    "title": "Summer Internship Program 2027 - Enterprise UX Intern",
+    "location": "Atlanta, Georgia",
+    "url": "https://careers-ice.icims.com/jobs/14058/login",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-23T20:09:00+00:00",
+    "date_discovered": "2026-10-23T20:15:29.773008+00:00"
   }
 ]
