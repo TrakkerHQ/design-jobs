@@ -1,27 +1,5 @@
 [
   {
-    "id": 13061678,
-    "company_display": "Symbotic",
-    "title": "Intern - User Experience",
-    "location": "USA Wilmington, MA - HQ",
-    "url": "https://symbotic.wd504.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Intern---User-Experience_R7968",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-23T13:17:56.743095+00:00",
-    "date_discovered": "2026-09-23T13:18:20.740607+00:00"
-  },
-  {
-    "id": 13123268,
-    "company_display": "Emcor-Group",
-    "title": "Graphic Design Co-op - Spring 2027",
-    "location": "US-OH-Cincinnati",
-    "url": "https://careers-emcorgroup.icims.com/jobs/51857/graphic-design-co-op---spring-2027/job",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-23T15:31:09.109265+00:00"
-  },
-  {
     "id": 13575318,
     "company_display": "Stackadapt",
     "title": "Product Design Intern - Winter 2027",
@@ -31,39 +9,6 @@
     "country": "international",
     "updated_at": "2026-09-24T14:14:08+00:00",
     "date_discovered": "2026-09-24T14:36:52.175932+00:00"
-  },
-  {
-    "id": 13593090,
-    "company_display": "JPMorgan",
-    "title": "Product Designer \u2013 Private Bank Digital, Early Career",
-    "location": "New York, NY, USA",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210794454",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": "2026-09-24T00:00:00+00:00",
-    "date_discovered": "2026-09-24T15:12:16.222926+00:00"
-  },
-  {
-    "id": 13706014,
-    "company_display": "Cummins",
-    "title": "Product Systems Design - Summer Internship Positions",
-    "location": "Columbus, IN, USA",
-    "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1006/job/2437751",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-24T00:00:00+00:00",
-    "date_discovered": "2026-09-24T19:40:24.086789+00:00"
-  },
-  {
-    "id": 13706017,
-    "company_display": "Cummins",
-    "title": "Product Systems Design - Co-Op Positions",
-    "location": "Columbus, IN, USA",
-    "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1006/job/2437750",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-24T00:00:00+00:00",
-    "date_discovered": "2026-09-24T19:40:24.897304+00:00"
   },
   {
     "id": 13892309,
@@ -88,17 +33,6 @@
     "date_discovered": "2026-09-25T04:11:56.215935+00:00"
   },
   {
-    "id": 13927488,
-    "company_display": "Trane-Technologies",
-    "title": "Designer 1",
-    "location": "Lexington, Kentucky, USA",
-    "url": "https://tranetechnologies.wd12.myworkdayjobs.com/Trane_Technologies_Careers/job/Lexington-Kentucky/Designer-1_JR-13001-1/apply",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": "2026-09-24T00:00:00+00:00",
-    "date_discovered": "2026-09-25T04:13:28.673230+00:00"
-  },
-  {
     "id": 14665172,
     "company_display": "Huntington Ingalls Industries",
     "title": "DESIGNER CO-OP",
@@ -108,17 +42,6 @@
     "country": "us",
     "updated_at": null,
     "date_discovered": "2026-09-27T05:26:27.292395+00:00"
-  },
-  {
-    "id": 14830005,
-    "company_display": "Havas",
-    "title": "Graphic Designer Assistant",
-    "location": "Puteaux",
-    "url": "https://havas.wd3.myworkdayjobs.com/en-US/GroupExternalCareerSite/job/Puteaux/Assistante-Art-Director_JR0093227-1",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": "2026-09-23T22:15:22.186798+00:00",
-    "date_discovered": "2026-09-27T22:22:01.165752+00:00"
   },
   {
     "id": 14909089,
@@ -1177,17 +1100,6 @@
     "date_discovered": "2026-10-16T14:13:56.979841+00:00"
   },
   {
-    "id": 18454258,
-    "company_display": "Sanofi",
-    "title": "2027 Spring Co op Biologics Design and AI Cambridge MA",
-    "location": "Location:Cambridge, Massachusetts",
-    "url": "https://jobs.sanofi.com/en/job/cambridge/2027-spring-co-op-biologics-design-and-ai-cambridge-ma/2649/46013519872",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-10-16T17:10:18.526996+00:00"
-  },
-  {
     "id": 18455461,
     "company_display": "Persona",
     "title": "Product Design, Intern (Summer 2027)",
@@ -1659,5 +1571,16 @@
     "country": "us",
     "updated_at": "2026-10-23T20:09:00+00:00",
     "date_discovered": "2026-10-23T20:15:29.773008+00:00"
+  },
+  {
+    "id": 18493676,
+    "company_display": "Stanley-Black-Decker",
+    "title": "UX/UI Design Intern - Summer 2027",
+    "location": "Valley City, OH, USA",
+    "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Valley-City-OH-United-States/UX-UI-Design-Intern---Summer-2027_REQ-1000052835",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-24T12:17:01.509484+00:00",
+    "date_discovered": "2026-10-24T12:17:03.622952+00:00"
   }
 ]
