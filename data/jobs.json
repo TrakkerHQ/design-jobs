@@ -1,27 +1,5 @@
 [
   {
-    "id": 13892309,
-    "company_display": "L3Harris",
-    "title": "Associate, Multimedia Web Developer/Programmer (Technical Training)",
-    "location": "Rochester, NY",
-    "url": "https://careers.l3harris.com/en/job/rochester/associate-multimedia-web-developer-programmer-technical-training/4832/100033500048",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-25T02:25:46.231164+00:00"
-  },
-  {
-    "id": 13926300,
-    "company_display": "Fox",
-    "title": "Spring 2027 FOX News Media Internship Program - Graphic Design - New York",
-    "location": "New York, USA",
-    "url": "https://fox.wd1.myworkdayjobs.com/en-US/Domestic/job/New-York-New-York-USA/Spring-2027-FOX-News-Media-Internship-Program---Graphic-Design---New-York_R50033952-1",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-25T04:11:51.566171+00:00",
-    "date_discovered": "2026-09-25T04:11:56.215935+00:00"
-  },
-  {
     "id": 14665172,
     "company_display": "Huntington Ingalls Industries",
     "title": "DESIGNER CO-OP",
@@ -990,6 +968,17 @@
     "date_discovered": "2026-10-14T20:46:31.393215+00:00"
   },
   {
+    "id": 18443832,
+    "company_display": "Philips",
+    "title": "Intern \u2013 Systems Engineering (Sustaining & Design Controls) - San Diego, CA - Summer 2027",
+    "location": "San Diego, California, USA",
+    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/San-Diego-California-United-States/Intern---Systems-Engineering--Sustaining---Design-Controls----San-Diego--CA---Summer-2027_593052/apply?source=Philips_Career_Site",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-14T00:00:00+00:00",
+    "date_discovered": "2026-10-14T23:43:48.943541+00:00"
+  },
+  {
     "id": 18448225,
     "company_display": "PrizePicks",
     "title": "UX Research Intern - Spring 2027",
@@ -1287,28 +1276,6 @@
     "date_discovered": "2026-10-20T20:06:40.547313+00:00"
   },
   {
-    "id": 18472075,
-    "company_display": "Wise",
-    "title": "Graduate Content Designer",
-    "location": "London, United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/Wise/744000156555689-graduate-content-designer",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": "2026-10-20T13:09:28.128000+00:00",
-    "date_discovered": "2026-10-20T20:06:40.737445+00:00"
-  },
-  {
-    "id": 18472076,
-    "company_display": "Wise",
-    "title": "Design & Research Operations Graduate",
-    "location": "London, United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/Wise/744000156554310-design-research-operations-graduate",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": "2026-10-20T13:08:37.737000+00:00",
-    "date_discovered": "2026-10-20T20:06:40.768161+00:00"
-  },
-  {
     "id": 18472743,
     "company_display": "Zillow",
     "title": "Product Design Intern",
@@ -1318,17 +1285,6 @@
     "country": "us",
     "updated_at": "2026-10-20T21:49:51.576867+00:00",
     "date_discovered": "2026-10-20T21:49:52.138119+00:00"
-  },
-  {
-    "id": 18473460,
-    "company_display": "Wise",
-    "title": "Graduate Product Designer",
-    "location": "London, United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/Wise/744000156555328-graduate-product-designer",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": "2026-10-20T13:08:04.144000+00:00",
-    "date_discovered": "2026-10-21T00:36:39.063318+00:00"
   },
   {
     "id": 18473985,
@@ -1518,17 +1474,6 @@
     "date_discovered": "2026-10-23T14:12:20.611632+00:00"
   },
   {
-    "id": 18489788,
-    "company_display": "Philips",
-    "title": "Intern \u2013 Service Offer Design \u2013 Cambridge, MA \u2013 Summer 2027",
-    "location": "Cambridge, Massachusetts, USA",
-    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern----Service-Offer-Design---Cambridge--MA---Summer-2027_593517/apply?source=Philips_Career_Site",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-23T00:00:00+00:00",
-    "date_discovered": "2026-10-23T17:44:50.054007+00:00"
-  },
-  {
     "id": 18490584,
     "company_display": "Intercontinental-Exchange",
     "title": "Summer Internship Program 2027 - User Experience (UX) Designer Intern",
@@ -1560,5 +1505,93 @@
     "country": "us",
     "updated_at": "2026-10-24T12:17:01.509484+00:00",
     "date_discovered": "2026-10-24T12:17:03.622952+00:00"
+  },
+  {
+    "id": 18497348,
+    "company_display": "Sezzle",
+    "title": "Product Design Intern",
+    "location": "Peru",
+    "url": "https://job-boards.greenhouse.io/sezzle/jobs/8044001003",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-26T03:23:30+00:00",
+    "date_discovered": "2026-10-26T04:01:29.183360+00:00"
+  },
+  {
+    "id": 18497940,
+    "company_display": "Sephora",
+    "title": "Intern, Design Intern, Hair Category Marketing",
+    "location": "San Francisco",
+    "url": "https://jobs.sephora.com/USA/job/San-Francisco-Intern%2C-Design-Intern%2C-Hair-Category-Marketing-CA-USA_519957/1373842455/",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-26T08:08:08.871243+00:00"
+  },
+  {
+    "id": 18499632,
+    "company_display": "AEP",
+    "title": "Customer Design Technician Intern",
+    "location": "Pulaski, VA",
+    "url": "https://aep.wd1.myworkdayjobs.com/en-US/AEPCareerSite/job/Pulaski-VA/Customer-Design-Technician-Intern_R20594",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-26T14:49:49.396028+00:00",
+    "date_discovered": "2026-10-26T14:49:49.972471+00:00"
+  },
+  {
+    "id": 18500905,
+    "company_display": "Disney",
+    "title": "Fashion, Home & Stationery Product Design and Development Internship",
+    "location": "London, United Kingdom",
+    "url": "https://join.disneycareers.com/global/en/job/10162507",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-13T14:05:54+00:00",
+    "date_discovered": "2026-10-26T18:48:56.337267+00:00"
+  },
+  {
+    "id": 18500906,
+    "company_display": "Disney",
+    "title": "Hardlines Product Design & Development Internship",
+    "location": "London, United Kingdom",
+    "url": "https://join.disneycareers.com/global/en/job/10162531",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-13T13:03:36+00:00",
+    "date_discovered": "2026-10-26T18:48:56.341127+00:00"
+  },
+  {
+    "id": 18500908,
+    "company_display": "Disney",
+    "title": "Graphic and Digital Design Internship",
+    "location": "London, United Kingdom",
+    "url": "https://join.disneycareers.com/global/en/job/10162530",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-13T12:44:02+00:00",
+    "date_discovered": "2026-10-26T18:48:56.346699+00:00"
+  },
+  {
+    "id": 18501559,
+    "company_display": "IBM",
+    "title": "Designer Spring Co-op 2027",
+    "location": "DURHAM, USA",
+    "url": "https://careers.ibm.com/careers/JobDetail?jobId=137949",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-26T21:10:06.132665+00:00"
+  },
+  {
+    "id": 18501960,
+    "company_display": "New-Balance",
+    "title": "Graphic Design Co-Op",
+    "location": "Boston, MA Headquarters - (NB)",
+    "url": "https://newbalance.wd1.myworkdayjobs.com/en-US/Careers/job/Boston-MA-Headquarters---NB/Graphic-Design-Co-Op_R41553",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-26T22:18:55.246362+00:00",
+    "date_discovered": "2026-10-26T22:18:55.955352+00:00"
   }
 ]
