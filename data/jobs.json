@@ -1089,17 +1089,6 @@
     "date_discovered": "2026-10-19T11:14:04.112051+00:00"
   },
   {
-    "id": 18463615,
-    "company_display": "PwC",
-    "title": "Product Designer Junior @PwC Experience Center Paris - F/H",
-    "location": "Paris - Milan",
-    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Paris---Milan/Product-Designer-Junior--PwC-Experience-Center-Paris---F-H_768751WD",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": "2026-10-19T12:36:28.374213+00:00",
-    "date_discovered": "2026-10-19T12:43:32.970142+00:00"
-  },
-  {
     "id": 18464561,
     "company_display": "Meta",
     "title": "Softgoods Product Design Engineering Intern",
@@ -1186,17 +1175,6 @@
     "country": "international",
     "updated_at": "2026-10-20T09:35:12+00:00",
     "date_discovered": "2026-10-20T10:00:55.131470+00:00"
-  },
-  {
-    "id": 18469202,
-    "company_display": "Merck",
-    "title": "Creative Designer Intern",
-    "location": "ARE - Dubai - Falak Building",
-    "url": "https://msd.wd5.myworkdayjobs.com/en-US/searchjobs/job/ARE---Dubai---Falak-Building/Creative-Designer-Intern_R423029",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-10-20T10:10:41.460055+00:00",
-    "date_discovered": "2026-10-20T10:11:15.770421+00:00"
   },
   {
     "id": 18469747,
@@ -1474,6 +1452,17 @@
     "date_discovered": "2026-10-23T14:12:20.611632+00:00"
   },
   {
+    "id": 18489788,
+    "company_display": "Philips",
+    "title": "Intern \u2013 Service Offer Design \u2013 Cambridge, MA \u2013 Summer 2027",
+    "location": "Cambridge, Massachusetts, USA",
+    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern----Service-Offer-Design---Cambridge--MA---Summer-2027_593517/apply?source=Philips_Career_Site",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-23T00:00:00+00:00",
+    "date_discovered": "2026-10-23T17:44:50.054007+00:00"
+  },
+  {
     "id": 18490584,
     "company_display": "Intercontinental-Exchange",
     "title": "Summer Internship Program 2027 - User Experience (UX) Designer Intern",
@@ -1516,17 +1505,6 @@
     "country": "international",
     "updated_at": "2026-10-26T03:23:30+00:00",
     "date_discovered": "2026-10-26T04:01:29.183360+00:00"
-  },
-  {
-    "id": 18497940,
-    "company_display": "Sephora",
-    "title": "Intern, Design Intern, Hair Category Marketing",
-    "location": "San Francisco",
-    "url": "https://jobs.sephora.com/USA/job/San-Francisco-Intern%2C-Design-Intern%2C-Hair-Category-Marketing-CA-USA_519957/1373842455/",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-10-26T08:08:08.871243+00:00"
   },
   {
     "id": 18499632,
@@ -1584,14 +1562,146 @@
     "date_discovered": "2026-10-26T21:10:06.132665+00:00"
   },
   {
-    "id": 18501960,
-    "company_display": "New-Balance",
-    "title": "Graphic Design Co-Op",
-    "location": "Boston, MA Headquarters - (NB)",
-    "url": "https://newbalance.wd1.myworkdayjobs.com/en-US/Careers/job/Boston-MA-Headquarters---NB/Graphic-Design-Co-Op_R41553",
+    "id": 18504441,
+    "company_display": "Lego",
+    "title": "Student Worker - Design and Asset Governance",
+    "location": "Billund",
+    "url": "https://lego.wd103.myworkdayjobs.com/en-US/LEGO_External/job/Billund/Student-Worker---Design-and-Asset-Governance_0000039640",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-27T10:11:26.073220+00:00",
+    "date_discovered": "2026-10-27T10:11:32.989194+00:00"
+  },
+  {
+    "id": 18505166,
+    "company_display": "Thermofisher",
+    "title": "Engineer I, Systems Design",
+    "location": "Birmingham, United Kingdom",
+    "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Birmingham-United-Kingdom/Engineer-I--Systems-Design_R-01372004-1/apply",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-10-27T00:00:00+00:00",
+    "date_discovered": "2026-10-27T13:17:38.447605+00:00"
+  },
+  {
+    "id": 18505209,
+    "company_display": "Lila Sciences",
+    "title": "Co-Op, AI Nucleic Acid Design",
+    "location": "San Francisco, CA USA",
+    "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4465061009",
     "skill_level": "intern",
     "country": "us",
-    "updated_at": "2026-10-26T22:18:55.246362+00:00",
-    "date_discovered": "2026-10-26T22:18:55.955352+00:00"
+    "updated_at": "2026-10-27T13:32:30+00:00",
+    "date_discovered": "2026-10-27T13:36:56.075014+00:00"
+  },
+  {
+    "id": 18505492,
+    "company_display": "Garmin",
+    "title": "Product Designer 1",
+    "location": "Olathe, Kansas",
+    "url": "https://careers-garmin.icims.com/jobs/19863/login",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-10-27T14:01:00+00:00",
+    "date_discovered": "2026-10-27T14:16:43.816049+00:00"
+  },
+  {
+    "id": 18505792,
+    "company_display": "Dover",
+    "title": "Intern, Engineer New Product Development/Design to Value (NPD/DTV)",
+    "location": "Chester, Virginia, USA; Richmond, USA",
+    "url": "https://dover.wd103.myworkdayjobs.com/en-US/Dover/job/Chester-Virginia-USA/Intern--Engineer-New-Product-Development-Design-to-Value--NPD-DTV-_JR102047",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-27T15:16:39.047320+00:00",
+    "date_discovered": "2026-10-27T15:16:40.408893+00:00"
+  },
+  {
+    "id": 18505845,
+    "company_display": "ServiceNow",
+    "title": "Experience Team \u2013 UX Research Internships \u2013 Summer 2027",
+    "location": "San Diego, CALIFORNIA",
+    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157919529-experience-team-ux-research-internships-summer-2027",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-26T22:21:14.915000+00:00",
+    "date_discovered": "2026-10-27T15:37:38.427154+00:00"
+  },
+  {
+    "id": 18506390,
+    "company_display": "SharkNinja",
+    "title": "Spring 2027: Industrial Design Co-op (January through June)",
+    "location": "New York, USA",
+    "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720294006",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-27T16:51:59+00:00",
+    "date_discovered": "2026-10-27T17:06:29.528009+00:00"
+  },
+  {
+    "id": 18506391,
+    "company_display": "SharkNinja",
+    "title": "Spring 2027: Industrial Design Co-op (January through June)",
+    "location": "Needham, MA, USA",
+    "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720208006",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-27T16:39:23+00:00",
+    "date_discovered": "2026-10-27T17:06:29.546515+00:00"
+  },
+  {
+    "id": 18506590,
+    "company_display": "Disney",
+    "title": "Product Design and Development Intern",
+    "location": "Madrid, Spain",
+    "url": "https://join.disneycareers.com/global/en/job/10162001",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-27T17:14:47+00:00",
+    "date_discovered": "2026-10-27T17:20:14.277825+00:00"
+  },
+  {
+    "id": 18507064,
+    "company_display": "Sonos",
+    "title": "Brand Design Intern (New York)",
+    "location": "Remote - New York, NY",
+    "url": "https://sonos.wd1.myworkdayjobs.com/en-US/Sonos/job/Remote---New-York-NY/Brand-Design-Intern--New-York-_R2877-1",
+    "skill_level": "intern",
+    "country": "remote",
+    "updated_at": "2026-10-27T18:51:27.936864+00:00",
+    "date_discovered": "2026-10-27T18:51:28.715943+00:00"
+  },
+  {
+    "id": 18507242,
+    "company_display": "Logitech",
+    "title": "Creative & Design Operations Intern",
+    "location": "Cork, Ireland",
+    "url": "https://logitech.wd5.myworkdayjobs.com/en-US/Logitech/job/Cork-Ireland/Creative---Design-Operations-Intern_148584",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-27T19:19:17.234050+00:00",
+    "date_discovered": "2026-10-27T19:19:17.938198+00:00"
+  },
+  {
+    "id": 18507250,
+    "company_display": "ServiceNow",
+    "title": "Experience Team \u2013 Associate Product Design Internships \u2013 Summer 2027",
+    "location": "San Diego, CALIFORNIA",
+    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000158130527-experience-team-associate-product-design-internships-summer-2027",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-27T19:10:22.662000+00:00",
+    "date_discovered": "2026-10-27T19:36:51.512716+00:00"
+  },
+  {
+    "id": 18507807,
+    "company_display": "Garmin",
+    "title": "UI Designer Intern (Spring 2027)",
+    "location": "Olathe, Kansas",
+    "url": "https://careers-garmin.icims.com/jobs/20499/login",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-27T20:50:00+00:00",
+    "date_discovered": "2026-10-27T21:16:25.348399+00:00"
   }
 ]
