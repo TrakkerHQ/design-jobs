@@ -1,16 +1,5 @@
 [
   {
-    "id": 14665172,
-    "company_display": "Huntington Ingalls Industries",
-    "title": "DESIGNER CO-OP",
-    "location": "Newport News",
-    "url": "https://careers.huntingtoningalls.com/job/Newport-News-DESIGNER-CO-OP-Virg/1433639700/",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-27T05:26:27.292395+00:00"
-  },
-  {
     "id": 14909089,
     "company_display": "Fox",
     "title": "Summer 2027 FOX News Media Internship Program - Graphic Design - New York",
@@ -1243,17 +1232,6 @@
     "date_discovered": "2026-10-20T17:06:34.019372+00:00"
   },
   {
-    "id": 18472074,
-    "company_display": "Wise",
-    "title": "Graduate UX Researcher",
-    "location": "London, United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/Wise/744000156556099-graduate-ux-researcher",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": "2026-10-20T13:10:32.972000+00:00",
-    "date_discovered": "2026-10-20T20:06:40.547313+00:00"
-  },
-  {
     "id": 18472743,
     "company_display": "Zillow",
     "title": "Product Design Intern",
@@ -1703,5 +1681,225 @@
     "country": "us",
     "updated_at": "2026-10-27T20:50:00+00:00",
     "date_discovered": "2026-10-27T21:16:25.348399+00:00"
+  },
+  {
+    "id": 18509777,
+    "company_display": "Coinbase",
+    "title": "User Research Intern",
+    "location": "Hybrid - San Francisco, CA",
+    "url": "https://www.coinbase.com/careers/positions/8175360?gh_jid=8175360",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-13T23:49:59+00:00",
+    "date_discovered": "2026-10-28T04:01:13.649405+00:00"
+  },
+  {
+    "id": 18510069,
+    "company_display": "Atlassian",
+    "title": "Research Intern, 2027 Summer U.S.",
+    "location": "Seattle - United States - Seattle, Washington United States",
+    "url": "https://campus-americas.icims.com/jobs/26270/research-intern%2c-2027-summer-u.s./job",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-22T21:12:00+00:00",
+    "date_discovered": "2026-10-28T04:06:10.163211+00:00"
+  },
+  {
+    "id": 18510118,
+    "company_display": "Hilton",
+    "title": "2027 Graphic Design Placement",
+    "location": "Watford, Hertfordshire, United Kingdom",
+    "url": "https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/219148",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-01T00:00:00+00:00",
+    "date_discovered": "2026-10-28T04:07:15.167252+00:00"
+  },
+  {
+    "id": 18510194,
+    "company_display": "Insomniac Games",
+    "title": "User Research Intern (Tools)- Master's",
+    "location": "USA, Burbank, CA",
+    "url": "https://job-boards.greenhouse.io/insomniac/jobs/6227520004",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-27T16:10:09+00:00",
+    "date_discovered": "2026-10-28T04:08:31.923726+00:00"
+  },
+  {
+    "id": 18510273,
+    "company_display": "PwC",
+    "title": "FY 27 - Intern - External Communications (Website)",
+    "location": "Indonesia",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/FY-27---Intern---External-Communications--Website-_742784WD",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-28T04:02:24.383361+00:00",
+    "date_discovered": "2026-10-28T04:09:39.035253+00:00"
+  },
+  {
+    "id": 18510284,
+    "company_display": "PwC",
+    "title": "Intern - External Communications (Website)",
+    "location": "Not specified",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Intern---External-Communications--Website-_688645WD",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-28T04:02:30.675923+00:00",
+    "date_discovered": "2026-10-28T04:09:39.644286+00:00"
+  },
+  {
+    "id": 18510770,
+    "company_display": "Synchrony Financial",
+    "title": "UConn Stamford Digital Technology Center Intern - Summer 2027",
+    "location": "Stamford Hub",
+    "url": "https://synchronyfinancial.wd5.myworkdayjobs.com/en-US/University/job/Stamford-Hub/UConn-Stamford-Digital-Technology-Center-Intern---Summer-2027_2602661",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-28T04:15:46.941834+00:00",
+    "date_discovered": "2026-10-28T04:15:50.417097+00:00"
+  },
+  {
+    "id": 18511228,
+    "company_display": "Google",
+    "title": "User Experience Design Intern, Summer 2027, YouTube UX",
+    "location": "Bengaluru, Karnataka, India",
+    "url": "https://careers.google.com/jobs/results/78252225691820742-user-experience-design-intern/",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-10-28T08:02:35.615125+00:00"
+  },
+  {
+    "id": 18512339,
+    "company_display": "Str",
+    "title": "Graphic Design & Technical Communications Co-Op",
+    "location": "Woburn, MA",
+    "url": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4725252006",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-28T13:03:48+00:00",
+    "date_discovered": "2026-10-28T13:06:42.368404+00:00"
+  },
+  {
+    "id": 18512535,
+    "company_display": "Moodys",
+    "title": "Data Visualization & Brand Design Summer Intern",
+    "location": "New York, NY",
+    "url": "https://careers.moodys.com/en/job/new-york/data-visualization-and-brand-design-summer-intern/49841/101714036384",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-28T13:38:57.984534+00:00"
+  },
+  {
+    "id": 18512583,
+    "company_display": "Schneider-Electric",
+    "title": "Engineer I, Electrical Systems Design",
+    "location": "Salisbury, North Carolina",
+    "url": "https://careers-se.icims.com/jobs/139127/login",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-10-28T00:00:00+00:00",
+    "date_discovered": "2026-10-28T13:46:16.173681+00:00"
+  },
+  {
+    "id": 18512997,
+    "company_display": "Disney",
+    "title": "Graphic Design Intern",
+    "location": "Lisbon, Portugal",
+    "url": "https://join.disneycareers.com/global/en/job/10162502",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-28T14:36:05+00:00",
+    "date_discovered": "2026-10-28T14:50:53.480455+00:00"
+  },
+  {
+    "id": 18513250,
+    "company_display": "Estee Lauder Companies",
+    "title": "Graphic & Product Design Assistant Intern",
+    "location": "Paris, FR-75, France",
+    "url": "https://careers.elcompanies.com/careers/job/1168276051160",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-10-28T15:44:59.503071+00:00"
+  },
+  {
+    "id": 18513874,
+    "company_display": "Disney",
+    "title": "Walt Disney Animation Studios Product Design Intern, Summer 2027",
+    "location": "Burbank, California, USA",
+    "url": "https://join.disneycareers.com/global/en/job/10163096",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-28T17:07:40+00:00",
+    "date_discovered": "2026-10-28T17:22:26.068465+00:00"
+  },
+  {
+    "id": 18513914,
+    "company_display": "Kroger",
+    "title": "Spring 2027 Graphic Design Intern",
+    "location": "Cincinnati, OH, USA",
+    "url": "https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/246142",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-28T00:00:00+00:00",
+    "date_discovered": "2026-10-28T17:44:06.903917+00:00"
+  },
+  {
+    "id": 18514478,
+    "company_display": "Centene",
+    "title": "Digital Design Operations Intern (Master's - Summer 2027)",
+    "location": "Remote-MO",
+    "url": "https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-MO/Digital-Design-Operations-Intern--Master-s---Summer-2027-_1667736",
+    "skill_level": "intern",
+    "country": "remote",
+    "updated_at": "2026-10-28T19:19:04.168717+00:00",
+    "date_discovered": "2026-10-28T19:19:05.216062+00:00"
+  },
+  {
+    "id": 18514746,
+    "company_display": "Sonos",
+    "title": "User Experience Intern",
+    "location": "Seattle, WA",
+    "url": "https://sonos.wd1.myworkdayjobs.com/en-US/Sonos/job/Seattle-WA/User-Experience-Intern_R2883-1",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-28T19:51:38.373832+00:00",
+    "date_discovered": "2026-10-28T19:51:38.966904+00:00"
+  },
+  {
+    "id": 18514749,
+    "company_display": "SharkNinja",
+    "title": "Spring 2027: Product Design Engineering Co-op, Advanced Development (January to June)",
+    "location": "Needham, MA, USA",
+    "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720191006",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-28T20:05:26+00:00",
+    "date_discovered": "2026-10-28T20:06:39.426103+00:00"
+  },
+  {
+    "id": 18514830,
+    "company_display": "Merck",
+    "title": "2027 Future Talent Program - Device Development & Technology - Systems & Human Factors Engineering - Co-op",
+    "location": "USA - New Jersey - Rahway",
+    "url": "https://msd.wd5.myworkdayjobs.com/en-US/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Device-Development---Technology---Systems---Human-Factors-Engineering---Co-op_R422538",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-28T20:16:45.950021+00:00",
+    "date_discovered": "2026-10-28T20:16:52.493433+00:00"
+  },
+  {
+    "id": 18515338,
+    "company_display": "Centene",
+    "title": "AI Design Systems Intern (Master's - Summer 2027)",
+    "location": "Remote-MO",
+    "url": "https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-MO/AI-Design-Systems-Design-Intern--Master-s---Summer-2027-_1667737",
+    "skill_level": "intern",
+    "country": "remote",
+    "updated_at": "2026-10-28T21:48:31.575429+00:00",
+    "date_discovered": "2026-10-28T21:48:32.730661+00:00"
   }
 ]
