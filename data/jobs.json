@@ -1,71 +1,5 @@
 [
   {
-    "id": 14909089,
-    "company_display": "Fox",
-    "title": "Summer 2027 FOX News Media Internship Program - Graphic Design - New York",
-    "location": "New York, USA",
-    "url": "https://fox.wd1.myworkdayjobs.com/en-US/Domestic/job/New-York-New-York-USA/Summer-2027-FOX-News-Media-Internship-Program---Graphic-Design---New-York_R50033985",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-28T04:07:14.635057+00:00",
-    "date_discovered": "2026-09-28T04:07:56.936334+00:00"
-  },
-  {
-    "id": 14977833,
-    "company_display": "Ingram Micro",
-    "title": "Graphic Design Intern",
-    "location": "Santander, Spain",
-    "url": "https://ingrammicro.wd5.myworkdayjobs.com/en-US/IngramMicro/job/Santander-Spain/Graphic-Design-Intern_R-117684",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-28T08:09:19.067078+00:00",
-    "date_discovered": "2026-09-28T08:10:16.099844+00:00"
-  },
-  {
-    "id": 15194419,
-    "company_display": "Under-Armour",
-    "title": "2027 Summer Internship, Design (Apparel and Footwear)",
-    "location": "Baltimore, MD",
-    "url": "https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Design-%28Apparel-and-Footwear%29-MD-21230/1434389000/",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-28T16:14:33.191147+00:00"
-  },
-  {
-    "id": 15242436,
-    "company_display": "IBM",
-    "title": "Designer Spring Co-op 2027",
-    "location": "DURHAM, USA",
-    "url": "https://careers.ibm.com/careers/JobDetail?jobId=133632",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-28T17:42:06.211019+00:00"
-  },
-  {
-    "id": 15293241,
-    "company_display": "Leidos",
-    "title": "Data Center Design Intern",
-    "location": "6314 Remote/Teleworker US",
-    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Data-Center-Design-Intern_R-00193261",
-    "skill_level": "intern",
-    "country": "remote",
-    "updated_at": "2026-09-28T19:11:05.551390+00:00",
-    "date_discovered": "2026-09-28T19:12:05.688790+00:00"
-  },
-  {
-    "id": 15674566,
-    "company_display": "Marsh McLennan",
-    "title": "Intern - Psychometric Design & Delivery",
-    "location": "Gurugram, India",
-    "url": "https://mmc.wd1.myworkdayjobs.com/MMC/job/Gurugram---Good-Earth/Intern---Psychometric-Design---Delivery_R_366296/apply",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-29T00:00:00+00:00",
-    "date_discovered": "2026-09-29T09:12:56.815031+00:00"
-  },
-  {
     "id": 15995611,
     "company_display": "Nike",
     "title": "NIKE, Inc. NXT Apparel Design Graduate Internship",
@@ -592,50 +526,6 @@
     "country": "us",
     "updated_at": "2026-10-09T23:14:46+00:00",
     "date_discovered": "2026-10-09T23:35:33.252690+00:00"
-  },
-  {
-    "id": 18422301,
-    "company_display": "SharkNinja",
-    "title": "Product Design Engineering Co-op Opportunities",
-    "location": "Needham, MA, USA",
-    "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713800006",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-28T17:28:06+00:00",
-    "date_discovered": "2026-10-10T20:12:31.971543+00:00"
-  },
-  {
-    "id": 18422302,
-    "company_display": "SharkNinja",
-    "title": "Product Design Engineering Intern Opportunities",
-    "location": "Needham, MA, USA",
-    "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713810006",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-28T17:28:06+00:00",
-    "date_discovered": "2026-10-10T20:12:31.990051+00:00"
-  },
-  {
-    "id": 18422303,
-    "company_display": "SharkNinja",
-    "title": "Product Development, Design & Consumer Insights Co-op Opportunities",
-    "location": "Needham, MA, USA",
-    "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713872006",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-28T17:28:06+00:00",
-    "date_discovered": "2026-10-10T20:12:32.029928+00:00"
-  },
-  {
-    "id": 18422304,
-    "company_display": "SharkNinja",
-    "title": "Product Development, Design & Consumer Insights Intern Opportunities",
-    "location": "Needham, MA, USA",
-    "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713878006",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-28T17:28:06+00:00",
-    "date_discovered": "2026-10-10T20:12:32.078920+00:00"
   },
   {
     "id": 18425562,
@@ -1254,17 +1144,6 @@
     "date_discovered": "2026-10-21T02:12:10.624295+00:00"
   },
   {
-    "id": 18475735,
-    "company_display": "Revvity",
-    "title": "UX Intern",
-    "location": "Mumbai",
-    "url": "https://revvity.wd103.myworkdayjobs.com/en-US/External/job/Mumbai/UX-Intern_JR-045767",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-10-21T11:14:46.009676+00:00",
-    "date_discovered": "2026-10-21T11:14:46.933811+00:00"
-  },
-  {
     "id": 18476191,
     "company_display": "Amazon",
     "title": "Amazon Internship Program 2027 | Marketing & Design",
@@ -1340,17 +1219,6 @@
     "country": "us",
     "updated_at": null,
     "date_discovered": "2026-10-21T21:43:00.325700+00:00"
-  },
-  {
-    "id": 18479050,
-    "company_display": "Stifel",
-    "title": "Graphic Design Intern- Summer 2027",
-    "location": "US-MO-Saint Louis",
-    "url": "https://careers-stifel.icims.com/jobs/9881/graphic-design-intern--summer-2027/job",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-10-21T22:11:26.491895+00:00"
   },
   {
     "id": 18482866,
@@ -1901,5 +1769,115 @@
     "country": "remote",
     "updated_at": "2026-10-28T21:48:31.575429+00:00",
     "date_discovered": "2026-10-28T21:48:32.730661+00:00"
+  },
+  {
+    "id": 18517471,
+    "company_display": "Logitech",
+    "title": "Spring Internship Program - Industrial Design Intern",
+    "location": "Hsinchu, Taiwan",
+    "url": "https://logitech.wd5.myworkdayjobs.com/en-US/Logitech/job/Hsinchu-Taiwan/Spring-Internship-Program---Industrial-Design-Intern_148623",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-29T07:13:59.163986+00:00",
+    "date_discovered": "2026-10-29T07:14:00.467648+00:00"
+  },
+  {
+    "id": 18518272,
+    "company_display": "Genentech",
+    "title": "Internship: Generative AI Designer (as of January 2027 for 12 months in Rotkreuz)",
+    "location": "Rotkreuz",
+    "url": "https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Rotkreuz/Internship--Generative-AI-Designer--as-of-January-2027-for-12-months-in-Rotkreuz-_202610-127757",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-29T11:43:21.676123+00:00",
+    "date_discovered": "2026-10-29T11:43:45.657351+00:00"
+  },
+  {
+    "id": 18519827,
+    "company_display": "Divergent",
+    "title": "Summer 2027 Learning Architecture and Design Intern",
+    "location": "Torrance, California, USA",
+    "url": "https://job-boards.greenhouse.io/divergent/jobs/5393542008",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-29T16:14:24+00:00",
+    "date_discovered": "2026-10-29T16:36:08.343983+00:00"
+  },
+  {
+    "id": 18520487,
+    "company_display": "Delta Air Lines",
+    "title": "Intern, Digital Service Designer (Summer 2027)",
+    "location": "USA, Georgia, Atlanta.",
+    "url": "https://delta.avature.net/en_US/careers/JobDetail/Intern-Digital-Service-Designer-Summer-2027/34987?jobId=34987",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-29T18:39:49.412312+00:00"
+  },
+  {
+    "id": 18520755,
+    "company_display": "Amazon",
+    "title": "UX Researcher Intern \u2013 Summer 2027",
+    "location": "Seattle, Washington, USA",
+    "url": "https://www.amazon.jobs/en/jobs/10592767/ux-researcher-intern-summer-2027",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-29T19:19:23.977505+00:00"
+  },
+  {
+    "id": 18520756,
+    "company_display": "Amazon",
+    "title": "UX Designer Intern \u2013 Summer 2027",
+    "location": "Seattle, Washington, USA",
+    "url": "https://www.amazon.jobs/en/jobs/10592766/ux-designer-intern-summer-2027",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-29T19:19:24.033896+00:00"
+  },
+  {
+    "id": 18520797,
+    "company_display": "Ptc",
+    "title": "UI/UX Designer Intern (Summer 2027)",
+    "location": "USA-San Mateo, CA",
+    "url": "https://ptc.wd1.myworkdayjobs.com/en-US/PTC/job/USA-San-Mateo-CA/UI-UX-Designer-Intern--Summer-2027-_JR112956",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-29T19:20:24.363638+00:00",
+    "date_discovered": "2026-10-29T19:20:25.151334+00:00"
+  },
+  {
+    "id": 18521140,
+    "company_display": "Sas-Institute",
+    "title": "Summer 2027 \u2013 User Experience Design Intern",
+    "location": "Cary, NC",
+    "url": "https://careers-sas.icims.com/jobs/42758/summer-2027-%e2%80%93-user-experience-design-intern/job",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-29T20:41:54.817699+00:00"
+  },
+  {
+    "id": 18521354,
+    "company_display": "Raytheon",
+    "title": "Mechanical Systems Design Intern (Summer 2027)(Onsite)",
+    "location": "US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Mechanical-Systems-Design-Intern--Summer-2027--Onsite-_01882530",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-29T21:10:04.133113+00:00",
+    "date_discovered": "2026-10-29T21:13:24.855488+00:00"
+  },
+  {
+    "id": 18522208,
+    "company_display": "Philips",
+    "title": "Intern - Industrial Design - Murrysville, PA - Summer 2027",
+    "location": "Murrysville, Pennsylvania, USA",
+    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Murrysville-Pennsylvania-United-States/Intern---Industrial-Design---Murrysville--PA---Summer-2027_593133/apply?source=Philips_Career_Site",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-29T00:00:00+00:00",
+    "date_discovered": "2026-10-29T23:45:49.914679+00:00"
   }
 ]
