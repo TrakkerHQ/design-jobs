@@ -1,27 +1,5 @@
 [
   {
-    "id": 15995611,
-    "company_display": "Nike",
-    "title": "NIKE, Inc. NXT Apparel Design Graduate Internship",
-    "location": "Beaverton, Oregon",
-    "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-NXT-Apparel-Design-Graduate-Internship_R-94427",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-29T19:29:17.539975+00:00",
-    "date_discovered": "2026-09-29T19:29:45.643611+00:00"
-  },
-  {
-    "id": 16105030,
-    "company_display": "Stanley-Black-Decker",
-    "title": "Summer Intern 2027 - Industrial Design 3D Surfacing",
-    "location": "Valley City, OH, United States; Towson, MD, USA",
-    "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Valley-City-OH-United-States/Summer-Intern-2027---Industrial-Design-3D-Surfacing_REQ-1000052790",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-29T22:35:35.447258+00:00",
-    "date_discovered": "2026-09-29T22:35:44.446913+00:00"
-  },
-  {
     "id": 16301975,
     "company_display": "Meta",
     "title": "Product Design Engineering Intern",
@@ -1540,17 +1518,6 @@
     "date_discovered": "2026-10-27T19:36:51.512716+00:00"
   },
   {
-    "id": 18507807,
-    "company_display": "Garmin",
-    "title": "UI Designer Intern (Spring 2027)",
-    "location": "Olathe, Kansas",
-    "url": "https://careers-garmin.icims.com/jobs/20499/login",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-27T20:50:00+00:00",
-    "date_discovered": "2026-10-27T21:16:25.348399+00:00"
-  },
-  {
     "id": 18509777,
     "company_display": "Coinbase",
     "title": "User Research Intern",
@@ -1879,5 +1846,126 @@
     "country": "us",
     "updated_at": "2026-10-29T00:00:00+00:00",
     "date_discovered": "2026-10-29T23:45:49.914679+00:00"
+  },
+  {
+    "id": 18522860,
+    "company_display": "Formlabs",
+    "title": "Industrial Designer - Entry Level",
+    "location": "Boston, MA",
+    "url": "https://careers.formlabs.com/job/8249032/apply/?gh_jid=8249032",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-10-30T01:49:19+00:00",
+    "date_discovered": "2026-10-30T02:06:05.987533+00:00"
+  },
+  {
+    "id": 18523293,
+    "company_display": "Honeywell",
+    "title": "Mech Design Engr I",
+    "location": "Gurugram, Haryana, India",
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/160837",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-10-30T00:00:00+00:00",
+    "date_discovered": "2026-10-30T04:05:35.397918+00:00"
+  },
+  {
+    "id": 18524537,
+    "company_display": "Wise",
+    "title": "Design & Research Operations Graduate",
+    "location": "London, United Kingdom",
+    "url": "https://jobs.smartrecruiters.com/Wise/744000158715845-design-research-operations-graduate",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-10-30T11:06:24.720000+00:00",
+    "date_discovered": "2026-10-30T11:36:20.530623+00:00"
+  },
+  {
+    "id": 18524552,
+    "company_display": "IBM",
+    "title": "Early Associate Experience Design Intern (12-Week Summer Internship)",
+    "location": "London, GB",
+    "url": "https://careers.ibm.com/careers/JobDetail?jobId=138995",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-10-30T11:40:23.891922+00:00"
+  },
+  {
+    "id": 18525793,
+    "company_display": "Kiewit",
+    "title": "Design Management Intern - Kiewit Infrastructure Engineers",
+    "location": "Remote",
+    "url": "https://kiewitcareers.kiewit.com/job/Remote-Design-Management-Intern-Kiewit-Infrastructure-Engineers/1446359300/",
+    "skill_level": "intern",
+    "country": "remote",
+    "updated_at": null,
+    "date_discovered": "2026-10-30T15:43:37.840060+00:00"
+  },
+  {
+    "id": 18525933,
+    "company_display": "SharkNinja",
+    "title": "Spring 2027: HW UX/UI Design Co-op (January through June)",
+    "location": "Needham, MA, USA",
+    "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721298006",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-30T15:52:57+00:00",
+    "date_discovered": "2026-10-30T16:06:51.225435+00:00"
+  },
+  {
+    "id": 18526132,
+    "company_display": "Revvity",
+    "title": "UX Intern",
+    "location": "CAD Remote \u2013 ON",
+    "url": "https://revvity.wd103.myworkdayjobs.com/en-US/External/job/CAD-Remote--ON/UX-Intern_JR-045787",
+    "skill_level": "intern",
+    "country": "remote",
+    "updated_at": "2026-10-30T16:20:28.082679+00:00",
+    "date_discovered": "2026-10-30T16:20:29.015291+00:00"
+  },
+  {
+    "id": 18526165,
+    "company_display": "EA",
+    "title": "Quality Designer Co-op (Summer 2027)",
+    "location": "Vancouver, Canada \u2022 Role ID 216286 \u2022 Intern - Temporary Employee \u2022 EA Studios - Quality Verification",
+    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Quality-Designer-Co-op/216286",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-10-30T16:39:53.828727+00:00"
+  },
+  {
+    "id": 18526883,
+    "company_display": "The New York Times",
+    "title": "Product Design Intern",
+    "location": "New York, NY",
+    "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748241005",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-30T18:15:11+00:00",
+    "date_discovered": "2026-10-30T18:35:51.466300+00:00"
+  },
+  {
+    "id": 18526885,
+    "company_display": "Dell",
+    "title": "Industrial Design Intern - Enterprise (ISG)",
+    "location": "Round Rock, TX, USA",
+    "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/302049",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-30T00:00:00+00:00",
+    "date_discovered": "2026-10-30T18:40:41.290058+00:00"
+  },
+  {
+    "id": 18527094,
+    "company_display": "The New York Times",
+    "title": "Editorial Design Intern, Wirecutter",
+    "location": "New York, NY",
+    "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748518005",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-30T19:03:04+00:00",
+    "date_discovered": "2026-10-30T19:05:34.368160+00:00"
   }
 ]
