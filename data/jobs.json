@@ -1,27 +1,5 @@
 [
   {
-    "id": 17299049,
-    "company_display": "Apple",
-    "title": "Junior Designer, Design Team",
-    "location": "USA",
-    "url": "https://jobs.apple.com/en-us/details/200686797/junior-designer-design-team?team=MKTG",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": "2026-10-01T16:44:55.362000+00:00",
-    "date_discovered": "2026-10-01T17:14:44.743945+00:00"
-  },
-  {
-    "id": 17335750,
-    "company_display": "L3Harris",
-    "title": "Intern, Designer (Huntsville, AL)",
-    "location": "Huntsville, AL",
-    "url": "https://careers.l3harris.com/en/job/huntsville/intern-designer-huntsville-al/4832/101404698656",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-10-01T18:17:19.141240+00:00"
-  },
-  {
     "id": 17760124,
     "company_display": "EA",
     "title": "Sound Design Intern",
@@ -77,39 +55,6 @@
     "date_discovered": "2026-10-02T14:12:34.123479+00:00"
   },
   {
-    "id": 17927466,
-    "company_display": "Marriott",
-    "title": "Distribution Technology Internship - Design Hotels",
-    "location": "Berlin, Germany",
-    "url": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26036132",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-10-02T00:00:00+00:00",
-    "date_discovered": "2026-10-02T14:44:26.793465+00:00"
-  },
-  {
-    "id": 17944842,
-    "company_display": "Marriott",
-    "title": "Communications Internship - Design Hotels",
-    "location": "Berlin, Germany",
-    "url": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26036152",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-10-02T00:00:00+00:00",
-    "date_discovered": "2026-10-02T15:14:14.960898+00:00"
-  },
-  {
-    "id": 17944845,
-    "company_display": "Marriott",
-    "title": "Global Reservations Internship - Design Hotels",
-    "location": "Berlin, Germany",
-    "url": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26036160",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-10-02T00:00:00+00:00",
-    "date_discovered": "2026-10-02T15:14:15.005162+00:00"
-  },
-  {
     "id": 18002104,
     "company_display": "Nvent",
     "title": "R&D Designer Intern",
@@ -119,17 +64,6 @@
     "country": "us",
     "updated_at": "2026-10-02T16:47:31.336325+00:00",
     "date_discovered": "2026-10-02T16:47:33.737919+00:00"
-  },
-  {
-    "id": 18110038,
-    "company_display": "Trane-Technologies",
-    "title": "Program Manager Intern - CAD Designer",
-    "location": "Jacksonville, Florida, USA",
-    "url": "https://tranetechnologies.wd12.myworkdayjobs.com/Trane_Technologies_Careers/job/Jacksonville-FL-5550-POW-MIA-Memorial-Pkwy/Program-Manager-Intern---CAD-Designer_JR-13875/apply",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-02T00:00:00+00:00",
-    "date_discovered": "2026-10-02T19:49:22.516058+00:00"
   },
   {
     "id": 18173920,
@@ -1287,17 +1221,6 @@
     "date_discovered": "2026-10-26T18:48:56.346699+00:00"
   },
   {
-    "id": 18501559,
-    "company_display": "IBM",
-    "title": "Designer Spring Co-op 2027",
-    "location": "DURHAM, USA",
-    "url": "https://careers.ibm.com/careers/JobDetail?jobId=137949",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-10-26T21:10:06.132665+00:00"
-  },
-  {
     "id": 18504441,
     "company_display": "Lego",
     "title": "Student Worker - Design and Asset Governance",
@@ -1450,17 +1373,6 @@
     "country": "us",
     "updated_at": "2026-10-22T21:12:00+00:00",
     "date_discovered": "2026-10-28T04:06:10.163211+00:00"
-  },
-  {
-    "id": 18510118,
-    "company_display": "Hilton",
-    "title": "2027 Graphic Design Placement",
-    "location": "Watford, Hertfordshire, United Kingdom",
-    "url": "https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/219148",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-01T00:00:00+00:00",
-    "date_discovered": "2026-10-28T04:07:15.167252+00:00"
   },
   {
     "id": 18510194,
