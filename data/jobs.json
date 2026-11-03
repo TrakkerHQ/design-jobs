@@ -1,93 +1,5 @@
 [
   {
-    "id": 17760124,
-    "company_display": "EA",
-    "title": "Sound Design Intern",
-    "location": "Stockholm, Sweden \u2022 Role ID 216299 \u2022 Intern - Temporary Employee \u2022 EA Studios - DICE Stockholm",
-    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Sound-Design-Intern/216299",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-10-02T09:03:51.494871+00:00"
-  },
-  {
-    "id": 17837120,
-    "company_display": "Accenture",
-    "title": "Internship \u2013 Design & Digital Product - as of February 2027",
-    "location": "Brussels",
-    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Brussels/Internship---Design---Digital-Product---as-of-February-2027_R00358162",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-10-02T12:12:17.705154+00:00",
-    "date_discovered": "2026-10-02T12:13:43.666987+00:00"
-  },
-  {
-    "id": 17870703,
-    "company_display": "Bayer",
-    "title": "Visual Designer Trainee",
-    "location": "Gda\u0144sk, Pomorskie, Poland",
-    "url": "https://talent.bayer.com/careers/job/562949978612919",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-10-02T13:12:03.728661+00:00"
-  },
-  {
-    "id": 17888030,
-    "company_display": "Bayer",
-    "title": "UX/UI Designer Trainee",
-    "location": "Gda\u0144sk, Pomorskie, Poland",
-    "url": "https://talent.bayer.com/careers/job/562949978612930",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-10-02T13:42:01.050711+00:00"
-  },
-  {
-    "id": 17905986,
-    "company_display": "Bayer",
-    "title": "Multimedia Design Trainee",
-    "location": "Gda\u0144sk, Pomorskie, Poland",
-    "url": "https://talent.bayer.com/careers/job/562949978629194",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-10-02T14:12:34.123479+00:00"
-  },
-  {
-    "id": 18002104,
-    "company_display": "Nvent",
-    "title": "R&D Designer Intern",
-    "location": "Anoka, MN, USA",
-    "url": "https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Anoka-MN-US/R-D-Designer-Intern_R22089",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-02T16:47:31.336325+00:00",
-    "date_discovered": "2026-10-02T16:47:33.737919+00:00"
-  },
-  {
-    "id": 18173920,
-    "company_display": "Kiewit",
-    "title": "Fire Sprinkler Design Intern - Continental",
-    "location": "Omaha, NE",
-    "url": "https://kiewitcareers.kiewit.com/Continental/job/Omaha-Fire-Sprinkler-Design-Intern-Continental-NE-68046/1436480700/",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-10-02T21:42:30.261898+00:00"
-  },
-  {
-    "id": 18202224,
-    "company_display": "Gemini",
-    "title": "Brand Design Intern (Winter 2027)",
-    "location": "New York",
-    "url": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=8243097&gh_jid=8243097",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-02T22:12:03+00:00",
-    "date_discovered": "2026-10-02T22:35:28.573062+00:00"
-  },
-  {
     "id": 18389163,
     "company_display": "IBM",
     "title": "Associate Designer-User Experience Design",
@@ -1221,6 +1133,17 @@
     "date_discovered": "2026-10-26T18:48:56.346699+00:00"
   },
   {
+    "id": 18501559,
+    "company_display": "IBM",
+    "title": "Designer Spring Co-op 2027",
+    "location": "DURHAM, USA",
+    "url": "https://careers.ibm.com/careers/JobDetail?jobId=137949",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-26T21:10:06.132665+00:00"
+  },
+  {
     "id": 18504441,
     "company_display": "Lego",
     "title": "Student Worker - Design and Asset Governance",
@@ -1507,17 +1430,6 @@
     "date_discovered": "2026-10-28T17:44:06.903917+00:00"
   },
   {
-    "id": 18514478,
-    "company_display": "Centene",
-    "title": "Digital Design Operations Intern (Master's - Summer 2027)",
-    "location": "Remote-MO",
-    "url": "https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-MO/Digital-Design-Operations-Intern--Master-s---Summer-2027-_1667736",
-    "skill_level": "intern",
-    "country": "remote",
-    "updated_at": "2026-10-28T19:19:04.168717+00:00",
-    "date_discovered": "2026-10-28T19:19:05.216062+00:00"
-  },
-  {
     "id": 18514746,
     "company_display": "Sonos",
     "title": "User Experience Intern",
@@ -1549,17 +1461,6 @@
     "country": "us",
     "updated_at": "2026-10-28T20:16:45.950021+00:00",
     "date_discovered": "2026-10-28T20:16:52.493433+00:00"
-  },
-  {
-    "id": 18515338,
-    "company_display": "Centene",
-    "title": "AI Design Systems Intern (Master's - Summer 2027)",
-    "location": "Remote-MO",
-    "url": "https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-MO/AI-Design-Systems-Design-Intern--Master-s---Summer-2027-_1667737",
-    "skill_level": "intern",
-    "country": "remote",
-    "updated_at": "2026-10-28T21:48:31.575429+00:00",
-    "date_discovered": "2026-10-28T21:48:32.730661+00:00"
   },
   {
     "id": 18517471,
@@ -1791,5 +1692,38 @@
     "country": "us",
     "updated_at": "2026-10-30T19:03:04+00:00",
     "date_discovered": "2026-10-30T19:05:34.368160+00:00"
+  },
+  {
+    "id": 18535734,
+    "company_display": "Millerknoll",
+    "title": "Intern Design",
+    "location": "DK - Copenhagen",
+    "url": "https://millerknoll.wd1.myworkdayjobs.com/en-US/MillerKnoll/job/DK---Copenhagen/Intern-Design_JR109952",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-11-02T11:15:35.174302+00:00",
+    "date_discovered": "2026-11-02T11:15:37.920647+00:00"
+  },
+  {
+    "id": 18537022,
+    "company_display": "Thomson Reuters",
+    "title": "Reuters News Internship Program 2027 (Temp Guild) - Graphics, New York",
+    "location": "USA, New York",
+    "url": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-States-of-America-New-York-New-York/Reuters-News-Internship-Program--Temp-Guild----New-York_JREQ204985",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-02T15:48:22.137271+00:00",
+    "date_discovered": "2026-11-02T15:48:24.576370+00:00"
+  },
+  {
+    "id": 18539595,
+    "company_display": "Rockwell Automation",
+    "title": "Co-op, User Experience - Robotics",
+    "location": "Waterloo, Ontario, Canada",
+    "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External-Rockwell-Automation-Early-Careers/job/Waterloo-Ontario-Canada/Co-op--User-Experience---Robotics_R26-8569-2",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-11-02T23:46:41.048707+00:00",
+    "date_discovered": "2026-11-02T23:47:16.061349+00:00"
   }
 ]
