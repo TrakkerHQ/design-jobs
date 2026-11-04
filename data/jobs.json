@@ -1034,17 +1034,6 @@
     "date_discovered": "2026-10-23T14:12:20.611632+00:00"
   },
   {
-    "id": 18489788,
-    "company_display": "Philips",
-    "title": "Intern \u2013 Service Offer Design \u2013 Cambridge, MA \u2013 Summer 2027",
-    "location": "Cambridge, Massachusetts, USA",
-    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern----Service-Offer-Design---Cambridge--MA---Summer-2027_593517/apply?source=Philips_Career_Site",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-23T00:00:00+00:00",
-    "date_discovered": "2026-10-23T17:44:50.054007+00:00"
-  },
-  {
     "id": 18490584,
     "company_display": "Intercontinental-Exchange",
     "title": "Summer Internship Program 2027 - User Experience (UX) Designer Intern",
@@ -1430,6 +1419,17 @@
     "date_discovered": "2026-10-28T17:44:06.903917+00:00"
   },
   {
+    "id": 18514478,
+    "company_display": "Centene",
+    "title": "Digital Design Operations Intern (Master's - Summer 2027)",
+    "location": "Remote-MO",
+    "url": "https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-MO/Digital-Design-Operations-Intern--Master-s---Summer-2027-_1667736",
+    "skill_level": "intern",
+    "country": "remote",
+    "updated_at": "2026-10-28T19:19:04.168717+00:00",
+    "date_discovered": "2026-10-28T19:19:05.216062+00:00"
+  },
+  {
     "id": 18514746,
     "company_display": "Sonos",
     "title": "User Experience Intern",
@@ -1494,6 +1494,17 @@
     "country": "us",
     "updated_at": "2026-10-29T16:14:24+00:00",
     "date_discovered": "2026-10-29T16:36:08.343983+00:00"
+  },
+  {
+    "id": 18520017,
+    "company_display": "Walmart",
+    "title": "(USA) Summer 2027 Corporate Intern: Development and Design Project Integration Intern",
+    "location": "(USA) Always AR Bentonville Home Office",
+    "url": "https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Always-AR-Bentonville-Home-Office/XMLNAME--USA--Summer-2027-Corporate-Intern---Development-and-Design-Project-Integration-Intern_R-2690416",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-29T17:10:37.065438+00:00",
+    "date_discovered": "2026-10-29T17:12:44.759526+00:00"
   },
   {
     "id": 18520487,
@@ -1593,17 +1604,6 @@
     "country": "international",
     "updated_at": "2026-10-30T00:00:00+00:00",
     "date_discovered": "2026-10-30T04:05:35.397918+00:00"
-  },
-  {
-    "id": 18524537,
-    "company_display": "Wise",
-    "title": "Design & Research Operations Graduate",
-    "location": "London, United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/Wise/744000158715845-design-research-operations-graduate",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": "2026-10-30T11:06:24.720000+00:00",
-    "date_discovered": "2026-10-30T11:36:20.530623+00:00"
   },
   {
     "id": 18524552,
@@ -1725,5 +1725,27 @@
     "country": "international",
     "updated_at": "2026-11-02T23:46:41.048707+00:00",
     "date_discovered": "2026-11-02T23:47:16.061349+00:00"
+  },
+  {
+    "id": 18544822,
+    "company_display": "Skild-Ai",
+    "title": "Founding Brand Design Intern",
+    "location": "San Mateo, CA",
+    "url": "https://job-boards.greenhouse.io/skildai-careers/jobs/5471524008",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-03T20:02:33+00:00",
+    "date_discovered": "2026-11-03T20:07:11.925566+00:00"
+  },
+  {
+    "id": 18545451,
+    "company_display": "Ogilvy",
+    "title": "Junior Copywriter",
+    "location": "New York",
+    "url": "https://www.ogilvy.com/careers/4742988005?gh_jid=4742988005",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-11-03T21:43:11+00:00",
+    "date_discovered": "2026-11-03T22:06:56.723592+00:00"
   }
 ]
