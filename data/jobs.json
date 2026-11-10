@@ -1,49 +1,5 @@
 [
   {
-    "id": 18415464,
-    "company_display": "Nxp",
-    "title": "Master Thesis Internship - AI-Driven Transistor Design Exploration",
-    "location": "Eindhoven",
-    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/Careers/job/Eindhoven/Master-Thesis-Internship---AI-Driven-Transistor-Design-Exploration_R-10067224",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-10-09T11:45:25.468669+00:00",
-    "date_discovered": "2026-10-09T11:46:02.341613+00:00"
-  },
-  {
-    "id": 18416884,
-    "company_display": "Globalfoundries",
-    "title": "Design Manual Publishing & Ground Rule Validation Engineer (2027 New College Graduate)",
-    "location": "USA - Vermont - Essex Junction",
-    "url": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Vermont---Essex-Junction/Design-Manual-Publishing---Ground-Rule-Validation-Engineer--2027-New-College-Graduate-_JR-2604294",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": "2026-10-09T16:17:23.688593+00:00",
-    "date_discovered": "2026-10-09T16:17:31.188763+00:00"
-  },
-  {
-    "id": 18419269,
-    "company_display": "Databricks",
-    "title": "Evergreen - Product Design Intern (2027 Start)",
-    "location": "San Francisco, California; Seattle, Washington",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8787352002",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-09T23:07:09+00:00",
-    "date_discovered": "2026-10-09T23:35:33.223747+00:00"
-  },
-  {
-    "id": 18419270,
-    "company_display": "Databricks",
-    "title": "Evergreen - Product Design New Grad (2027 Start)",
-    "location": "San Francisco, California; Seattle, Washington",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8843577002",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": "2026-10-09T23:14:46+00:00",
-    "date_discovered": "2026-10-09T23:35:33.252690+00:00"
-  },
-  {
     "id": 18425562,
     "company_display": "DoorDash",
     "title": "Product Design, Entry-Level (2027 start)",
@@ -251,17 +207,6 @@
     "country": "us",
     "updated_at": null,
     "date_discovered": "2026-10-13T23:41:35.843773+00:00"
-  },
-  {
-    "id": 18439301,
-    "company_display": "Eight-Sleep",
-    "title": "Product Designer, (New Grad) Milan",
-    "location": "Milan",
-    "url": "https://jobs.ashbyhq.com/eightsleep/60b67d27-7399-4860-9dcf-9f0b7e4b93f7",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": "2026-10-09T14:09:43.342000+00:00",
-    "date_discovered": "2026-10-14T09:01:27.529128+00:00"
   },
   {
     "id": 18439524,
@@ -1298,6 +1243,17 @@
     "date_discovered": "2026-10-29T20:41:54.817699+00:00"
   },
   {
+    "id": 18522208,
+    "company_display": "Philips",
+    "title": "Intern - Industrial Design - Murrysville, PA - Summer 2027",
+    "location": "Murrysville, Pennsylvania, USA",
+    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Murrysville-Pennsylvania-United-States/Intern---Industrial-Design---Murrysville--PA---Summer-2027_593133/apply?source=Philips_Career_Site",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-29T00:00:00+00:00",
+    "date_discovered": "2026-10-29T23:45:49.914679+00:00"
+  },
+  {
     "id": 18522860,
     "company_display": "Formlabs",
     "title": "Industrial Designer - Entry Level",
@@ -1694,17 +1650,6 @@
     "date_discovered": "2026-11-06T18:06:53.544565+00:00"
   },
   {
-    "id": 18563951,
-    "company_display": "IBM",
-    "title": "Technology Lifecycle Services (TLS) Skills Development Internship",
-    "location": "Heredia, CR",
-    "url": "https://careers.ibm.com/careers/JobDetail?jobId=140645",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-11-06T18:12:04.473581+00:00"
-  },
-  {
     "id": 18565062,
     "company_display": "Garmin",
     "title": "Aviation Human Factors Designer 1",
@@ -1725,5 +1670,104 @@
     "country": "us",
     "updated_at": "2026-11-06T23:18:26.954301+00:00",
     "date_discovered": "2026-11-06T23:18:27.406683+00:00"
+  },
+  {
+    "id": 18572963,
+    "company_display": "Ing",
+    "title": "Trainee im Junior Expert Programme \u2013 Backoffice Systems & Process Design (w/m/d)",
+    "location": "Berlin",
+    "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Berlin/Trainee-im-Junior-Expert-Programme---Backoffice-Systems---Process-Design--w-m-d-_REQ-10124023-1",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-11-09T09:10:47.252830+00:00",
+    "date_discovered": "2026-11-09T09:10:49.644511+00:00"
+  },
+  {
+    "id": 18573877,
+    "company_display": "Logitech",
+    "title": "Spring Internship Program - Design Intern",
+    "location": "Hsinchu, Taiwan",
+    "url": "https://logitech.wd5.myworkdayjobs.com/en-US/Logitech/job/Hsinchu-Taiwan/Spring-Internship-Program---Design-Intern_148748",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-11-09T13:19:19.130717+00:00",
+    "date_discovered": "2026-11-09T13:19:19.601314+00:00"
+  },
+  {
+    "id": 18574358,
+    "company_display": "Capri-Holdings",
+    "title": "2027 Capri Holdings Summer Corporate Internship Program \u2013 Creative Services & Marketing",
+    "location": "NY Metro Area",
+    "url": "https://capri.wd1.myworkdayjobs.com/en-US/Michael_Kors/job/NY-Metro-Area/XMLNAME-2027-Capri-Holdings-Summer-Corporate-Internship-Program---Creative-Services---Marketing_R_787641",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-09T14:49:16.789959+00:00",
+    "date_discovered": "2026-11-09T14:49:19.069687+00:00"
+  },
+  {
+    "id": 18574733,
+    "company_display": "Scout-Motors",
+    "title": "Intern, Design",
+    "location": "Novi, Michigan, USA",
+    "url": "https://job-boards.greenhouse.io/scoutmotors/jobs/5287121007",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-09T15:49:01+00:00",
+    "date_discovered": "2026-11-09T16:07:10.481852+00:00"
+  },
+  {
+    "id": 18575037,
+    "company_display": "Warner Bros. Discovery",
+    "title": "WB Games Design Co-op: Needham, MA - January-May 2027",
+    "location": "MA Needham 117 Kendrick St",
+    "url": "https://warnerbros.wd5.myworkdayjobs.com/en-US/global/job/MA-Needham-117-Kendrick-St/WB-Games-Game-Design-Co-op--Needham--MA---January-May-2027_R000109848",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-09T16:49:37.203267+00:00",
+    "date_discovered": "2026-11-09T16:49:42.535934+00:00"
+  },
+  {
+    "id": 18575187,
+    "company_display": "Icf",
+    "title": "2027 Summer Intern, Learning Solutions Designer (Reston, VA)",
+    "location": "Reston, VA",
+    "url": "https://icf.wd5.myworkdayjobs.com/en-US/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Learning-Solutions-Designer--Reston--VA-_R2603779",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-09T17:19:21.325134+00:00",
+    "date_discovered": "2026-11-09T17:19:22.066811+00:00"
+  },
+  {
+    "id": 18576005,
+    "company_display": "Duolingo",
+    "title": "Product Designer, Thrive Intern",
+    "location": "Pittsburgh, PA",
+    "url": "https://careers.duolingo.com/jobs/8933791002?gh_jid=8933791002",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-09T20:00:05+00:00",
+    "date_discovered": "2026-11-09T20:05:17.687463+00:00"
+  },
+  {
+    "id": 18577600,
+    "company_display": "Pinterest",
+    "title": "Product Design Intern (USA)",
+    "location": "San Francisco, CA, US; Remote, USA",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8350814",
+    "skill_level": "intern",
+    "country": "remote",
+    "updated_at": "2026-11-10T00:58:51+00:00",
+    "date_discovered": "2026-11-10T01:05:25.140611+00:00"
+  },
+  {
+    "id": 18577968,
+    "company_display": "Johnson Controls",
+    "title": "Intern, Design & Estimation Engineering",
+    "location": "Singapore-Singapore-Singapore",
+    "url": "https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Singapore-Singapore-Singapore/Intern--Design---Estimation-Engineering_WD30284733",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-11-10T02:07:19.319235+00:00",
+    "date_discovered": "2026-11-10T02:13:25.566383+00:00"
   }
 ]
