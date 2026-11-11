@@ -1276,17 +1276,6 @@
     "date_discovered": "2026-10-30T04:05:35.397918+00:00"
   },
   {
-    "id": 18524552,
-    "company_display": "IBM",
-    "title": "Early Associate Experience Design Intern (12-Week Summer Internship)",
-    "location": "London, GB",
-    "url": "https://careers.ibm.com/careers/JobDetail?jobId=138995",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-10-30T11:40:23.891922+00:00"
-  },
-  {
     "id": 18525933,
     "company_display": "SharkNinja",
     "title": "Spring 2027: HW UX/UI Design Co-op (January through June)",
@@ -1769,5 +1758,93 @@
     "country": "international",
     "updated_at": "2026-11-10T02:07:19.319235+00:00",
     "date_discovered": "2026-11-10T02:13:25.566383+00:00"
+  },
+  {
+    "id": 18579485,
+    "company_display": "Dept",
+    "title": "Intern Brand Design",
+    "location": "Amsterdam, Rotterdam",
+    "url": "https://job-boards.greenhouse.io/dept/jobs/8355282",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-11-10T09:49:15+00:00",
+    "date_discovered": "2026-11-10T10:01:18.410982+00:00"
+  },
+  {
+    "id": 18579820,
+    "company_display": "IBM",
+    "title": "Associate Designer-User Experience Design",
+    "location": "BANGKOK, TH",
+    "url": "https://careers.ibm.com/careers/JobDetail?jobId=140004",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-11-10T12:06:15.338054+00:00"
+  },
+  {
+    "id": 18580285,
+    "company_display": "Vml",
+    "title": "Junior Graphic Designer",
+    "location": "Riyadh, Saudi Arabia",
+    "url": "https://www.vml.com/careers/job/8936147002?gh_jid=8936147002",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-11-10T13:12:52+00:00",
+    "date_discovered": "2026-11-10T13:36:36.340902+00:00"
+  },
+  {
+    "id": 18580518,
+    "company_display": "Interpublic",
+    "title": "Intern, Design",
+    "location": "Washington, District of Columbia, USA",
+    "url": "https://interpublic.wd5.myworkdayjobs.com/en-US/OMC/job/Washington-District-of-Columbia-United-States-of-America/Intern--Design_R16263",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-10T14:13:52.549137+00:00",
+    "date_discovered": "2026-11-10T14:13:54.407780+00:00"
+  },
+  {
+    "id": 18580707,
+    "company_display": "Salesforce",
+    "title": "Summer 2027 Intern - AI Foundry Incubation",
+    "location": "California - Palo Alto; California - San Francisco",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---AI-Foundry-Incubation_JR366655",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-10T14:42:43.497797+00:00",
+    "date_discovered": "2026-11-10T14:43:51.027108+00:00"
+  },
+  {
+    "id": 18582129,
+    "company_display": "Sas-Institute",
+    "title": "Summer 2027 - EVAAS Instructional Design e-Learning Developer Intern",
+    "location": "Cary, NC",
+    "url": "https://careers-sas.icims.com/jobs/42765/summer-2027---evaas-instructional-design-e-learning-developer-intern/job",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-11-10T19:11:49.125804+00:00"
+  },
+  {
+    "id": 18582287,
+    "company_display": "Notion",
+    "title": "Product Design Intern (Summer 2027)",
+    "location": "New York",
+    "url": "https://jobs.ashbyhq.com/notion/ea6f01b1-dda2-4b0f-b351-d3e7c5e9c9e9",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-10T19:08:59.709000+00:00",
+    "date_discovered": "2026-11-10T19:35:48.648528+00:00"
+  },
+  {
+    "id": 18583622,
+    "company_display": "Riot Games",
+    "title": "Motion Graphics Art Intern - Summer 2027",
+    "location": "Los Angeles, USA",
+    "url": "https://www.riotgames.com/en/work-with-us/job/8356815?gh_jid=8356815",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-10T23:30:17+00:00",
+    "date_discovered": "2026-11-10T23:36:27.033342+00:00"
   }
 ]
