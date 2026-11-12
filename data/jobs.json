@@ -1023,39 +1023,6 @@
     "date_discovered": "2026-10-28T04:08:31.923726+00:00"
   },
   {
-    "id": 18510273,
-    "company_display": "PwC",
-    "title": "FY 27 - Intern - External Communications (Website)",
-    "location": "Indonesia",
-    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/FY-27---Intern---External-Communications--Website-_742784WD",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-28T04:02:24.383361+00:00",
-    "date_discovered": "2026-10-28T04:09:39.035253+00:00"
-  },
-  {
-    "id": 18510284,
-    "company_display": "PwC",
-    "title": "Intern - External Communications (Website)",
-    "location": "Not specified",
-    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Intern---External-Communications--Website-_688645WD",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-28T04:02:30.675923+00:00",
-    "date_discovered": "2026-10-28T04:09:39.644286+00:00"
-  },
-  {
-    "id": 18510770,
-    "company_display": "Synchrony Financial",
-    "title": "UConn Stamford Digital Technology Center Intern - Summer 2027",
-    "location": "Stamford Hub",
-    "url": "https://synchronyfinancial.wd5.myworkdayjobs.com/en-US/University/job/Stamford-Hub/UConn-Stamford-Digital-Technology-Center-Intern---Summer-2027_2602661",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-28T04:15:46.941834+00:00",
-    "date_discovered": "2026-10-28T04:15:50.417097+00:00"
-  },
-  {
     "id": 18512339,
     "company_display": "Str",
     "title": "Graphic Design & Technical Communications Co-Op",
@@ -1287,17 +1254,6 @@
     "date_discovered": "2026-10-30T16:06:51.225435+00:00"
   },
   {
-    "id": 18526132,
-    "company_display": "Revvity",
-    "title": "UX Intern",
-    "location": "CAD Remote \u2013 ON",
-    "url": "https://revvity.wd103.myworkdayjobs.com/en-US/External/job/CAD-Remote--ON/UX-Intern_JR-045787",
-    "skill_level": "intern",
-    "country": "remote",
-    "updated_at": "2026-10-30T16:20:28.082679+00:00",
-    "date_discovered": "2026-10-30T16:20:29.015291+00:00"
-  },
-  {
     "id": 18526165,
     "company_display": "EA",
     "title": "Quality Designer Co-op (Summer 2027)",
@@ -1441,17 +1397,6 @@
     "date_discovered": "2026-11-04T18:36:21.345998+00:00"
   },
   {
-    "id": 18550716,
-    "company_display": "T-Mobile",
-    "title": "Summer 2027 UX Design Internship",
-    "location": "Philadelphia, Pennsylvania; New York, New York",
-    "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Philadelphia-Pennsylvania/Summer-2027-UX-Design-Internship_REQ381307",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-11-04T18:38:11.601557+00:00",
-    "date_discovered": "2026-11-04T18:40:27.218579+00:00"
-  },
-  {
     "id": 18550900,
     "company_display": "Sezzle",
     "title": "Graphic Design Intern",
@@ -1516,17 +1461,6 @@
     "country": "international",
     "updated_at": "2026-11-05T13:18:17.228017+00:00",
     "date_discovered": "2026-11-05T13:18:17.745632+00:00"
-  },
-  {
-    "id": 18556143,
-    "company_display": "Ciena",
-    "title": "Software Design/Engineer - New Grad",
-    "location": "Ottawa",
-    "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Software-Design-Engineer---New-Grad_R032059",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": "2026-11-05T14:50:07.014220+00:00",
-    "date_discovered": "2026-11-05T14:50:08.092000+00:00"
   },
   {
     "id": 18558290,
@@ -1846,5 +1780,27 @@
     "country": "us",
     "updated_at": "2026-11-10T23:30:17+00:00",
     "date_discovered": "2026-11-10T23:36:27.033342+00:00"
+  },
+  {
+    "id": 18585610,
+    "company_display": "Schneider-Electric",
+    "title": "Engineer I, Electrical Systems Design",
+    "location": "Xiamen, China",
+    "url": "https://zhcareers-se.icims.com/jobs/141665/login",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-11-11T00:00:00+00:00",
+    "date_discovered": "2026-11-11T07:10:23.939409+00:00"
+  },
+  {
+    "id": 18587728,
+    "company_display": "AstraZeneca",
+    "title": "Biologics Engineering, Computational and Experimental Design of Multispecific Antibodies Intern",
+    "location": "US - Gaithersburg - MD",
+    "url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Gaithersburg---MD/Biologics-Engineering--Computational-and-Experimental-Design-of-Multispecific-Antibodies-Intern_R-264042",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-11T16:09:26.836856+00:00",
+    "date_discovered": "2026-11-11T16:11:37.885026+00:00"
   }
 ]
