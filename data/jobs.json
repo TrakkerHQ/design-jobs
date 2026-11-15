@@ -1,93 +1,5 @@
 [
   {
-    "id": 18439524,
-    "company_display": "Dentsu",
-    "title": "Designer Intern",
-    "location": "Ho Chi Minh City",
-    "url": "https://dentsuaegis.wd3.myworkdayjobs.com/en-US/DAN_GLOBAL/job/HoChiMinhCity/Designer-Intern_R1131885",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-10-14T10:09:38.333466+00:00",
-    "date_discovered": "2026-10-14T10:09:50.424065+00:00"
-  },
-  {
-    "id": 18441747,
-    "company_display": "Arm",
-    "title": "CPU Microarchitecture and Design Intern",
-    "location": "Sophia Antipolis, France",
-    "url": "https://careers.arm.com/job/sophia-antipolis/cpu-microarchitecture-and-design-intern/33099/101949968400",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-10-14T17:38:38.830746+00:00"
-  },
-  {
-    "id": 18441817,
-    "company_display": "GE Vernova",
-    "title": "GE Vernova - SCS Product Design Internship \u2013 Summer 2027",
-    "location": "Bellevue",
-    "url": "https://gevernova.wd5.myworkdayjobs.com/en-US/Vernova_ExternalSite/job/Bellevue/GE-Vernova---SCS-Product-Design-Internship---Summer-2027_R5053219-2",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-14T17:43:29.025046+00:00",
-    "date_discovered": "2026-10-14T17:44:29.242165+00:00"
-  },
-  {
-    "id": 18442093,
-    "company_display": "Newell Brands",
-    "title": "2027 Newell Brands Intern- Industrial Design",
-    "location": "Sandy Springs",
-    "url": "https://jobs.newellbrands.com/job/Sandy-Springs-2027-Newell-Brands-Intern-Industrial-Design-Geor/1440145300/",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-10-14T18:43:27.823941+00:00"
-  },
-  {
-    "id": 18442094,
-    "company_display": "Newell Brands",
-    "title": "2027 Newell Brands Intern- Brand Design",
-    "location": "Sandy Springs",
-    "url": "https://jobs.newellbrands.com/job/Sandy-Springs-2027-Newell-Brands-Intern-Brand-Design-Geor/1440159600/",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-10-14T18:43:27.945269+00:00"
-  },
-  {
-    "id": 18442439,
-    "company_display": "SharkNinja",
-    "title": "Spring 2027: Product Design Engineering Co-op, Ninja (January to June)",
-    "location": "Needham, MA, USA",
-    "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4719432006",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-14T19:35:16+00:00",
-    "date_discovered": "2026-10-14T19:36:23.429262+00:00"
-  },
-  {
-    "id": 18442603,
-    "company_display": "Amazon",
-    "title": "Marketing Intern, Amazon Global Logistics",
-    "location": "Shanghai, CHN",
-    "url": "https://www.amazon.jobs/en/jobs/10579174/marketing-intern-amazon-global-logistics",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-10-14T19:49:33.614809+00:00"
-  },
-  {
-    "id": 18442611,
-    "company_display": "SharkNinja",
-    "title": "Spring 2027: Product Design Engineering Co-op, Shark (January to June)",
-    "location": "Needham, MA, USA",
-    "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720273006",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-14T19:38:05+00:00",
-    "date_discovered": "2026-10-14T20:06:38.771001+00:00"
-  },
-  {
     "id": 18448225,
     "company_display": "PrizePicks",
     "title": "UX Research Intern - Spring 2027",
@@ -141,17 +53,6 @@
     "country": "us",
     "updated_at": "2026-10-15T20:42:35+00:00",
     "date_discovered": "2026-10-15T21:06:25.985083+00:00"
-  },
-  {
-    "id": 18449799,
-    "company_display": "Texas Instruments",
-    "title": "Web Marketing Intern - User Experience Design",
-    "location": "Dallas, TX, USA",
-    "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25018753",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-15T00:00:00+00:00",
-    "date_discovered": "2026-10-15T22:40:24.322700+00:00"
   },
   {
     "id": 18452274,
@@ -1298,17 +1199,6 @@
     "date_discovered": "2026-11-06T21:16:10.438714+00:00"
   },
   {
-    "id": 18565690,
-    "company_display": "AEP",
-    "title": "Customer Design Technician Associate",
-    "location": "Pt. Pleasant, WV",
-    "url": "https://aep.wd1.myworkdayjobs.com/en-US/AEPCareerSite/job/Pt-Pleasant-WV/Customer-Design-Technician-Associate_R20829",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": "2026-11-06T23:18:26.954301+00:00",
-    "date_discovered": "2026-11-06T23:18:27.406683+00:00"
-  },
-  {
     "id": 18572963,
     "company_display": "Ing",
     "title": "Trainee im Junior Expert Programme \u2013 Backoffice Systems & Process Design (w/m/d)",
@@ -1626,5 +1516,16 @@
     "country": "international",
     "updated_at": null,
     "date_discovered": "2026-11-14T00:41:22.094664+00:00"
+  },
+  {
+    "id": 18604819,
+    "company_display": "Zoox",
+    "title": "Industrial Design Intern [Summer 2027]",
+    "location": "Foster City, CA",
+    "url": "https://jobs.lever.co/zoox/23867c45-d2df-4f87-86ff-244c864614cd",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-11-14T03:06:40.709883+00:00"
   }
 ]
