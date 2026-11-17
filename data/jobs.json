@@ -1,38 +1,5 @@
 [
   {
-    "id": 18452274,
-    "company_display": "EA",
-    "title": "UI Scripter Intern",
-    "location": "Guildford, United Kingdom \u2022 Role ID 216359 \u2022 Intern - Temporary Employee \u2022 EA Studios - Criterion Games",
-    "url": "https://jobs.ea.com/en_US/careers/JobDetail/UI-Scripter-Intern/216359",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-10-16T11:04:08.192018+00:00"
-  },
-  {
-    "id": 18453312,
-    "company_display": "Estee Lauder Companies",
-    "title": "Gobal Graphic Design Assistant Intern",
-    "location": "Neuilly Sur Seine, FR-J, France",
-    "url": "https://careers.elcompanies.com/careers/job/1168275545928",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-10-16T14:13:56.979841+00:00"
-  },
-  {
-    "id": 18455461,
-    "company_display": "Persona",
-    "title": "Product Design, Intern (Summer 2027)",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/persona/a50a3137-1c9a-4947-9f4e-1a4ef26c2bec",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-16T20:41:42.598000+00:00",
-    "date_discovered": "2026-10-16T21:06:53.763409+00:00"
-  },
-  {
     "id": 18463243,
     "company_display": "Amazon",
     "title": "UX Design Intern Luxembourg, Interaction Design",
@@ -1472,5 +1439,137 @@
     "country": "us",
     "updated_at": null,
     "date_discovered": "2026-11-14T03:06:40.709883+00:00"
+  },
+  {
+    "id": 18611042,
+    "company_display": "AbbVie",
+    "title": "Motion Designer Intern",
+    "location": "Boulogne-Billancourt, IDF",
+    "url": "https://jobs.smartrecruiters.com/AbbVie/3743990016867416-motion-designer-intern",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-11-16T09:14:53.646000+00:00",
+    "date_discovered": "2026-11-16T10:02:48.434739+00:00"
+  },
+  {
+    "id": 18612240,
+    "company_display": "Dell",
+    "title": "User Research Graduate Intern",
+    "location": "Austin, TX, USA",
+    "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/302688",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-16T00:00:00+00:00",
+    "date_discovered": "2026-11-16T15:08:59.579792+00:00"
+  },
+  {
+    "id": 18612515,
+    "company_display": "Reliable-Robotics",
+    "title": "Displays Engineer Intern (Summer 2027)",
+    "location": "Mountain View, CA",
+    "url": "https://jobs.ashbyhq.com/reliable-robotics/6112c488-7072-4ce3-8c0f-645faa0e7cf9",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-16T15:52:55.923000+00:00",
+    "date_discovered": "2026-11-16T16:07:49.692771+00:00"
+  },
+  {
+    "id": 18612627,
+    "company_display": "SharkNinja",
+    "title": "Summer 2027: HW UX/UI Design Intern (May through August)",
+    "location": "Needham, MA, USA",
+    "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721309006",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-16T16:16:27+00:00",
+    "date_discovered": "2026-11-16T16:37:33.227483+00:00"
+  },
+  {
+    "id": 18612935,
+    "company_display": "Sas-Institute",
+    "title": "JMP 2027 Summer Internship; Core User Interface Team R&D (Master's/PhD)",
+    "location": "Cary, NC",
+    "url": "https://jmp-sas.icims.com/jobs/47455/jmp-2027-summer-internship--research-%26-development-%28master%27s-phd%29/job",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-11-16T17:41:42.845217+00:00"
+  },
+  {
+    "id": 18613036,
+    "company_display": "Zoox",
+    "title": "Service Designer Intern [Summer 2027]",
+    "location": "Foster City, CA",
+    "url": "https://jobs.lever.co/zoox/9fdd6600-099c-45e3-beab-f0ec7dbc296a",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-11-16T18:05:41.256288+00:00"
+  },
+  {
+    "id": 18613037,
+    "company_display": "Workato",
+    "title": "Intern, Product Management",
+    "location": "Singapore",
+    "url": "https://www.workato.com/careers?gh_jid=8938828002#open-roles",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-11-16T17:39:53+00:00",
+    "date_discovered": "2026-11-16T18:06:17.314734+00:00"
+  },
+  {
+    "id": 18615632,
+    "company_display": "Zoox",
+    "title": "UX Designer Intern [Summer 2027]",
+    "location": "Foster City, CA",
+    "url": "https://jobs.lever.co/zoox/6a2a0d85-f466-4177-8236-eac6e2df2e93",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-11-17T02:35:31.430422+00:00"
+  },
+  {
+    "id": 18615736,
+    "company_display": "Shield AI",
+    "title": "EWIS Harness Design - Engineer I - New Grad",
+    "location": "Seattle, WA, USA",
+    "url": "https://jobs.ashbyhq.com/shield/a0ea5b02-79ed-48e8-b2a6-e31443dd5411",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-11-05T19:40:36.026000+00:00",
+    "date_discovered": "2026-11-17T02:49:00.864898+00:00"
+  },
+  {
+    "id": 18615902,
+    "company_display": "Accenture",
+    "title": "PROCURE TO PAY (P2P) PROCESS DESIGN-Procure to Pay Operations New Associate-ETT",
+    "location": "Madrid",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Madrid/PROCURE-TO-PAY--P2P--PROCESS-DESIGN-Procure-to-Pay-Operations-New-Associate-ETT_14924233",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-11-17T02:53:56.168438+00:00",
+    "date_discovered": "2026-11-17T02:57:18.965372+00:00"
+  },
+  {
+    "id": 18616113,
+    "company_display": "Havas",
+    "title": "Grpahic Designer Assistant",
+    "location": "Puteaux",
+    "url": "https://havas.wd3.myworkdayjobs.com/en-US/GroupExternalCareerSite/job/Puteaux/Grpahic-Designer-Assistant_JR0101691",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-11-17T02:59:37.854374+00:00",
+    "date_discovered": "2026-11-17T03:02:58.664835+00:00"
+  },
+  {
+    "id": 18616161,
+    "company_display": "Workday",
+    "title": "Intern, UI/UX Product Manager",
+    "location": "Costa Rica",
+    "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Costa-Rica/Intern--UI-UX-Product-Manager_JR-0111665",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-11-17T03:01:16.938924+00:00",
+    "date_discovered": "2026-11-17T03:04:56.021753+00:00"
   }
 ]
