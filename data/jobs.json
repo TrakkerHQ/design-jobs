@@ -1100,17 +1100,6 @@
     "date_discovered": "2026-11-06T18:06:53.544565+00:00"
   },
   {
-    "id": 18565062,
-    "company_display": "Garmin",
-    "title": "Aviation Human Factors Designer 1",
-    "location": "Olathe, Kansas",
-    "url": "https://careers-garmin.icims.com/jobs/21949/login",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": "2026-11-06T21:01:00+00:00",
-    "date_discovered": "2026-11-06T21:16:10.438714+00:00"
-  },
-  {
     "id": 18572963,
     "company_display": "Ing",
     "title": "Trainee im Junior Expert Programme \u2013 Backoffice Systems & Process Design (w/m/d)",
@@ -1540,17 +1529,6 @@
     "date_discovered": "2026-11-17T02:49:00.864898+00:00"
   },
   {
-    "id": 18615902,
-    "company_display": "Accenture",
-    "title": "PROCURE TO PAY (P2P) PROCESS DESIGN-Procure to Pay Operations New Associate-ETT",
-    "location": "Madrid",
-    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Madrid/PROCURE-TO-PAY--P2P--PROCESS-DESIGN-Procure-to-Pay-Operations-New-Associate-ETT_14924233",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": "2026-11-17T02:53:56.168438+00:00",
-    "date_discovered": "2026-11-17T02:57:18.965372+00:00"
-  },
-  {
     "id": 18616113,
     "company_display": "Havas",
     "title": "Grpahic Designer Assistant",
@@ -1571,5 +1549,49 @@
     "country": "international",
     "updated_at": "2026-11-17T03:01:16.938924+00:00",
     "date_discovered": "2026-11-17T03:04:56.021753+00:00"
+  },
+  {
+    "id": 18617262,
+    "company_display": "SharkNinja",
+    "title": "Product Design Engineering Intern",
+    "location": "UK - London, Battersea Power Station",
+    "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4726667006",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-11-17T09:56:44+00:00",
+    "date_discovered": "2026-11-17T10:01:30.724946+00:00"
+  },
+  {
+    "id": 18619285,
+    "company_display": "Northrop Grumman",
+    "title": "2027 Intern - Human Factors Engineering",
+    "location": "United States-Florida-Melbourne",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Human-Factors-Engineering_R10261097",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-17T17:08:17.641729+00:00",
+    "date_discovered": "2026-11-17T17:12:32.562350+00:00"
+  },
+  {
+    "id": 18619473,
+    "company_display": "Vertiv",
+    "title": "UX Design Intern (Winter/Spring 2027)",
+    "location": "Westerville, OH, USA",
+    "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20285463",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-17T00:00:00+00:00",
+    "date_discovered": "2026-11-17T17:44:10.847666+00:00"
+  },
+  {
+    "id": 18620368,
+    "company_display": "Garmin",
+    "title": "Product Designer Intern",
+    "location": "Olathe, Kansas",
+    "url": "https://careers-garmin.icims.com/jobs/22511/login",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-17T20:08:00+00:00",
+    "date_discovered": "2026-11-17T20:16:33.401325+00:00"
   }
 ]
