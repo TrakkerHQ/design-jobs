@@ -1100,15 +1100,15 @@
     "date_discovered": "2026-11-06T18:06:53.544565+00:00"
   },
   {
-    "id": 18572963,
-    "company_display": "Ing",
-    "title": "Trainee im Junior Expert Programme \u2013 Backoffice Systems & Process Design (w/m/d)",
-    "location": "Berlin",
-    "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Berlin/Trainee-im-Junior-Expert-Programme---Backoffice-Systems---Process-Design--w-m-d-_REQ-10124023-1",
+    "id": 18565690,
+    "company_display": "AEP",
+    "title": "Customer Design Technician Associate",
+    "location": "Pt. Pleasant, WV",
+    "url": "https://aep.wd1.myworkdayjobs.com/en-US/AEPCareerSite/job/Pt-Pleasant-WV/Customer-Design-Technician-Associate_R20829",
     "skill_level": "entry",
-    "country": "international",
-    "updated_at": "2026-11-09T09:10:47.252830+00:00",
-    "date_discovered": "2026-11-09T09:10:49.644511+00:00"
+    "country": "us",
+    "updated_at": "2026-11-06T23:18:26.954301+00:00",
+    "date_discovered": "2026-11-06T23:18:27.406683+00:00"
   },
   {
     "id": 18573877,
@@ -1210,17 +1210,6 @@
     "date_discovered": "2026-11-10T10:01:18.410982+00:00"
   },
   {
-    "id": 18579820,
-    "company_display": "IBM",
-    "title": "Associate Designer-User Experience Design",
-    "location": "BANGKOK, TH",
-    "url": "https://careers.ibm.com/careers/JobDetail?jobId=140004",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-11-10T12:06:15.338054+00:00"
-  },
-  {
     "id": 18580285,
     "company_display": "Vml",
     "title": "Junior Graphic Designer",
@@ -1285,17 +1274,6 @@
     "country": "us",
     "updated_at": "2026-11-10T23:30:17+00:00",
     "date_discovered": "2026-11-10T23:36:27.033342+00:00"
-  },
-  {
-    "id": 18585610,
-    "company_display": "Schneider-Electric",
-    "title": "Engineer I, Electrical Systems Design",
-    "location": "Xiamen, China",
-    "url": "https://zhcareers-se.icims.com/jobs/141665/login",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": "2026-11-11T00:00:00+00:00",
-    "date_discovered": "2026-11-11T07:10:23.939409+00:00"
   },
   {
     "id": 18587728,
@@ -1593,5 +1571,60 @@
     "country": "us",
     "updated_at": "2026-11-17T20:08:00+00:00",
     "date_discovered": "2026-11-17T20:16:33.401325+00:00"
+  },
+  {
+    "id": 18624632,
+    "company_display": "Estee Lauder Companies",
+    "title": "Graphic Design School Internship",
+    "location": "Brussels, BE-BRU, Belgium",
+    "url": "https://careers.elcompanies.com/careers/job/1168276694255",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-11-18T13:44:33.847628+00:00"
+  },
+  {
+    "id": 18625155,
+    "company_display": "Johnson & Johnson",
+    "title": "Technology 2027 Spring Co-Op",
+    "location": "New Brunswick, New Jersey, United States of America; Spring House, Pennsylvania, United States of America; Titusville, United States of America; Shepherdsville, Kentucky, United States of America; Irvine, California, USA",
+    "url": "https://jj.wd5.myworkdayjobs.com/en-US/jj/job/New-Brunswick-New-Jersey-United-States-of-America/Technology-2027-Spring-Co-Op_R-111973",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-18T15:14:35.856974+00:00",
+    "date_discovered": "2026-11-18T15:14:42.797728+00:00"
+  },
+  {
+    "id": 18625642,
+    "company_display": "JLL",
+    "title": "Graphic Designer I",
+    "location": "Columbus, OH",
+    "url": "https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Columbus-OH/Graphic-Designer-I_REQ548890",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-11-18T16:40:11.804174+00:00",
+    "date_discovered": "2026-11-18T16:41:43.359281+00:00"
+  },
+  {
+    "id": 18626342,
+    "company_display": "State Street",
+    "title": "UX/UI Design Intern - Full-time Internship (Jan - June 2027)",
+    "location": "Burlington, Massachusetts, USA",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/UX-UI-Design-Intern---Full-time-Internship--Jan---June-2027-_R-801275-1/apply",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-18T00:00:00+00:00",
+    "date_discovered": "2026-11-18T18:44:30.420866+00:00"
+  },
+  {
+    "id": 18628230,
+    "company_display": "Sigma Computing",
+    "title": "Product Design Graduate Intern (Summer 2027)",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/8208914003",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-19T00:22:15+00:00",
+    "date_discovered": "2026-11-19T00:35:32.863819+00:00"
   }
 ]
