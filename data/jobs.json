@@ -1,93 +1,5 @@
 [
   {
-    "id": 18463243,
-    "company_display": "Amazon",
-    "title": "UX Design Intern Luxembourg, Interaction Design",
-    "location": "Luxembourg, LUX",
-    "url": "https://www.amazon.jobs/en/jobs/10582414/ux-design-intern-luxembourg-interaction-design",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-10-19T11:14:04.112051+00:00"
-  },
-  {
-    "id": 18464561,
-    "company_display": "Meta",
-    "title": "Softgoods Product Design Engineering Intern",
-    "location": "Sunnyvale, CA",
-    "url": "https://www.metacareers.com/profile/job_details/1111723361506997/",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-19T15:35:14+00:00",
-    "date_discovered": "2026-10-19T15:39:01.729008+00:00"
-  },
-  {
-    "id": 18465839,
-    "company_display": "Nintendo",
-    "title": "Intern - User Experience",
-    "location": "Redmond, WA",
-    "url": "https://careers.nintendo.com/?gh_jid=4418258009",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-19T19:34:40+00:00",
-    "date_discovered": "2026-10-19T19:35:40.673899+00:00"
-  },
-  {
-    "id": 18466820,
-    "company_display": "Insomniac Games",
-    "title": "Accessibility Intern- Masters or PhD",
-    "location": "USA, Burbank, CA",
-    "url": "https://job-boards.greenhouse.io/insomniac/jobs/6227618004",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-19T22:08:51+00:00",
-    "date_discovered": "2026-10-19T22:36:26.188903+00:00"
-  },
-  {
-    "id": 18467172,
-    "company_display": "Disney",
-    "title": "Disney Experiences Graphic Design Intern, Spring 2027",
-    "location": "Kissimmee, FL, USA",
-    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Kissimmee-FL-USA/Disney-Experiences-Graphic-Design-Intern--Spring-2027_10160434",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-19T23:48:17.463141+00:00",
-    "date_discovered": "2026-10-19T23:48:18.942463+00:00"
-  },
-  {
-    "id": 18467173,
-    "company_display": "Disney",
-    "title": "Product Design (Toys) Intern, Spring 2027",
-    "location": "Kissimmee, FL, USA",
-    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Kissimmee-FL-USA/Product-Design--Toys--Intern--Spring-2027_10160487",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-19T23:48:17.466852+00:00",
-    "date_discovered": "2026-10-19T23:48:18.961122+00:00"
-  },
-  {
-    "id": 18467234,
-    "company_display": "Accenture",
-    "title": "Practica Dise\u00f1o Gr\u00e1fico/ UX - ChangeMakers Internship Program",
-    "location": "Santiago",
-    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Santiago/Practica-Diseo-Grfico--UX---ChangeMakers-Internship-Program_R00365390",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-10-20T00:12:04.921069+00:00",
-    "date_discovered": "2026-10-20T00:12:58.150232+00:00"
-  },
-  {
-    "id": 18467931,
-    "company_display": "Honeywell",
-    "title": "Graduate UX Designer",
-    "location": "Sydney, New South Wales, Australia",
-    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/159786",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": "2026-10-20T00:00:00+00:00",
-    "date_discovered": "2026-10-20T02:40:17.626989+00:00"
-  },
-  {
     "id": 18469076,
     "company_display": "Graphcore",
     "title": "Graduate Software Engineer, UX 2027",
@@ -1111,17 +1023,6 @@
     "date_discovered": "2026-11-06T23:18:27.406683+00:00"
   },
   {
-    "id": 18573877,
-    "company_display": "Logitech",
-    "title": "Spring Internship Program - Design Intern",
-    "location": "Hsinchu, Taiwan",
-    "url": "https://logitech.wd5.myworkdayjobs.com/en-US/Logitech/job/Hsinchu-Taiwan/Spring-Internship-Program---Design-Intern_148748",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-11-09T13:19:19.130717+00:00",
-    "date_discovered": "2026-11-09T13:19:19.601314+00:00"
-  },
-  {
     "id": 18574358,
     "company_display": "Capri-Holdings",
     "title": "2027 Capri Holdings Summer Corporate Internship Program \u2013 Creative Services & Marketing",
@@ -1208,6 +1109,17 @@
     "country": "international",
     "updated_at": "2026-11-10T09:49:15+00:00",
     "date_discovered": "2026-11-10T10:01:18.410982+00:00"
+  },
+  {
+    "id": 18579820,
+    "company_display": "IBM",
+    "title": "Associate Designer-User Experience Design",
+    "location": "BANGKOK, TH",
+    "url": "https://careers.ibm.com/careers/JobDetail?jobId=140004",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-11-10T12:06:15.338054+00:00"
   },
   {
     "id": 18580285,
@@ -1408,28 +1320,6 @@
     "date_discovered": "2026-11-14T03:06:40.709883+00:00"
   },
   {
-    "id": 18611042,
-    "company_display": "AbbVie",
-    "title": "Motion Designer Intern",
-    "location": "Boulogne-Billancourt, IDF",
-    "url": "https://jobs.smartrecruiters.com/AbbVie/3743990016867416-motion-designer-intern",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-11-16T09:14:53.646000+00:00",
-    "date_discovered": "2026-11-16T10:02:48.434739+00:00"
-  },
-  {
-    "id": 18612240,
-    "company_display": "Dell",
-    "title": "User Research Graduate Intern",
-    "location": "Austin, TX, USA",
-    "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/302688",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-11-16T00:00:00+00:00",
-    "date_discovered": "2026-11-16T15:08:59.579792+00:00"
-  },
-  {
     "id": 18612515,
     "company_display": "Reliable-Robotics",
     "title": "Displays Engineer Intern (Summer 2027)",
@@ -1626,5 +1516,82 @@
     "country": "us",
     "updated_at": "2026-11-19T00:22:15+00:00",
     "date_discovered": "2026-11-19T00:35:32.863819+00:00"
+  },
+  {
+    "id": 18630593,
+    "company_display": "AbbVie",
+    "title": "Motion Designer - Internship",
+    "location": "Boulogne-Billancourt, IDF",
+    "url": "https://jobs.smartrecruiters.com/AbbVie/3743990016959356-motion-designer-internship",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-11-19T11:24:30.045000+00:00",
+    "date_discovered": "2026-11-19T12:02:21.501819+00:00"
+  },
+  {
+    "id": 18631092,
+    "company_display": "Coty",
+    "title": "Fragrance Design Intern",
+    "location": "Geneva",
+    "url": "https://careers.coty.com/job/Geneva-Fragrance-Design-Intern-GE-1290/1458886833/",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-11-19T13:43:01.929412+00:00"
+  },
+  {
+    "id": 18631629,
+    "company_display": "Medtronic",
+    "title": "Quality Engineer I - Design Quality (Surgical)",
+    "location": "North Haven, Connecticut, USA",
+    "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/North-Haven-Connecticut-United-States-of-America/Quality-Engineer-I---Design-Quality--Surgical-_R82018-1",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-11-19T15:15:41.635978+00:00",
+    "date_discovered": "2026-11-19T15:15:43.556005+00:00"
+  },
+  {
+    "id": 18633189,
+    "company_display": "ServiceNow",
+    "title": "Associate Accessibility Engineer Intern",
+    "location": "Dublin, Ireland",
+    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000162586889-associate-accessibility-engineer-intern",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-11-19T19:07:07.873000+00:00",
+    "date_discovered": "2026-11-19T19:37:10.102643+00:00"
+  },
+  {
+    "id": 18633280,
+    "company_display": "Medtronic",
+    "title": "UI/UX Designer I",
+    "location": "Mounds View, Minnesota, USA",
+    "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/UI-UX-Designer-I_R81263-1",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-11-19T19:46:20.642708+00:00",
+    "date_discovered": "2026-11-19T19:46:23.819013+00:00"
+  },
+  {
+    "id": 18633297,
+    "company_display": "Centene",
+    "title": "Technology Summer 2027 Intern (Undergraduate)",
+    "location": "Remote-FL",
+    "url": "https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-FL/Centene-2027-Undergraduate-Summer-Intern_1660476",
+    "skill_level": "intern",
+    "country": "remote",
+    "updated_at": "2026-11-19T19:47:45.618663+00:00",
+    "date_discovered": "2026-11-19T19:47:46.049209+00:00"
+  },
+  {
+    "id": 18633975,
+    "company_display": "Blizzard",
+    "title": "Blizzard 2027 Summer Internships - Card Design",
+    "location": "Irvine, California, USA",
+    "url": "https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Card-Design_R028379/apply",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-19T00:00:00+00:00",
+    "date_discovered": "2026-11-19T21:45:45.251415+00:00"
   }
 ]
