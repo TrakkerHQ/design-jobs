@@ -1,104 +1,5 @@
 [
   {
-    "id": 18469076,
-    "company_display": "Graphcore",
-    "title": "Graduate Software Engineer, UX 2027",
-    "location": "Bristol, UK",
-    "url": "https://job-boards.greenhouse.io/graphcore/jobs/8894323002",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": "2026-10-20T09:35:12+00:00",
-    "date_discovered": "2026-10-20T10:00:55.131470+00:00"
-  },
-  {
-    "id": 18469747,
-    "company_display": "Graphcore",
-    "title": "UX Design Summer Intern 2027",
-    "location": "Bristol, UK",
-    "url": "https://job-boards.greenhouse.io/graphcore/jobs/8894797002",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-10-20T12:10:46+00:00",
-    "date_discovered": "2026-10-20T12:35:58.498548+00:00"
-  },
-  {
-    "id": 18469806,
-    "company_display": "Garmin",
-    "title": "Industrial Designer Intern (Spring 2027)",
-    "location": "Olathe, Kansas",
-    "url": "https://careers-garmin.icims.com/jobs/20385/login",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-20T12:31:00+00:00",
-    "date_discovered": "2026-10-20T12:45:43.198467+00:00"
-  },
-  {
-    "id": 18471005,
-    "company_display": "Patreon",
-    "title": "Product Design Intern - Summer 2027",
-    "location": "New York",
-    "url": "https://jobs.ashbyhq.com/patreon/b492a008-4218-4ec8-91dc-0fb512027849",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-20T16:13:24.994000+00:00",
-    "date_discovered": "2026-10-20T16:35:45.200010+00:00"
-  },
-  {
-    "id": 18471080,
-    "company_display": "Garmin",
-    "title": "User Interface Designer Intern",
-    "location": "Olathe, Kansas",
-    "url": "https://careers-garmin.icims.com/jobs/19938/login",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-20T16:30:00+00:00",
-    "date_discovered": "2026-10-20T16:46:27.435884+00:00"
-  },
-  {
-    "id": 18471169,
-    "company_display": "Str",
-    "title": "Graphic Design & Technical Communications Intern - Summer 2027",
-    "location": "Woburn, MA",
-    "url": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4723386006",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-20T16:39:23+00:00",
-    "date_discovered": "2026-10-20T17:06:18.189625+00:00"
-  },
-  {
-    "id": 18471170,
-    "company_display": "Insomniac Games",
-    "title": "Audio Design Intern- Undergraduate or Master's",
-    "location": "USA, Burbank, CA",
-    "url": "https://job-boards.greenhouse.io/insomniac/jobs/6226346004",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-20T16:59:37+00:00",
-    "date_discovered": "2026-10-20T17:06:34.019372+00:00"
-  },
-  {
-    "id": 18472743,
-    "company_display": "Zillow",
-    "title": "Product Design Intern",
-    "location": "Seattle-WA-2nd Ave",
-    "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Product-Design-Intern_P751613",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-20T21:49:51.576867+00:00",
-    "date_discovered": "2026-10-20T21:49:52.138119+00:00"
-  },
-  {
-    "id": 18473985,
-    "company_display": "Cummins",
-    "title": "IT Intern - \u5e73\u9762\u8bbe\u8ba1\u5b9e\u4e60\u751f",
-    "location": "Beijing, China",
-    "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1006/job/2440793",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-10-21T00:00:00+00:00",
-    "date_discovered": "2026-10-21T02:12:10.624295+00:00"
-  },
-  {
     "id": 18476191,
     "company_display": "Amazon",
     "title": "Amazon Internship Program 2027 | Marketing & Design",
@@ -119,17 +20,6 @@
     "country": "us",
     "updated_at": "2026-10-21T14:47:23.365240+00:00",
     "date_discovered": "2026-10-21T14:47:27.490705+00:00"
-  },
-  {
-    "id": 18476828,
-    "company_display": "Honeywell",
-    "title": "UX/Product Design Intern",
-    "location": "CMX, Mexico",
-    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/160056",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-10-21T00:00:00+00:00",
-    "date_discovered": "2026-10-21T15:10:40.665451+00:00"
   },
   {
     "id": 18476925,
@@ -1232,17 +1122,6 @@
     "date_discovered": "2026-11-12T17:37:40.704552+00:00"
   },
   {
-    "id": 18596038,
-    "company_display": "Dell",
-    "title": "User Experience (UX) Research Intern",
-    "location": "Austin, TX, USA",
-    "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/302635",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-11-12T00:00:00+00:00",
-    "date_discovered": "2026-11-12T21:10:23.554844+00:00"
-  },
-  {
     "id": 18600395,
     "company_display": "Chubb",
     "title": "Chubb Associate, Presentation Designer Client Services",
@@ -1573,17 +1452,6 @@
     "date_discovered": "2026-11-19T19:46:23.819013+00:00"
   },
   {
-    "id": 18633297,
-    "company_display": "Centene",
-    "title": "Technology Summer 2027 Intern (Undergraduate)",
-    "location": "Remote-FL",
-    "url": "https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-FL/Centene-2027-Undergraduate-Summer-Intern_1660476",
-    "skill_level": "intern",
-    "country": "remote",
-    "updated_at": "2026-11-19T19:47:45.618663+00:00",
-    "date_discovered": "2026-11-19T19:47:46.049209+00:00"
-  },
-  {
     "id": 18633975,
     "company_display": "Blizzard",
     "title": "Blizzard 2027 Summer Internships - Card Design",
@@ -1593,5 +1461,82 @@
     "country": "us",
     "updated_at": "2026-11-19T00:00:00+00:00",
     "date_discovered": "2026-11-19T21:45:45.251415+00:00"
+  },
+  {
+    "id": 18636761,
+    "company_display": "Blizzard",
+    "title": "Blizzard 2027 Summer Internships - Game Design (Systems Design)",
+    "location": "Irvine, California, USA",
+    "url": "https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Game-Design--Systems-Design-_R028377/apply",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-19T00:00:00+00:00",
+    "date_discovered": "2026-11-20T08:10:41.447604+00:00"
+  },
+  {
+    "id": 18637755,
+    "company_display": "BCG",
+    "title": "Delivery \u200bAI UX Design Intern",
+    "location": "Casablanca, Morocco",
+    "url": "https://studenttalent.bcg.com/careerhub/explore/jobs/790313660795?post_onboarding_pid=790313660795&amp;show_apply=1&amp;profile_type=candidate&amp;customredirect=1&utm_source=Phenom",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-11-20T00:00:00+00:00",
+    "date_discovered": "2026-11-20T13:16:43.465768+00:00"
+  },
+  {
+    "id": 18640089,
+    "company_display": "Method-Design",
+    "title": "Residency Internship Program - Design",
+    "location": "London - Remote",
+    "url": "https://job-boards.greenhouse.io/method/jobs/6302663003",
+    "skill_level": "intern",
+    "country": "remote",
+    "updated_at": "2026-11-20T19:23:38+00:00",
+    "date_discovered": "2026-11-20T19:36:49.474674+00:00"
+  },
+  {
+    "id": 18640090,
+    "company_display": "Method-Design",
+    "title": "Residency Internship Program - Design",
+    "location": "Mexico",
+    "url": "https://job-boards.greenhouse.io/method/jobs/8205866003",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-11-20T19:23:28+00:00",
+    "date_discovered": "2026-11-20T19:36:49.483645+00:00"
+  },
+  {
+    "id": 18640091,
+    "company_display": "Method-Design",
+    "title": "Residency Internship Program - Design",
+    "location": "Charlotte, Atlanta, Denver, New York, US- Remote",
+    "url": "https://job-boards.greenhouse.io/method/jobs/8205864003",
+    "skill_level": "intern",
+    "country": "remote",
+    "updated_at": "2026-11-20T19:23:55+00:00",
+    "date_discovered": "2026-11-20T19:36:49.488893+00:00"
+  },
+  {
+    "id": 18641493,
+    "company_display": "Amazon",
+    "title": "Design Technologist Intern FY2027 (Summer)",
+    "location": "Seattle, Washington, USA",
+    "url": "https://www.amazon.jobs/en/jobs/10610836/design-technologist-intern-fy2027-summer",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-11-20T23:18:27.236561+00:00"
+  },
+  {
+    "id": 18642365,
+    "company_display": "Lucid Motors",
+    "title": "Intern, Exterior Design, Sumer 2027",
+    "location": "Newark, CA",
+    "url": "https://lucidmotors.com/careers/search/5290848007?gh_jid=5290848007",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-21T01:44:12+00:00",
+    "date_discovered": "2026-11-21T02:06:27.365205+00:00"
   }
 ]
