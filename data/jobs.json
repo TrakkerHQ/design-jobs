@@ -1,82 +1,5 @@
 [
   {
-    "id": 18476191,
-    "company_display": "Amazon",
-    "title": "Amazon Internship Program 2027 | Marketing & Design",
-    "location": "Sao Paulo, BRA",
-    "url": "https://www.amazon.jobs/en/jobs/10585008/amazon-internship-program-2027-marketing-design",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-10-21T12:49:35.019366+00:00"
-  },
-  {
-    "id": 18476789,
-    "company_display": "Stanley-Black-Decker",
-    "title": "Packaging Science Engineering Intern, Graphics/Graphic Design - Summer 2027",
-    "location": "Towson, MD, USA",
-    "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Packaging-Science-Engineering-Intern--Graphics-Graphic-Design---Summer-2027_REQ-1000052821",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-21T14:47:23.365240+00:00",
-    "date_discovered": "2026-10-21T14:47:27.490705+00:00"
-  },
-  {
-    "id": 18476925,
-    "company_display": "Leidos",
-    "title": "Network Site Design Intern",
-    "location": "6314 Remote/Teleworker US",
-    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Network-Site-Design-Intern_R-00195057",
-    "skill_level": "intern",
-    "country": "remote",
-    "updated_at": "2026-10-21T15:16:58.677813+00:00",
-    "date_discovered": "2026-10-21T15:17:02.290803+00:00"
-  },
-  {
-    "id": 18477881,
-    "company_display": "KeyCorp",
-    "title": "2027 Summer Graphic Design Internship",
-    "location": "Brooklyn, OH",
-    "url": "https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Graphic-Design-Internship_R-42823",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-21T18:18:19.362328+00:00",
-    "date_discovered": "2026-10-21T18:18:20.724612+00:00"
-  },
-  {
-    "id": 18478743,
-    "company_display": "Sezzle",
-    "title": "Graphic Design Intern",
-    "location": "Peru",
-    "url": "https://job-boards.greenhouse.io/sezzle/jobs/8040652003",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-10-21T20:49:28+00:00",
-    "date_discovered": "2026-10-21T21:06:43.412290+00:00"
-  },
-  {
-    "id": 18478910,
-    "company_display": "Nucor",
-    "title": "NWS Design Intern - Summer 2027",
-    "location": "Monroe, GA",
-    "url": "https://jobs.nucor.com/job/Monroe-NWS-Design-Intern-Summer-2027-GA-30655/1442528200/",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-10-21T21:43:00.325700+00:00"
-  },
-  {
-    "id": 18482866,
-    "company_display": "Vrtx",
-    "title": "Spring 2027 Co-op, Human-AI Work and Organization Design",
-    "location": "Boston, MA",
-    "url": "https://vrtx.wd501.myworkdayjobs.com/en-US/Vertex_Careers/job/Boston-MA/Spring-2027-Co-op--Human-AI-Work-and-Organization-Design_REQ-31108-1",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-22T00:00:00+00:00",
-    "date_discovered": "2026-10-22T14:19:04.529807+00:00"
-  },
-  {
     "id": 18482984,
     "company_display": "Cibc",
     "title": "Research Operations & AI Enablement, Winter 2027 Co-op",
@@ -1307,17 +1230,6 @@
     "country": "international",
     "updated_at": "2026-11-17T09:56:44+00:00",
     "date_discovered": "2026-11-17T10:01:30.724946+00:00"
-  },
-  {
-    "id": 18619285,
-    "company_display": "Northrop Grumman",
-    "title": "2027 Intern - Human Factors Engineering",
-    "location": "United States-Florida-Melbourne",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Human-Factors-Engineering_R10261097",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-11-17T17:08:17.641729+00:00",
-    "date_discovered": "2026-11-17T17:12:32.562350+00:00"
   },
   {
     "id": 18619473,
