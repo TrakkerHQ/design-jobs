@@ -1,71 +1,5 @@
 [
   {
-    "id": 18482984,
-    "company_display": "Cibc",
-    "title": "Research Operations & AI Enablement, Winter 2027 Co-op",
-    "location": "Toronto, ON",
-    "url": "https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Research-Operations---AI-Enablement--Winter-2027-Co-op_2621713",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-10-22T14:47:21.300731+00:00",
-    "date_discovered": "2026-10-22T14:48:03.647090+00:00"
-  },
-  {
-    "id": 18483601,
-    "company_display": "Target",
-    "title": "Designer Intern, Owned Brands- Minneapolis, MN (Starting Summer, 2027)",
-    "location": "1000 Nicollet Mall, Minneapolis, MN",
-    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Designer-Intern--Owned-Brands--Minneapolis--MN--Starting-Summer--2027-_R0000478536-1",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-22T16:40:07.157314+00:00",
-    "date_discovered": "2026-10-22T16:42:20.391518+00:00"
-  },
-  {
-    "id": 18484051,
-    "company_display": "SeatGeek",
-    "title": "UX Design - Internship",
-    "location": "New York",
-    "url": "https://seatgeek.com/jobs/8248125?gh_jid=8248125",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-22T17:58:49+00:00",
-    "date_discovered": "2026-10-22T18:06:44.000809+00:00"
-  },
-  {
-    "id": 18484316,
-    "company_display": "Stanley-Black-Decker",
-    "title": "Design-To-Value Engineering Intern - Summer 2027",
-    "location": "Towson, MD, USA",
-    "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Design-To-Value-Engineering-Intern---Summer-2027_REQ-1000052535",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-22T18:47:31.983631+00:00",
-    "date_discovered": "2026-10-22T18:47:38.446520+00:00"
-  },
-  {
-    "id": 18484627,
-    "company_display": "Entegris",
-    "title": "Designer/Drafter Co-Op",
-    "location": "San Luis Obispo, CA",
-    "url": "https://entegris.wd1.myworkdayjobs.com/en-US/EntegrisCareers/job/San-Luis-Obispo-CA/Designer-Drafter-Co-Op_REQ-14429",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-22T19:47:12.139507+00:00",
-    "date_discovered": "2026-10-22T19:47:25.247519+00:00"
-  },
-  {
-    "id": 18488624,
-    "company_display": "Macys",
-    "title": "Assistant Designer",
-    "location": "New York, NY, USA",
-    "url": "https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/93740",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": "2026-10-23T00:00:00+00:00",
-    "date_discovered": "2026-10-23T14:12:20.611632+00:00"
-  },
-  {
     "id": 18490584,
     "company_display": "Intercontinental-Exchange",
     "title": "Summer Internship Program 2027 - User Experience (UX) Designer Intern",
@@ -262,17 +196,6 @@
     "country": "us",
     "updated_at": "2026-10-27T19:10:22.662000+00:00",
     "date_discovered": "2026-10-27T19:36:51.512716+00:00"
-  },
-  {
-    "id": 18510069,
-    "company_display": "Atlassian",
-    "title": "Research Intern, 2027 Summer U.S.",
-    "location": "Seattle - United States - Seattle, Washington United States",
-    "url": "https://campus-americas.icims.com/jobs/26270/research-intern%2c-2027-summer-u.s./job",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-22T21:12:00+00:00",
-    "date_discovered": "2026-10-28T04:06:10.163211+00:00"
   },
   {
     "id": 18510194,
@@ -1386,17 +1309,6 @@
     "date_discovered": "2026-11-20T08:10:41.447604+00:00"
   },
   {
-    "id": 18637755,
-    "company_display": "BCG",
-    "title": "Delivery \u200bAI UX Design Intern",
-    "location": "Casablanca, Morocco",
-    "url": "https://studenttalent.bcg.com/careerhub/explore/jobs/790313660795?post_onboarding_pid=790313660795&amp;show_apply=1&amp;profile_type=candidate&amp;customredirect=1&utm_source=Phenom",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-11-20T00:00:00+00:00",
-    "date_discovered": "2026-11-20T13:16:43.465768+00:00"
-  },
-  {
     "id": 18640089,
     "company_display": "Method-Design",
     "title": "Residency Internship Program - Design",
@@ -1450,5 +1362,27 @@
     "country": "us",
     "updated_at": "2026-11-21T01:44:12+00:00",
     "date_discovered": "2026-11-21T02:06:27.365205+00:00"
+  },
+  {
+    "id": 18646579,
+    "company_display": "PwC",
+    "title": "ETIC, Graphic Designer - Graduate Program",
+    "location": "Cairo - ETIC",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Cairo---ETIC/ETIC--Graphic-Designer---Graduate-Program_773790WD",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-11-22T11:42:12.426034+00:00",
+    "date_discovered": "2026-11-22T11:43:35.295200+00:00"
+  },
+  {
+    "id": 18647183,
+    "company_display": "Grab",
+    "title": "Intern [GIP] - Product Management & Product Design",
+    "location": "Jakarta, Indonesia",
+    "url": "https://jobs.smartrecruiters.com/Grab/744000163097869-intern-gip-product-management-product-design",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-11-22T17:17:41.940000+00:00",
+    "date_discovered": "2026-11-22T17:36:27.026394+00:00"
   }
 ]
