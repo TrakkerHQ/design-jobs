@@ -1,27 +1,5 @@
 [
   {
-    "id": 18490584,
-    "company_display": "Intercontinental-Exchange",
-    "title": "Summer Internship Program 2027 - User Experience (UX) Designer Intern",
-    "location": "New York",
-    "url": "https://careers-ice.icims.com/jobs/14111/login",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-23T20:09:00+00:00",
-    "date_discovered": "2026-10-23T20:15:29.489287+00:00"
-  },
-  {
-    "id": 18490607,
-    "company_display": "Intercontinental-Exchange",
-    "title": "Summer Internship Program 2027 - Enterprise UX Intern",
-    "location": "Atlanta, Georgia",
-    "url": "https://careers-ice.icims.com/jobs/14058/login",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-23T20:09:00+00:00",
-    "date_discovered": "2026-10-23T20:15:29.773008+00:00"
-  },
-  {
     "id": 18493676,
     "company_display": "Stanley-Black-Decker",
     "title": "UX/UI Design Intern - Summer 2027",
@@ -968,17 +946,6 @@
     "date_discovered": "2026-11-12T17:37:40.704552+00:00"
   },
   {
-    "id": 18600395,
-    "company_display": "Chubb",
-    "title": "Chubb Associate, Presentation Designer Client Services",
-    "location": "Philadelphia, PA, USA",
-    "url": "https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38577",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": "2026-11-13T00:00:00+00:00",
-    "date_discovered": "2026-11-13T14:40:21.523155+00:00"
-  },
-  {
     "id": 18600931,
     "company_display": "Pacvue",
     "title": "Graphic Design Intern",
@@ -1276,15 +1243,15 @@
     "date_discovered": "2026-11-19T19:37:10.102643+00:00"
   },
   {
-    "id": 18633280,
-    "company_display": "Medtronic",
-    "title": "UI/UX Designer I",
-    "location": "Mounds View, Minnesota, USA",
-    "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/UI-UX-Designer-I_R81263-1",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": "2026-11-19T19:46:20.642708+00:00",
-    "date_discovered": "2026-11-19T19:46:23.819013+00:00"
+    "id": 18633297,
+    "company_display": "Centene",
+    "title": "Technology Summer 2027 Intern (Undergraduate)",
+    "location": "Remote-FL",
+    "url": "https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-FL/Centene-2027-Undergraduate-Summer-Intern_1660476",
+    "skill_level": "intern",
+    "country": "remote",
+    "updated_at": "2026-11-19T19:47:45.618663+00:00",
+    "date_discovered": "2026-11-19T19:47:46.049209+00:00"
   },
   {
     "id": 18633975,
@@ -1307,6 +1274,17 @@
     "country": "us",
     "updated_at": "2026-11-19T00:00:00+00:00",
     "date_discovered": "2026-11-20T08:10:41.447604+00:00"
+  },
+  {
+    "id": 18637755,
+    "company_display": "BCG",
+    "title": "Delivery \u200bAI UX Design Intern",
+    "location": "Casablanca, Morocco",
+    "url": "https://studenttalent.bcg.com/careerhub/explore/jobs/790313660795?post_onboarding_pid=790313660795&amp;show_apply=1&amp;profile_type=candidate&amp;customredirect=1&utm_source=Phenom",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-11-20T00:00:00+00:00",
+    "date_discovered": "2026-11-20T13:16:43.465768+00:00"
   },
   {
     "id": 18640089,
@@ -1384,5 +1362,16 @@
     "country": "international",
     "updated_at": "2026-11-22T17:17:41.940000+00:00",
     "date_discovered": "2026-11-22T17:36:27.026394+00:00"
+  },
+  {
+    "id": 18654334,
+    "company_display": "Illumio",
+    "title": "Product Design Intern",
+    "location": "Sunnyvale, California - HQ",
+    "url": "https://jobs.ashbyhq.com/illumio/a047eb49-ac58-46f7-9043-b226f74a5605",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-23T23:36:43.187000+00:00",
+    "date_discovered": "2026-11-24T00:07:30.065827+00:00"
   }
 ]
