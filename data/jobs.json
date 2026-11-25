@@ -1,16 +1,5 @@
 [
   {
-    "id": 18493676,
-    "company_display": "Stanley-Black-Decker",
-    "title": "UX/UI Design Intern - Summer 2027",
-    "location": "Valley City, OH, USA",
-    "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Valley-City-OH-United-States/UX-UI-Design-Intern---Summer-2027_REQ-1000052835",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-24T12:17:01.509484+00:00",
-    "date_discovered": "2026-10-24T12:17:03.622952+00:00"
-  },
-  {
     "id": 18497348,
     "company_display": "Sezzle",
     "title": "Product Design Intern",
@@ -1373,5 +1362,27 @@
     "country": "us",
     "updated_at": "2026-11-23T23:36:43.187000+00:00",
     "date_discovered": "2026-11-24T00:07:30.065827+00:00"
+  },
+  {
+    "id": 18658204,
+    "company_display": "Schneider-Electric",
+    "title": "Engineer I, Electrical Systems Design",
+    "location": "Xiamen, China",
+    "url": "https://zhcareers-se.icims.com/jobs/141658/login",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-11-24T00:00:00+00:00",
+    "date_discovered": "2026-11-24T14:46:31.198196+00:00"
+  },
+  {
+    "id": 18658662,
+    "company_display": "Zynga",
+    "title": "AI Artist Intern (UI) - Socialpoint",
+    "location": "Barcelona, Spain",
+    "url": "https://job-boards.greenhouse.io/zyngacareers/jobs/6269988004",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-11-24T16:01:19+00:00",
+    "date_discovered": "2026-11-24T16:05:36.249940+00:00"
   }
 ]
