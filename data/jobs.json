@@ -1,16 +1,5 @@
 [
   {
-    "id": 18497348,
-    "company_display": "Sezzle",
-    "title": "Product Design Intern",
-    "location": "Peru",
-    "url": "https://job-boards.greenhouse.io/sezzle/jobs/8044001003",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-10-26T03:23:30+00:00",
-    "date_discovered": "2026-10-26T04:01:29.183360+00:00"
-  },
-  {
     "id": 18499632,
     "company_display": "AEP",
     "title": "Customer Design Technician Intern",
@@ -1144,17 +1133,6 @@
     "date_discovered": "2026-11-18T13:44:33.847628+00:00"
   },
   {
-    "id": 18625155,
-    "company_display": "Johnson & Johnson",
-    "title": "Technology 2027 Spring Co-Op",
-    "location": "New Brunswick, New Jersey, United States of America; Spring House, Pennsylvania, United States of America; Titusville, United States of America; Shepherdsville, Kentucky, United States of America; Irvine, California, USA",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/jj/job/New-Brunswick-New-Jersey-United-States-of-America/Technology-2027-Spring-Co-Op_R-111973",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-11-18T15:14:35.856974+00:00",
-    "date_discovered": "2026-11-18T15:14:42.797728+00:00"
-  },
-  {
     "id": 18625642,
     "company_display": "JLL",
     "title": "Graphic Designer I",
@@ -1265,17 +1243,6 @@
     "date_discovered": "2026-11-20T08:10:41.447604+00:00"
   },
   {
-    "id": 18637755,
-    "company_display": "BCG",
-    "title": "Delivery \u200bAI UX Design Intern",
-    "location": "Casablanca, Morocco",
-    "url": "https://studenttalent.bcg.com/careerhub/explore/jobs/790313660795?post_onboarding_pid=790313660795&amp;show_apply=1&amp;profile_type=candidate&amp;customredirect=1&utm_source=Phenom",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-11-20T00:00:00+00:00",
-    "date_discovered": "2026-11-20T13:16:43.465768+00:00"
-  },
-  {
     "id": 18640089,
     "company_display": "Method-Design",
     "title": "Residency Internship Program - Design",
@@ -1384,5 +1351,38 @@
     "country": "international",
     "updated_at": "2026-11-24T16:01:19+00:00",
     "date_discovered": "2026-11-24T16:05:36.249940+00:00"
+  },
+  {
+    "id": 18664016,
+    "company_display": "Nokia",
+    "title": "Student Intern - Data Viz & UX",
+    "location": "South Africa",
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40388",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-11-25T00:00:00+00:00",
+    "date_discovered": "2026-11-25T10:03:29.608299+00:00"
+  },
+  {
+    "id": 18664333,
+    "company_display": "Vml",
+    "title": "Junior Art Director Intern VML Health",
+    "location": "Milan, Lombardy, Italy",
+    "url": "https://www.vml.com/careers/job/8961841002?gh_jid=8961841002",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-11-25T11:19:39+00:00",
+    "date_discovered": "2026-11-25T12:01:40.127790+00:00"
+  },
+  {
+    "id": 18666733,
+    "company_display": "ICEYE",
+    "title": "ICEYE Intern Lab: Product Design",
+    "location": "Espoo",
+    "url": "https://jobs.ashbyhq.com/iceye/68505c4a-7251-4f06-90d4-51da45c27cce",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-11-25T18:25:55.584000+00:00",
+    "date_discovered": "2026-11-25T18:37:08.240776+00:00"
   }
 ]
