@@ -1,27 +1,5 @@
 [
   {
-    "id": 18499632,
-    "company_display": "AEP",
-    "title": "Customer Design Technician Intern",
-    "location": "Pulaski, VA",
-    "url": "https://aep.wd1.myworkdayjobs.com/en-US/AEPCareerSite/job/Pulaski-VA/Customer-Design-Technician-Intern_R20594",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-26T14:49:49.396028+00:00",
-    "date_discovered": "2026-10-26T14:49:49.972471+00:00"
-  },
-  {
-    "id": 18501559,
-    "company_display": "IBM",
-    "title": "Designer Spring Co-op 2027",
-    "location": "DURHAM, USA",
-    "url": "https://careers.ibm.com/careers/JobDetail?jobId=137949",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-10-26T21:10:06.132665+00:00"
-  },
-  {
     "id": 18504441,
     "company_display": "Lego",
     "title": "Student Worker - Design and Asset Governance",
@@ -31,17 +9,6 @@
     "country": "international",
     "updated_at": "2026-10-27T10:11:26.073220+00:00",
     "date_discovered": "2026-10-27T10:11:32.989194+00:00"
-  },
-  {
-    "id": 18505166,
-    "company_display": "Thermofisher",
-    "title": "Engineer I, Systems Design",
-    "location": "Birmingham, United Kingdom",
-    "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Birmingham-United-Kingdom/Engineer-I--Systems-Design_R-01372004-1/apply",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": "2026-10-27T00:00:00+00:00",
-    "date_discovered": "2026-10-27T13:17:38.447605+00:00"
   },
   {
     "id": 18505209,
@@ -75,17 +42,6 @@
     "country": "us",
     "updated_at": "2026-10-27T15:16:39.047320+00:00",
     "date_discovered": "2026-10-27T15:16:40.408893+00:00"
-  },
-  {
-    "id": 18505845,
-    "company_display": "ServiceNow",
-    "title": "Experience Team \u2013 UX Research Internships \u2013 Summer 2027",
-    "location": "San Diego, CALIFORNIA",
-    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157919529-experience-team-ux-research-internships-summer-2027",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-26T22:21:14.915000+00:00",
-    "date_discovered": "2026-10-27T15:37:38.427154+00:00"
   },
   {
     "id": 18506390,
@@ -1232,17 +1188,6 @@
     "date_discovered": "2026-11-19T21:45:45.251415+00:00"
   },
   {
-    "id": 18636761,
-    "company_display": "Blizzard",
-    "title": "Blizzard 2027 Summer Internships - Game Design (Systems Design)",
-    "location": "Irvine, California, USA",
-    "url": "https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Game-Design--Systems-Design-_R028377/apply",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-11-19T00:00:00+00:00",
-    "date_discovered": "2026-11-20T08:10:41.447604+00:00"
-  },
-  {
     "id": 18640089,
     "company_display": "Method-Design",
     "title": "Residency Internship Program - Design",
@@ -1331,6 +1276,17 @@
     "date_discovered": "2026-11-24T00:07:30.065827+00:00"
   },
   {
+    "id": 18657203,
+    "company_display": "IBM",
+    "title": "Associate Designer-User Experience Design",
+    "location": "BANGKOK, TH",
+    "url": "https://careers.ibm.com/careers/JobDetail?jobId=140005",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-11-24T12:06:39.563389+00:00"
+  },
+  {
     "id": 18658204,
     "company_display": "Schneider-Electric",
     "title": "Engineer I, Electrical Systems Design",
@@ -1384,5 +1340,16 @@
     "country": "international",
     "updated_at": "2026-11-25T18:25:55.584000+00:00",
     "date_discovered": "2026-11-25T18:37:08.240776+00:00"
+  },
+  {
+    "id": 18672604,
+    "company_display": "Ing",
+    "title": "Creative Design Intern-1",
+    "location": "ACT (Amsterdam - Acanthus)",
+    "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/ACT-Amsterdam---Acanthus/Creative-Design-Intern-1_REQ-10125363",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-11-26T15:16:39.930311+00:00",
+    "date_discovered": "2026-11-26T15:16:41.828516+00:00"
   }
 ]
