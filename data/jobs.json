@@ -1,126 +1,5 @@
 [
   {
-    "id": 18504441,
-    "company_display": "Lego",
-    "title": "Student Worker - Design and Asset Governance",
-    "location": "Billund",
-    "url": "https://lego.wd103.myworkdayjobs.com/en-US/LEGO_External/job/Billund/Student-Worker---Design-and-Asset-Governance_0000039640",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-10-27T10:11:26.073220+00:00",
-    "date_discovered": "2026-10-27T10:11:32.989194+00:00"
-  },
-  {
-    "id": 18505209,
-    "company_display": "Lila Sciences",
-    "title": "Co-Op, AI Nucleic Acid Design",
-    "location": "San Francisco, CA USA",
-    "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4465061009",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-27T13:32:30+00:00",
-    "date_discovered": "2026-10-27T13:36:56.075014+00:00"
-  },
-  {
-    "id": 18505492,
-    "company_display": "Garmin",
-    "title": "Product Designer 1",
-    "location": "Olathe, Kansas",
-    "url": "https://careers-garmin.icims.com/jobs/19863/login",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": "2026-10-27T14:01:00+00:00",
-    "date_discovered": "2026-10-27T14:16:43.816049+00:00"
-  },
-  {
-    "id": 18505792,
-    "company_display": "Dover",
-    "title": "Intern, Engineer New Product Development/Design to Value (NPD/DTV)",
-    "location": "Chester, Virginia, USA; Richmond, USA",
-    "url": "https://dover.wd103.myworkdayjobs.com/en-US/Dover/job/Chester-Virginia-USA/Intern--Engineer-New-Product-Development-Design-to-Value--NPD-DTV-_JR102047",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-27T15:16:39.047320+00:00",
-    "date_discovered": "2026-10-27T15:16:40.408893+00:00"
-  },
-  {
-    "id": 18506390,
-    "company_display": "SharkNinja",
-    "title": "Spring 2027: Industrial Design Co-op (January through June)",
-    "location": "New York, USA",
-    "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720294006",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-27T16:51:59+00:00",
-    "date_discovered": "2026-10-27T17:06:29.528009+00:00"
-  },
-  {
-    "id": 18506391,
-    "company_display": "SharkNinja",
-    "title": "Spring 2027: Industrial Design Co-op (January through June)",
-    "location": "Needham, MA, USA",
-    "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720208006",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-27T16:39:23+00:00",
-    "date_discovered": "2026-10-27T17:06:29.546515+00:00"
-  },
-  {
-    "id": 18506590,
-    "company_display": "Disney",
-    "title": "Product Design and Development Intern",
-    "location": "Madrid, Spain",
-    "url": "https://join.disneycareers.com/global/en/job/10162001",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-10-27T17:14:47+00:00",
-    "date_discovered": "2026-10-27T17:20:14.277825+00:00"
-  },
-  {
-    "id": 18507064,
-    "company_display": "Sonos",
-    "title": "Brand Design Intern (New York)",
-    "location": "Remote - New York, NY",
-    "url": "https://sonos.wd1.myworkdayjobs.com/en-US/Sonos/job/Remote---New-York-NY/Brand-Design-Intern--New-York-_R2877-1",
-    "skill_level": "intern",
-    "country": "remote",
-    "updated_at": "2026-10-27T18:51:27.936864+00:00",
-    "date_discovered": "2026-10-27T18:51:28.715943+00:00"
-  },
-  {
-    "id": 18507242,
-    "company_display": "Logitech",
-    "title": "Creative & Design Operations Intern",
-    "location": "Cork, Ireland",
-    "url": "https://logitech.wd5.myworkdayjobs.com/en-US/Logitech/job/Cork-Ireland/Creative---Design-Operations-Intern_148584",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-10-27T19:19:17.234050+00:00",
-    "date_discovered": "2026-10-27T19:19:17.938198+00:00"
-  },
-  {
-    "id": 18507250,
-    "company_display": "ServiceNow",
-    "title": "Experience Team \u2013 Associate Product Design Internships \u2013 Summer 2027",
-    "location": "San Diego, CALIFORNIA",
-    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000158130527-experience-team-associate-product-design-internships-summer-2027",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-27T19:10:22.662000+00:00",
-    "date_discovered": "2026-10-27T19:36:51.512716+00:00"
-  },
-  {
-    "id": 18510194,
-    "company_display": "Insomniac Games",
-    "title": "User Research Intern (Tools)- Master's",
-    "location": "USA, Burbank, CA",
-    "url": "https://job-boards.greenhouse.io/insomniac/jobs/6227520004",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-27T16:10:09+00:00",
-    "date_discovered": "2026-10-28T04:08:31.923726+00:00"
-  },
-  {
     "id": 18512339,
     "company_display": "Str",
     "title": "Graphic Design & Technical Communications Co-Op",
@@ -130,17 +9,6 @@
     "country": "us",
     "updated_at": "2026-10-28T13:03:48+00:00",
     "date_discovered": "2026-10-28T13:06:42.368404+00:00"
-  },
-  {
-    "id": 18512583,
-    "company_display": "Schneider-Electric",
-    "title": "Engineer I, Electrical Systems Design",
-    "location": "Salisbury, North Carolina",
-    "url": "https://careers-se.icims.com/jobs/139127/login",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": "2026-10-28T00:00:00+00:00",
-    "date_discovered": "2026-10-28T13:46:16.173681+00:00"
   },
   {
     "id": 18512997,
@@ -174,17 +42,6 @@
     "country": "us",
     "updated_at": "2026-10-28T17:07:40+00:00",
     "date_discovered": "2026-10-28T17:22:26.068465+00:00"
-  },
-  {
-    "id": 18513914,
-    "company_display": "Kroger",
-    "title": "Spring 2027 Graphic Design Intern",
-    "location": "Cincinnati, OH, USA",
-    "url": "https://eluq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/246142",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-28T00:00:00+00:00",
-    "date_discovered": "2026-10-28T17:44:06.903917+00:00"
   },
   {
     "id": 18514746,
